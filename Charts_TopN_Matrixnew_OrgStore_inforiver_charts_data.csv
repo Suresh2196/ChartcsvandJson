@@ -1,0 +1,39 @@
+financials.Country,financials.Product,financials.Discount Band,financials.Segment,financials.Month Name,Sum(financials. Sales),Sum(financials.COGS)
+Canada,Amarilla,High,Channel Partners,April,38021.399999999994,10561.5
+Canada,Amarilla,High,Channel Partners,September,29156.16,8283
+Canada,Amarilla,High,Enterprise,January,180416.25,199080
+Canada,Amarilla,High,Government,February,705600,582400
+Canada,Amarilla,High,Government,October,16841.44,13670
+Canada,Amarilla,High,Government,September,222705,183820
+Canada,Amarilla,High,Midmarket,October,22484.7,17430
+Canada,Amarilla,High,Small Business,March,229104,222000
+France,Amarilla,High,Channel Partners,August,25542,7425
+France,Amarilla,High,Channel Partners,October,14375.76,4179
+France,Amarilla,High,Enterprise,May,159421.25,171960
+France,Amarilla,High,Government,July,21076.44,17107.5
+France,Amarilla,High,Government,June,7247.1,5950
+France,Amarilla,High,Government,October,10420.619999999999,8655
+France,Amarilla,High,Midmarket,December,27972,20720
+France,Amarilla,High,Small Business,December,230310,213250
+France,Amarilla,High,Small Business,March,631125,618750
+Germany,Amarilla,High,Channel Partners,August,27799.2,7722
+Germany,Amarilla,High,Channel Partners,December,18478.8,5310
+Germany,Amarilla,High,Channel Partners,October,5040.96,1416
+Germany,Amarilla,High,Enterprise,January,352106.25,379800
+United States of America,Amarilla,High,Channel Partners,December,20794.8,6045
+United States of America,Amarilla,High,Channel Partners,October,30072.48,8742
+United States of America,Amarilla,High,Enterprise,January,65137.5,69480
+United States of America,Amarilla,High,Enterprise,May,305730,341280
+United States of America,Amarilla,High,Government,February,83160,70200
+United States of America,Amarilla,High,Midmarket,July,42713.325,31995
+United States of America,Amarilla,High,Midmarket,November,33633.6,25480
+United States of America,Amarilla,High,Small Business,March,808110,748250
+United States of America,Amarilla,Low,Channel Partners,September,23629.32,5967
+Mexico,Amarilla,High,Channel Partners,October,4280.4,1230
+Mexico,Amarilla,High,Enterprise,September,105353.75,113640
+Mexico,Amarilla,High,Government,January,46796.2,26290
+Mexico,Amarilla,High,Government,May,36702,20390
+Mexico,Amarilla,High,Government,October,117552.54000000001,98075
+Mexico,Amarilla,High,Midmarket,December,28795.95,21570
+Mexico,Amarilla,High,Midmarket,November,24123,18700
+Mexico,Amarilla,High,Small Business,October,139230,136500
