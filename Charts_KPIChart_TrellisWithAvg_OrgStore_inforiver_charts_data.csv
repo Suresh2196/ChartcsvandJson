@@ -1,4 +1,4 @@
-Orders.Segment,Orders.Country,Sum(Orders.Sales),Sum(Orders.Profit),
-Consumer,United States,1161401.345,134119.20919999966,"765733.6201,0,765733.6201"
-Corporate,United States,706146.3668,91979.13399999992,"765733.6201,0,765733.6201"
-Home Office,United States,429653.1485,60298.678500000016,"765733.6201,0,765733.6201"
+Orders.Country,Orders.Segment,Sum(Orders.Sales),Sum(Orders.Profit)
+United States,Consumer,1161401.345,134119.20919999966
+United States,Corporate,706146.3668,91979.13399999992
+United States,Home Office,429653.1485,60298.678500000016
