@@ -1,30 +1,30 @@
-Trellis.Year,Trellis.Account Level 2,Sum(Trellis.PY)
-2014,Income from discontinued operations,206
-2014,Income tax expenses,123
-2014,Research and development expenses,178
-2014,"Other financial income,net",134
-2014,Cost of sales,122
-2014,Other operating expenses,111
-2014,Selling and general administrative expenses,-197
-2014,(Blank),435
-2014,Consulting revenue,121
-2015,Software revenue,465
-2015,Income from discontinued operations,306
-2015,Income tax expenses,323
-2015,Research and development expenses,228
-2015,"Other financial income,net",234
-2015,Cost of sales,222
-2015,Support revenue,270
-2015,Other operating expenses,211
-2015,Selling and general administrative expenses,297
-2015,Consulting revenue,-221
-2016,Software revenue,565
-2016,Income from discontinued operations,406
-2016,Income tax expenses,423
-2016,Research and development expenses,328
-2016,"Other financial income,net",334
-2016,Cost of sales,322
-2016,Support revenue,370
-2016,Other operating expenses,311
-2016,Selling and general administrative expenses,397
-2016,Consulting revenue,321
+Trellis.Account Level 2,Trellis.Year,Sum(Trellis.PY)
+Income from discontinued operations,2014,206
+Income from discontinued operations,2015,306
+Income from discontinued operations,2016,406
+Income tax expenses,2014,123
+Income tax expenses,2015,323
+Income tax expenses,2016,423
+Research and development expenses,2014,178
+Research and development expenses,2015,228
+Research and development expenses,2016,328
+"Other financial income,net",2014,134
+"Other financial income,net",2015,234
+"Other financial income,net",2016,334
+Cost of sales,2014,122
+Cost of sales,2015,222
+Cost of sales,2016,322
+Other operating expenses,2014,111
+Other operating expenses,2015,211
+Other operating expenses,2016,311
+Selling and general administrative expenses,2014,-197
+Selling and general administrative expenses,2015,297
+Selling and general administrative expenses,2016,397
+blank-axis-row,2014,435
+Consulting revenue,2014,121
+Consulting revenue,2015,-221
+Consulting revenue,2016,321
+Software revenue,2015,465
+Software revenue,2016,565
+Support revenue,2015,270
+Support revenue,2016,370
