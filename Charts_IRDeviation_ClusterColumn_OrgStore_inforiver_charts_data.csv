@@ -1,0 +1,116 @@
+financials.Country,financials.Discount Band,financials.Product,Sum(financials.Gross Sales)
+United States of America,High,Amarilla,1565635.5
+United States of America,High,Carretera,832656.5
+United States of America,High,Montana,1435434
+United States of America,High,Paseo,2310862.5
+United States of America,High,Velo,3082688
+United States of America,High,VTT,3455995
+United States of America,Low,Amarilla,58653
+United States of America,Low,Carretera,200513
+United States of America,Low,Montana,1567599
+United States of America,Low,Paseo,3299621.5
+United States of America,Low,Velo,146495
+United States of America,Low,VTT,1159325
+United States of America,Medium,Amarilla,1436889
+United States of America,Medium,Carretera,972281
+United States of America,Medium,Montana,861316
+United States of America,Medium,Paseo,1836810
+United States of America,Medium,Velo,1191863
+United States of America,Medium,VTT,1407572
+United States of America,None,Amarilla,66354
+United States of America,None,Montana,9225
+United States of America,None,Paseo,18945
+United States of America,None,Velo,352625
+Canada,High,Amarilla,1625886
+Canada,High,Carretera,1195329
+Canada,High,Montana,930959
+Canada,High,Paseo,3123072
+Canada,High,Velo,1259816
+Canada,High,VTT,1755593
+Canada,Low,Amarilla,1197100
+Canada,Low,Carretera,1171365.5
+Canada,Low,Montana,62272
+Canada,Low,Paseo,2512492
+Canada,Low,Velo,511074
+Canada,Low,VTT,1242832
+Canada,Medium,Amarilla,1341697.5
+Canada,Medium,Carretera,426789
+Canada,Medium,Montana,1582355
+Canada,Medium,Paseo,1828622
+Canada,Medium,Velo,1846372
+Canada,Medium,VTT,1491448
+Canada,None,Carretera,32370
+Canada,None,Montana,406528.5
+Canada,None,Paseo,708426
+Canada,None,Velo,43125
+Canada,None,VTT,636640
+France,High,Amarilla,1299418.5
+France,High,Carretera,1456306
+France,High,Montana,920831
+France,High,Paseo,1722081
+France,High,Velo,729207.5
+France,High,VTT,576077.5
+France,Low,Amarilla,23635
+France,Low,Carretera,1331754.5
+France,Low,Montana,215005
+France,Low,Paseo,2552822
+France,Low,Velo,856363
+France,Low,VTT,1088717
+France,Medium,Amarilla,1995130.5
+France,Medium,Carretera,867099
+France,Medium,Montana,2669400
+France,Medium,Paseo,1701629
+France,Medium,Velo,2433364
+France,Medium,VTT,1125549
+France,None,Amarilla,1000480
+France,None,Carretera,32670
+France,None,Montana,37980
+France,None,Paseo,8235
+France,None,Velo,225500
+France,None,VTT,1212420
+Germany,High,Amarilla,453417
+Germany,High,Carretera,1635495
+Germany,High,Montana,747590
+Germany,High,Paseo,1116926
+Germany,High,Velo,829860
+Germany,High,VTT,781085
+Germany,Low,Amarilla,2067750
+Germany,Low,Carretera,937992
+Germany,Low,Montana,2019906
+Germany,Low,Paseo,1809022
+Germany,Low,Velo,2146175
+Germany,Low,VTT,1623964
+Germany,Medium,Amarilla,1062798
+Germany,Medium,Carretera,163599
+Germany,Medium,Montana,983482
+Germany,Medium,Paseo,1743836
+Germany,Medium,Velo,1265296
+Germany,Medium,VTT,1047366
+Germany,None,Amarilla,539239.5
+Germany,None,Carretera,569290
+Germany,None,Montana,47377
+Germany,None,Paseo,886054
+Germany,None,Velo,396572
+Germany,None,VTT,47376
+Mexico,High,Amarilla,573349
+Mexico,High,Carretera,1243047
+Mexico,High,Montana,353340
+Mexico,High,Paseo,3736307
+Mexico,High,Velo,1633118
+Mexico,High,VTT,308131
+Mexico,Low,Amarilla,1117300
+Mexico,Low,Carretera,1060650
+Mexico,Low,Montana,421705
+Mexico,Low,Paseo,799503
+Mexico,Low,Velo,294547
+Mexico,Low,VTT,2019302
+Mexico,Medium,Amarilla,1612547
+Mexico,Medium,Carretera,771264
+Mexico,Medium,Montana,953080
+Mexico,Medium,Paseo,3602125
+Mexico,Medium,Velo,572257
+Mexico,Medium,VTT,989141
+Mexico,None,Carretera,37050
+Mexico,None,Montana,324450
+Mexico,None,Paseo,294271
+Mexico,None,Velo,10451

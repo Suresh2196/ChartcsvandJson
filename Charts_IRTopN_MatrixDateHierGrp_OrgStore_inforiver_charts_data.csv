@@ -1,0 +1,21 @@
+financials.Country,financials.Date.Variation.Date Hierarchy.Year,financials.Date.Variation.Date Hierarchy.Quarter,financials.Date.Variation.Date Hierarchy.Month,financials.Date.Variation.Date Hierarchy.Day,Sum(financials. Sales),Sum(financials.COGS)
+United States of America,2013,Qtr 3,September,1,981022.8699999999,799377
+United States of America,2013,Qtr 4,October,1,1954030.74,1735196
+United States of America,2013,Qtr 4,November,1,1526745.6400000001,1423981
+United States of America,2013,Qtr 4,December,1,662615.5800000001,613290
+Canada,2013,Qtr 3,September,1,939195.2100000001,843838
+Canada,2013,Qtr 4,October,1,1229608.2799999998,960804
+Canada,2013,Qtr 4,November,1,1419826.1,1216056
+Canada,2013,Qtr 4,December,1,1587259.19,1351519
+France,2013,Qtr 3,September,1,821599.5900000001,645677
+France,2013,Qtr 4,October,1,2390476.9600000004,1958678
+France,2013,Qtr 4,November,1,985577.2999999999,865170
+France,2013,Qtr 4,December,1,935141.3200000001,851938
+Germany,2013,Qtr 3,September,1,1095488.1600000001,896960
+Germany,2013,Qtr 4,October,1,2555442.5600000005,1958406
+Germany,2013,Qtr 4,November,1,1718947.9,1535035
+Germany,2013,Qtr 4,December,1,857856.8500000001,719115
+Mexico,2013,Qtr 3,September,1,646694.2000000001,534545
+Mexico,2013,Qtr 4,October,1,1166052.5599999998,1024732
+Mexico,2013,Qtr 4,November,1,1616106.36,1461459
+Mexico,2013,Qtr 4,December,1,1325568.1400000001,1141015

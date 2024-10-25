@@ -1,0 +1,21 @@
+financials.Country,financials.Discount Band,Sum(financials. Sales)
+United States of America,High,11140926.280000001
+United States of America,Low,6273404.135000001
+United States of America,Medium,7168350.749999999
+United States of America,None,447149
+Canada,High,8657237.659999998
+Canada,Low,6537899.370000001
+Canada,Medium,7865428.355
+Canada,None,1827089.5
+France,High,5865834.735
+France,Low,5913163.185
+France,Medium,10057889.36
+France,None,2517285
+Germany,High,4878794.360000001
+Germany,Low,10316608.08
+Germany,Medium,5824029.879999998
+Germany,None,2485908.5
+Mexico,High,6829693.690000001
+Mexico,Low,5588703.93
+Mexico,Medium,7864732.489999999
+Mexico,None,666222
