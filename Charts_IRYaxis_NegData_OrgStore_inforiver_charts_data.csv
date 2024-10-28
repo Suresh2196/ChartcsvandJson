@@ -1,0 +1,30 @@
+Trellis.Account Level 2,Trellis.Year,Sum(Trellis.AC),Sum(Trellis.PY)
+blank-axis-row,2014,1198,435
+Consulting revenue,2014,128,121
+Consulting revenue,2015,428,-221
+Consulting revenue,2016,528,321
+Cost of sales,2014,,122
+Cost of sales,2015,,222
+Cost of sales,2016,,322
+Income from discontinued operations,2014,,206
+Income from discontinued operations,2015,,306
+Income from discontinued operations,2016,,406
+Income tax expenses,2014,,123
+Income tax expenses,2015,,323
+Income tax expenses,2016,,423
+"Other financial income,net",2014,,134
+"Other financial income,net",2015,,234
+"Other financial income,net",2016,,334
+Other operating expenses,2014,,111
+Other operating expenses,2015,,211
+Other operating expenses,2016,,311
+Research and development expenses,2014,,178
+Research and development expenses,2015,,228
+Research and development expenses,2016,,328
+Selling and general administrative expenses,2014,,-197
+Selling and general administrative expenses,2015,,297
+Selling and general administrative expenses,2016,,397
+Support revenue,2015,620,270
+Support revenue,2016,720,370
+Software revenue,2015,578,465
+Software revenue,2016,678,565

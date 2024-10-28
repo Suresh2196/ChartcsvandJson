@@ -1,0 +1,38 @@
+financials.Country,financials.Month Name,financials.Discount Band,Sum(financials. Sales),Sum(financials.Profit)
+United States of America,April,High,398041.95,-21478.05
+United States of America,April,Low,714530.025,116817.525
+United States of America,April,Medium,480616.5,92476.5
+United States of America,April,None,23436,17577
+United States of America,August,High,1539783,174713
+United States of America,August,Medium,89166.12,35476.119999999995
+United States of America,August,None,378317,33374
+United States of America,December,High,298477.89999999997,-5611.100000000002
+Canada,April,High,62901.74999999999,32585.249999999996
+Canada,April,Low,492578.7,119663.70000000001
+Canada,April,Medium,1038082.5,87457.5
+Canada,August,High,75240.45,25710.449999999997
+Canada,August,Low,672237.15,83827.15
+Canada,August,Medium,204565.44,55393.44
+Canada,December,High,274890,-1030
+France,April,High,483846.36,27936.36
+France,April,Low,591031.575,43171.575000000004
+France,April,Medium,257984.76,65389.26000000001
+France,August,High,166698.14,4913.139999999999
+France,August,Medium,613103.95,86743.95
+France,December,High,1391936,110736
+Germany,April,High,367784,50944
+Germany,April,Low,457428,78003
+Germany,April,Medium,8107.96,1812.96
+Germany,April,None,561493.5,46639.5
+Germany,August,High,321792.95,-17969.05
+Germany,August,Low,535392,70642
+Germany,August,Medium,189570.21999999997,44420.22
+Germany,December,High,685942.6399999999,154934.64
+Mexico,April,High,59442.05,20977.050000000003
+Mexico,April,Low,151182.24,16554.24
+Mexico,April,Medium,816287.2,133457.2
+Mexico,August,High,26486.4,6646.4000000000015
+Mexico,August,Low,557459,130539
+Mexico,August,Medium,201229.6,6970.6
+Mexico,August,None,293581,49666
+Mexico,December,High,409267,-853
