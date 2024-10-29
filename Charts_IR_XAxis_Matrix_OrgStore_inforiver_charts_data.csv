@@ -1,0 +1,37 @@
+Opportunities.Campaign Name,Opportunities.Decision Maker Identified,Opportunities.DaysToClose,CountNonNull(Opportunities.Status)
+blank-axis-row,false,48,2
+blank-axis-row,false,52,7
+blank-axis-row,false,54,8
+blank-axis-row,false,58,27
+blank-axis-row,false,59,2
+blank-axis-row,false,60,24
+blank-axis-row,false,62,9
+blank-axis-row,false,64,11
+blank-axis-row,false,66,90
+blank-axis-row,false,68,34
+blank-axis-row,false,70,91
+Consumer Tradeshow,false,52,1
+Consumer Tradeshow,false,54,1
+Consumer Tradeshow,false,58,1
+Consumer Tradeshow,false,60,1
+Consumer Tradeshow,false,62,2
+Consumer Tradeshow,false,66,10
+Consumer Tradeshow,false,68,2
+Consumer Tradeshow,false,70,2
+Customer Care Campaign,false,58,1
+Customer Care Campaign,false,60,4
+Customer Care Campaign,false,66,3
+Customer Care Campaign,false,68,1
+Customer Care Campaign,false,70,2
+New Product Releases,false,64,1
+New Product Releases,false,66,2
+New Product Releases,false,68,1
+New Product Releases,false,70,7
+Twitter,false,64,1
+Twitter,false,66,2
+Twitter,false,70,4
+Customer Follow-up,false,66,2
+Customer Follow-up,false,70,5
+Monthly Newsletter,false,66,1
+Monthly Newsletter,false,70,5
+Market Trends Newsletter,false,70,4

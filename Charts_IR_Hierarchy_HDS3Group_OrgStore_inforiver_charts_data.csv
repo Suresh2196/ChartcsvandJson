@@ -1,0 +1,36 @@
+financials.Country,financials.Product,financials.Discount Band,financials.Segment,Sum(financials. Sales),Sum(financials.COGS)
+United States of America,Amarilla,High,Channel Partners,50867.28,14787
+United States of America,Amarilla,High,Enterprise,370867.5,410760
+United States of America,Amarilla,High,Government,83160,70200
+United States of America,Amarilla,High,Midmarket,76346.92499999999,57475
+United States of America,Amarilla,High,Small Business,808110,748250
+United States of America,Amarilla,Low,Channel Partners,23629.32,5967
+United States of America,Amarilla,Low,Government,24225.6,12360
+United States of America,Amarilla,Low,Midmarket,9662.4,6710
+Canada,Amarilla,High,Channel Partners,67177.56,18844.5
+Canada,Amarilla,High,Enterprise,180416.25,199080
+Canada,Amarilla,High,Government,945146.44,779890
+Canada,Amarilla,High,Midmarket,22484.7,17430
+Canada,Amarilla,High,Small Business,229104,222000
+Canada,Amarilla,Low,Government,597408,462280
+Canada,Amarilla,Low,Small Business,563304,479000
+France,Amarilla,High,Channel Partners,39917.76,11604
+France,Amarilla,High,Enterprise,159421.25,171960
+France,Amarilla,High,Government,38744.16,31712.5
+France,Amarilla,High,Midmarket,27972,20720
+France,Amarilla,High,Small Business,861435,832000
+France,Amarilla,Low,Government,18443.6,9410
+France,Amarilla,Low,Midmarket,4766.85,3210
+Germany,Amarilla,High,Channel Partners,51318.96000000001,14448
+Germany,Amarilla,High,Enterprise,352106.25,379800
+Germany,Amarilla,Low,Enterprise,278810,273120
+Germany,Amarilla,Low,Government,1658090,1266980
+Germany,Amarilla,Low,Small Business,76146,64750
+Mexico,Amarilla,High,Channel Partners,4280.4,1230
+Mexico,Amarilla,High,Enterprise,105353.75,113640
+Mexico,Amarilla,High,Government,201050.74000000002,144755
+Mexico,Amarilla,High,Midmarket,52918.95,40270
+Mexico,Amarilla,High,Small Business,139230,136500
+Mexico,Amarilla,Low,Enterprise,128880,128880
+Mexico,Amarilla,Low,Government,626640,484900
+Mexico,Amarilla,Low,Small Business,323694,275250
