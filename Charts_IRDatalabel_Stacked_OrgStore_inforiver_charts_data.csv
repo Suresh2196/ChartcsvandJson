@@ -1,0 +1,31 @@
+financials.Country,financials.Product,Sum(financials.Gross Sales),Sum(financials.COGS)
+United States of America,Amarilla,3127531.5,2448491
+United States of America,Carretera,2005450.5,1601348
+United States of America,Montana,3873574,3209605
+United States of America,Paseo,7466239,5923722.5
+United States of America,Velo,4773671,4033427
+United States of America,VTT,6022892,4817696
+Canada,Amarilla,4164683.5,3208904.5
+Canada,Carretera,2825853.5,2174099
+Canada,Montana,2982114.5,2390052
+Canada,Paseo,8172612,6346503
+Canada,Velo,3660387,2958922
+Canada,VTT,5126513,4279945.5
+France,Amarilla,4318664,3348559.5
+France,Carretera,3687829.5,3034457
+France,Montana,3843216,3066144
+France,Paseo,5984767,4759002.5
+France,Velo,4244434.5,3270166
+France,VTT,4002763.5,3094822.5
+Germany,Amarilla,4123204.5,3348113
+Germany,Carretera,3306376,2692666
+Germany,Montana,3798355,3006606
+Germany,Paseo,5555838,4485398
+Germany,Velo,4637903,3604118
+Germany,VTT,3499791,2688051
+Mexico,Amarilla,3303196,2578944
+Mexico,Carretera,3112011,2485933
+Mexico,Montana,2052575,1603640
+Mexico,Paseo,8432206,6699080
+Mexico,Velo,2510373,2077434
+Mexico,VTT,3316574,2596798
