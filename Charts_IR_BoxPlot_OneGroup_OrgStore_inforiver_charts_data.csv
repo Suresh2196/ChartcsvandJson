@@ -1,0 +1,9 @@
+Month Value.Date.Variation.Date Hierarchy.Year,Month Value.Date.Variation.Date Hierarchy.Quarter,Sum(Month Value.Upper quartile),Sum(Month Value.Lower quartile),Sum(Month Value.Median),Sum(Month Value.Whisker Min),Sum(Month Value.Whisker Max),Sum(Month Value.Cpk Value)
+2022,Qtr 1,242,149,190,95,299,176
+2022,Qtr 2,252,170,215,55,282,175
+2022,Qtr 3,211,112,175,66,283,178
+2022,Qtr 4,255,124,193,62,292,167
+2023,Qtr 1,235,123,190,76,288,193
+2023,Qtr 2,261,124,179,83,291,157
+2023,Qtr 3,218,112,158,74,290,179
+2023,Qtr 4,244,129,202,73,280,162
