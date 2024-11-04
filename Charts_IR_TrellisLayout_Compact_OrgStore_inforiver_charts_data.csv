@@ -1,0 +1,657 @@
+Orders.Sub-Category,Orders.State,Sum(Orders.Profit)
+Copiers,Alabama,314.9895
+Copiers,California,7889.8519
+Copiers,Colorado,164.997
+Copiers,Delaware,5039.9856
+Copiers,Florida,401.9917999999999
+Copiers,Georgia,1439.976
+Copiers,Illinois,1831.9665999999997
+Copiers,Indiana,8849.966999999999
+Copiers,Kentucky,629.991
+Copiers,Massachusetts,467.9922
+Copiers,Michigan,484.988
+Copiers,Minnesota,274.995
+Copiers,Missouri,2536.9631999999997
+Copiers,Montana,1379.9769999999999
+Copiers,New York,5839.949999999999
+Copiers,North Carolina,119.99599999999992
+Copiers,Ohio,446.99229999999983
+Copiers,Pennsylvania,1735.982899999999
+Copiers,Rhode Island,3491.9388
+Copiers,Texas,1629.9615000000001
+Copiers,Utah,449.9849999999999
+Copiers,Virginia,751.9624
+Copiers,Washington,9442.4242
+Phones,Alabama,707.1788000000001
+Phones,Arizona,818.6727999999997
+Phones,Arkansas,577.7685999999999
+Phones,California,6309.119699999999
+Phones,Colorado,523.1144999999997
+Phones,Connecticut,587.1789
+Phones,Delaware,992.3588999999998
+Phones,Florida,1354.7557
+Phones,Georgia,1881.7586000000003
+Phones,Idaho,54.309900000000006
+Phones,Illinois,1682.6886999999992
+Phones,Indiana,1558.0268999999996
+Phones,Iowa,318.36819999999994
+Phones,Kansas,148.70259999999996
+Phones,Kentucky,1406.3602
+Phones,Louisiana,181.472
+Phones,Maine,131.35499999999996
+Phones,Maryland,698.1856000000001
+Phones,Massachusetts,1016.1552999999998
+Phones,Michigan,1810.1694
+Phones,Minnesota,187.08220000000003
+Phones,Mississippi,231.75209999999996
+Phones,Missouri,222.78430000000003
+Phones,Montana,51.73359999999995
+Phones,Nebraska,891.6314999999998
+Phones,Nevada,243.68649999999985
+Phones,New Hampshire,247.48499999999993
+Phones,New Jersey,1110.6172
+Phones,New Mexico,72.94550000000001
+Phones,New York,13399.189200000003
+Phones,North Carolina,860.4341999999997
+Phones,Ohio,-2778.8577999999998
+Phones,Oklahoma,1185.2144
+Phones,Oregon,248.15029999999996
+Phones,Pennsylvania,-3606.9276
+Phones,Rhode Island,181.31130000000002
+Phones,South Carolina,412.70470000000006
+Phones,Tennessee,305.22470000000004
+Phones,Texas,3222.4607999999994
+Phones,Utah,90.42779999999996
+Phones,Vermont,336.635
+Phones,Virginia,2847.8657000000003
+Phones,Washington,698.5819999999998
+Phones,Wisconsin,1095.8977
+Accessories,Alabama,816.4346
+Accessories,Arizona,224.76939999999973
+Accessories,Arkansas,683.6698000000001
+Accessories,California,11095.656499999997
+Accessories,Colorado,224.55939999999998
+Accessories,Connecticut,193.75470000000004
+Accessories,Delaware,175.7004
+Accessories,Florida,750.0682999999997
+Accessories,Georgia,887.8450999999998
+Accessories,Idaho,37.787400000000005
+Accessories,Illinois,981.8643999999998
+Accessories,Indiana,570.2304000000001
+Accessories,Kansas,26.284
+Accessories,Kentucky,703.4852000000001
+Accessories,Louisiana,593.5581999999999
+Accessories,Maine,119.67779999999999
+Accessories,Maryland,415.45550000000014
+Accessories,Massachusetts,271.6026
+Accessories,Michigan,1655.0608000000007
+Accessories,Minnesota,556.7236
+Accessories,Mississippi,754.6503
+Accessories,Missouri,254.9793
+Accessories,Montana,91.32480000000001
+Accessories,Nebraska,69.8835
+Accessories,Nevada,89.4291
+Accessories,New Hampshire,655.2223
+Accessories,New Jersey,349.62859999999995
+Accessories,New Mexico,264.33729999999997
+Accessories,New York,5627.570199999998
+Accessories,North Carolina,821.0744
+Accessories,Ohio,1452.8700999999994
+Accessories,Oklahoma,395.6858999999999
+Accessories,Oregon,152.1385
+Accessories,Pennsylvania,898.9686999999992
+Accessories,Rhode Island,924.7622000000001
+Accessories,South Carolina,40.882799999999996
+Accessories,South Dakota,133.89660000000003
+Accessories,Tennessee,35.21849999999997
+Accessories,Texas,1105.8500999999992
+Accessories,Utah,41.32229999999999
+Accessories,Vermont,110.65129999999999
+Accessories,Virginia,917.6551999999998
+Accessories,Washington,4263.2735999999995
+Accessories,Wisconsin,1501.1719999999996
+Paper,Alabama,424.21239999999995
+Paper,Arizona,842.0393999999999
+Paper,Arkansas,382.76259999999996
+Paper,California,7977.539500000002
+Paper,Colorado,298.5881999999999
+Paper,Connecticut,378.8327999999999
+Paper,Delaware,211.04019999999997
+Paper,District of Columbia,34.4116
+Paper,Florida,833.0004000000001
+Paper,Georgia,1417.8822000000005
+Paper,Idaho,81.322
+Paper,Illinois,1183.6765999999998
+Paper,Indiana,888.3797
+Paper,Iowa,149.73549999999997
+Paper,Kansas,147.6816
+Paper,Kentucky,502.21109999999993
+Paper,Louisiana,49.89600000000001
+Paper,Maine,124.6752
+Paper,Maryland,504.91610000000003
+Paper,Massachusetts,831.8217
+Paper,Michigan,961.3903999999999
+Paper,Minnesota,155.50740000000005
+Paper,Mississippi,344.06960000000004
+Paper,Missouri,144.0062
+Paper,Montana,19.321199999999997
+Paper,Nebraska,160.31819999999996
+Paper,Nevada,153.59199999999998
+Paper,New Hampshire,132.9606
+Paper,New Jersey,683.3578
+Paper,New Mexico,298.9393999999999
+Paper,New York,4023.079900000001
+Paper,North Carolina,898.8403000000001
+Paper,Ohio,744.0522000000001
+Paper,Oklahoma,92.8482
+Paper,Oregon,324.05800000000005
+Paper,Pennsylvania,813.0179
+Paper,Rhode Island,270.4294
+Paper,South Carolina,159.8973
+Paper,Tennessee,363.8583
+Paper,Texas,2422.9702999999995
+Paper,Utah,553.4284000000001
+Paper,Vermont,43.333999999999996
+Paper,Virginia,570.4312
+Paper,Washington,1570.4083000000003
+Paper,West Virginia,219.4416
+Paper,Wisconsin,665.3864
+Binders,Alabama,227.76879999999997
+Binders,Arizona,-1646.7484000000002
+Binders,Arkansas,1356.2051999999999
+Binders,California,10002.1537
+Binders,Colorado,-379.4918999999999
+Binders,Connecticut,176.28
+Binders,Delaware,1159.597
+Binders,District of Columbia,4.4344
+Binders,Florida,-2760.7303999999986
+Binders,Georgia,5717.307499999999
+Binders,Idaho,24.634699999999995
+Binders,Illinois,-7204.324200000003
+Binders,Indiana,1827.1562000000004
+Binders,Iowa,118.7179
+Binders,Kansas,279.44319999999993
+Binders,Kentucky,1740.0312
+Binders,Louisiana,290.5414
+Binders,Maine,17.3102
+Binders,Maryland,1595.5108000000002
+Binders,Massachusetts,1000.7748
+Binders,Michigan,11079.505
+Binders,Minnesota,6041.276000000001
+Binders,Mississippi,457.68709999999993
+Binders,Missouri,898.4064
+Binders,Montana,157.39839999999998
+Binders,Nebraska,60.4036
+Binders,Nevada,1768.443
+Binders,New Hampshire,359.06479999999993
+Binders,New Jersey,1649.0788
+Binders,New Mexico,45.083999999999996
+Binders,New York,11096.025999999994
+Binders,North Carolina,-2007.8254
+Binders,North Dakota,12.690999999999999
+Binders,Ohio,-1400.6681000000005
+Binders,Oklahoma,209.75369999999998
+Binders,Oregon,-198.7411
+Binders,Pennsylvania,-4570.975000000001
+Binders,Rhode Island,138.0673
+Binders,South Carolina,246.6088
+Binders,South Dakota,55.6446
+Binders,Tennessee,-3635.918099999999
+Binders,Texas,-14705.073799999996
+Binders,Utah,262.2578
+Binders,Virginia,2268.9879
+Binders,Washington,6061.8114
+Binders,West Virginia,43.433600000000006
+Binders,Wisconsin,282.7635
+Chairs,Alabama,660.9663999999999
+Chairs,Arizona,121.60489999999949
+Chairs,Arkansas,369.54899999999986
+Chairs,California,2435.971499999998
+Chairs,Colorado,556.5215999999998
+Chairs,Connecticut,696.2570000000001
+Chairs,Delaware,342.13819999999987
+Chairs,District of Columbia,316.8825
+Chairs,Florida,-37.55860000000027
+Chairs,Georgia,414.36289999999997
+Chairs,Idaho,4.22939999999997
+Chairs,Illinois,-1578.6955000000007
+Chairs,Indiana,1587.5620999999996
+Chairs,Iowa,394.26800000000003
+Chairs,Kentucky,2552.2604999999994
+Chairs,Louisiana,228.78879999999995
+Chairs,Maryland,969.6909999999998
+Chairs,Massachusetts,962.1228000000001
+Chairs,Michigan,3001.650599999999
+Chairs,Minnesota,1703.9146999999998
+Chairs,Mississippi,225.264
+Chairs,Missouri,15.222499999999997
+Chairs,Nebraska,112.78800000000001
+Chairs,Nevada,-109.58220000000011
+Chairs,New Jersey,530.9126
+Chairs,New Mexico,119.58779999999994
+Chairs,New York,7111.011899999997
+Chairs,North Carolina,142.7238999999999
+Chairs,Ohio,-649.3542000000002
+Chairs,Oklahoma,1106.7992
+Chairs,Oregon,106.11000000000001
+Chairs,Pennsylvania,-1993.4180000000003
+Chairs,Rhode Island,892.7267999999999
+Chairs,South Carolina,543.076
+Chairs,South Dakota,27.440999999999995
+Chairs,Tennessee,150.42539999999977
+Chairs,Texas,-2515.649
+Chairs,Vermont,178.79999999999998
+Chairs,Virginia,1362.2309999999998
+Chairs,Washington,692.9452999999991
+Chairs,Wisconsin,2737.4204999999993
+Chairs,Wyoming,100.19599999999997
+Storage,Alabama,147.85639999999998
+Storage,Arizona,-271.1709000000001
+Storage,Arkansas,32.089599999999976
+Storage,California,7204.137199999992
+Storage,Colorado,-212.69980000000027
+Storage,Connecticut,355.60810000000004
+Storage,Delaware,1119.3837000000003
+Storage,Florida,-203.10680000000025
+Storage,Georgia,1109.9142
+Storage,Idaho,28.628999999999962
+Storage,Illinois,-257.4584000000002
+Storage,Indiana,555.2860999999999
+Storage,Iowa,3.5047999999999995
+Storage,Kansas,101.6884
+Storage,Kentucky,855.3874
+Storage,Louisiana,43.65679999999995
+Storage,Maryland,822.4622999999997
+Storage,Massachusetts,933.1968999999998
+Storage,Michigan,940.4051999999999
+Storage,Minnesota,561.3061999999998
+Storage,Mississippi,44.64479999999998
+Storage,Missouri,322.27779999999996
+Storage,Montana,104.94889999999998
+Storage,Nebraska,138.673
+Storage,Nevada,238.6529999999999
+Storage,New Hampshire,33.71799999999999
+Storage,New Jersey,779.1128000000001
+Storage,New Mexico,78.1557
+Storage,New York,4338.2179
+Storage,North Carolina,-86.2088000000002
+Storage,North Dakota,162.09479999999996
+Storage,Ohio,-276.33640000000014
+Storage,Oklahoma,100.37230000000001
+Storage,Oregon,-410.77290000000005
+Storage,Pennsylvania,-1434.3118000000004
+Storage,Rhode Island,1311.6042999999997
+Storage,South Carolina,118.35599999999994
+Storage,Tennessee,-333.57390000000015
+Storage,Texas,-763.705400000001
+Storage,Utah,153.7654
+Storage,Vermont,406.71539999999993
+Storage,Virginia,545.2807999999998
+Storage,Washington,1731.6766000000002
+Storage,Wisconsin,105.39170000000001
+Appliances,Alabama,56.20320000000001
+Appliances,Arizona,83.25479999999997
+Appliances,California,6992.231799999999
+Appliances,Colorado,141.42069999999995
+Appliances,Connecticut,471.8696999999999
+Appliances,Delaware,44.364599999999996
+Appliances,Florida,349.75639999999976
+Appliances,Georgia,1058.5832
+Appliances,Idaho,66.07359999999997
+Appliances,Illinois,-2482.4187
+Appliances,Indiana,1259.8645
+Appliances,Kansas,22.9488
+Appliances,Kentucky,371.18519999999995
+Appliances,Louisiana,4.681800000000001
+Appliances,Maine,27.529200000000003
+Appliances,Maryland,494.2301999999999
+Appliances,Massachusetts,999.7392999999997
+Appliances,Michigan,1086.0807999999995
+Appliances,Minnesota,863.8521
+Appliances,Mississippi,176.9454
+Appliances,Missouri,1226.0318000000002
+Appliances,Nebraska,170.1778
+Appliances,Nevada,27.212599999999995
+Appliances,New Hampshire,9.3184
+Appliances,New Jersey,1203.438
+Appliances,New York,3807.7644999999993
+Appliances,North Carolina,485.6745999999998
+Appliances,Ohio,486.2552999999997
+Appliances,Oklahoma,471.5794999999999
+Appliances,Oregon,54.08559999999999
+Appliances,Pennsylvania,694.2149999999999
+Appliances,Rhode Island,0.6659999999999999
+Appliances,South Dakota,112.40640000000002
+Appliances,Tennessee,203.1673
+Appliances,Texas,-6147.222500000001
+Appliances,Utah,305.1300000000001
+Appliances,Vermont,152.02319999999997
+Appliances,Virginia,1417.7424999999998
+Appliances,Washington,591.8607999999999
+Appliances,Wisconsin,778.0820000000001
+Furnishings,Alabama,14.348799999999999
+Furnishings,Arizona,284.5497
+Furnishings,Arkansas,194.13080000000002
+Furnishings,California,5611.560600000001
+Furnishings,Colorado,144.13589999999994
+Furnishings,Connecticut,92.96109999999997
+Furnishings,Delaware,137.531
+Furnishings,District of Columbia,33.201
+Furnishings,Florida,391.75959999999986
+Furnishings,Georgia,613.8860999999999
+Furnishings,Idaho,110.0308
+Furnishings,Illinois,-2631.976600000001
+Furnishings,Indiana,180.79139999999992
+Furnishings,Iowa,19.1457
+Furnishings,Kansas,36.96959999999999
+Furnishings,Kentucky,456.66049999999996
+Furnishings,Louisiana,31.618599999999994
+Furnishings,Maine,33.9388
+Furnishings,Maryland,901.648
+Furnishings,Massachusetts,259.151
+Furnishings,Michigan,435.37790000000007
+Furnishings,Minnesota,49.534200000000006
+Furnishings,Mississippi,182.163
+Furnishings,Missouri,195.236
+Furnishings,Montana,21.7532
+Furnishings,Nebraska,405.64839999999987
+Furnishings,Nevada,155.7951
+Furnishings,New Hampshire,259.2534
+Furnishings,New Jersey,311.31530000000004
+Furnishings,New Mexico,132.0039
+Furnishings,New York,2931.4346
+Furnishings,North Carolina,153.04469999999995
+Furnishings,Ohio,517.4190999999998
+Furnishings,Oklahoma,412.46639999999996
+Furnishings,Oregon,72.026
+Furnishings,Pennsylvania,282.2119999999997
+Furnishings,Rhode Island,121.3418
+Furnishings,South Carolina,69.76789999999995
+Furnishings,Tennessee,310.6829
+Furnishings,Texas,-3312.678600000001
+Furnishings,Utah,54.570899999999995
+Furnishings,Virginia,1024.6199999999997
+Furnishings,Washington,1054.8443000000002
+Furnishings,Wisconsin,303.2688
+Envelopes,Alabama,52.62479999999999
+Envelopes,Arizona,75.1514
+Envelopes,Arkansas,148.60739999999998
+Envelopes,California,1529.4161
+Envelopes,Colorado,27.059699999999996
+Envelopes,Connecticut,5.1042000000000005
+Envelopes,Delaware,138.33769999999998
+Envelopes,Florida,72.56889999999999
+Envelopes,Georgia,211.0561
+Envelopes,Illinois,132.52939999999998
+Envelopes,Indiana,412.17470000000003
+Envelopes,Iowa,6.370799999999999
+Envelopes,Kentucky,48.07659999999999
+Envelopes,Louisiana,30.809199999999997
+Envelopes,Maryland,153.08999999999997
+Envelopes,Michigan,141.62900000000002
+Envelopes,Minnesota,14.9744
+Envelopes,Mississippi,43.490899999999996
+Envelopes,Missouri,33.4546
+Envelopes,New Jersey,72.1862
+Envelopes,New Mexico,13.347999999999997
+Envelopes,New York,831.0267
+Envelopes,North Carolina,139.70609999999996
+Envelopes,Ohio,194.6051
+Envelopes,Oklahoma,188.2194
+Envelopes,Oregon,18.0268
+Envelopes,Pennsylvania,417.10029999999995
+Envelopes,South Carolina,149.8595
+Envelopes,Tennessee,62.26859999999999
+Envelopes,Texas,848.1759999999997
+Envelopes,Vermont,0.9587999999999999
+Envelopes,Virginia,506.4088999999999
+Envelopes,Washington,245.7604
+Art,Alabama,88.53439999999998
+Art,Arizona,140.94339999999997
+Art,Arkansas,23.731799999999996
+Art,California,1614.8365
+Art,Colorado,25.09429999999999
+Art,Connecticut,70.4846
+Art,Delaware,159.63119999999998
+Art,District of Columbia,22.0974
+Art,Florida,77.9391
+Art,Georgia,159.71279999999996
+Art,Illinois,138.95409999999998
+Art,Indiana,123.61339999999998
+Art,Iowa,45.49379999999999
+Art,Kansas,45.95159999999999
+Art,Kentucky,98.606
+Art,Louisiana,36.992000000000004
+Art,Maryland,132.7864
+Art,Massachusetts,66.8097
+Art,Michigan,301.3652
+Art,Minnesota,36.5706
+Art,Mississippi,162.5556
+Art,Missouri,66.1596
+Art,Nebraska,5.0596
+Art,Nevada,59.578799999999994
+Art,New Hampshire,80.30519999999997
+Art,New Jersey,203.29289999999995
+Art,New Mexico,119.3198
+Art,New York,902.0926000000001
+Art,North Carolina,78.91649999999998
+Art,North Dakota,51.8812
+Art,Ohio,103.23759999999997
+Art,Oklahoma,19.086399999999998
+Art,Oregon,65.27599999999998
+Art,Pennsylvania,137.75809999999998
+Art,Rhode Island,18.715000000000003
+Art,South Carolina,9.909600000000001
+Art,Tennessee,62.713499999999975
+Art,Texas,316.35380000000004
+Art,Utah,28.8803
+Art,Vermont,2.7336
+Art,Virginia,258.97529999999995
+Art,Washington,320.1679
+Art,Wisconsin,44.6698
+Labels,Alabama,247.7319
+Labels,Arizona,9.125599999999999
+Labels,Arkansas,3.4356999999999998
+Labels,California,1370.1190999999997
+Labels,Colorado,5.9832
+Labels,Connecticut,15.696799999999998
+Labels,Delaware,34.7388
+Labels,Florida,136.5696
+Labels,Georgia,116.01679999999999
+Labels,Illinois,77.4622
+Labels,Indiana,134.20829999999998
+Labels,Kansas,8.693999999999999
+Labels,Kentucky,176.8009
+Labels,Louisiana,5.2029
+Labels,Maryland,82.5024
+Labels,Massachusetts,76.66579999999999
+Labels,Michigan,430.99210000000005
+Labels,Minnesota,76.8852
+Labels,Mississippi,6.8713999999999995
+Labels,Missouri,6.8724
+Labels,Montana,6.8713999999999995
+Labels,Nebraska,7.056
+Labels,Nevada,6.8724
+Labels,New Hampshire,19.4264
+Labels,New Jersey,32.1345
+Labels,New Mexico,8.6715
+Labels,New York,611.1723
+Labels,North Carolina,75.86840000000001
+Labels,Ohio,55.522200000000005
+Labels,Oklahoma,31.185200000000002
+Labels,Oregon,320.3328
+Labels,Pennsylvania,201.42079999999999
+Labels,South Dakota,16.3795
+Labels,Tennessee,41.471199999999996
+Labels,Texas,200.40199999999996
+Labels,Utah,14.616
+Labels,Virginia,230.8035
+Labels,Washington,560.5303000000001
+Labels,Wisconsin,82.9425
+Machines,Alabama,1459.2
+Machines,Arizona,-930.9409999999999
+Machines,California,4175.408699999997
+Machines,Colorado,-4384.255400000001
+Machines,Delaware,31.005899999999997
+Machines,District of Columbia,648.5624
+Machines,Florida,-1976.0110000000022
+Machines,Georgia,190.07999999999998
+Machines,Illinois,326.0394999999998
+Machines,Indiana,22.653000000000006
+Machines,Kentucky,1416.7999999999997
+Machines,Louisiana,239.985
+Machines,Maryland,209.23649999999998
+Machines,Michigan,832.0842999999996
+Machines,Nevada,179.73000000000013
+Machines,New Jersey,2709.9521999999993
+Machines,New York,17320.076199999996
+Machines,North Carolina,-5384.808599999999
+Machines,Ohio,-11770.944700000002
+Machines,Oregon,-273.9323999999999
+Machines,Pennsylvania,-2219.2455999999993
+Machines,Tennessee,-274.40950000000015
+Machines,Texas,-2666.8434000000025
+Machines,Virginia,2890.2710999999995
+Machines,Washington,615.0637
+Fasteners,Alabama,1.1945999999999999
+Fasteners,Arizona,2.099299999999995
+Fasteners,Arkansas,18.961199999999998
+Fasteners,California,195.75050000000002
+Fasteners,Colorado,12.605399999999996
+Fasteners,Delaware,0.5236000000000014
+Fasteners,Florida,16.508499999999998
+Fasteners,Georgia,0.30240000000000045
+Fasteners,Illinois,43.994899999999994
+Fasteners,Indiana,0.1008
+Fasteners,Iowa,21.5824
+Fasteners,Kansas,10.921100000000001
+Fasteners,Kentucky,21.8478
+Fasteners,Maryland,10.470399999999998
+Fasteners,Massachusetts,23.8116
+Fasteners,Michigan,42.755399999999995
+Fasteners,Minnesota,19.328
+Fasteners,Mississippi,5.489399999999999
+Fasteners,Nebraska,10.384599999999999
+Fasteners,Nevada,0
+Fasteners,New Hampshire,6.965400000000001
+Fasteners,New Jersey,15.110800000000001
+Fasteners,New York,116.6671
+Fasteners,North Carolina,21.863699999999998
+Fasteners,North Dakota,3.4827000000000004
+Fasteners,Ohio,61.11969999999999
+Fasteners,Oregon,0.1695000000000011
+Fasteners,Pennsylvania,29.322199999999995
+Fasteners,South Carolina,17.993999999999996
+Fasteners,South Dakota,2.6814000000000004
+Fasteners,Tennessee,28.89409999999999
+Fasteners,Texas,80.7357
+Fasteners,Utah,2.5328
+Fasteners,Virginia,40.6624
+Fasteners,Washington,62.0332
+Fasteners,Wisconsin,0.6516
+Supplies,Alabama,11.50770000000001
+Supplies,Arizona,-30.197600000000026
+Supplies,California,862.2002999999994
+Supplies,Colorado,-291.69899999999996
+Supplies,Connecticut,30.401499999999995
+Supplies,Florida,-197.63149999999996
+Supplies,Georgia,10.150399999999994
+Supplies,Illinois,13.427299999999994
+Supplies,Kansas,7.158600000000007
+Supplies,Kentucky,17.920799999999996
+Supplies,Louisiana,33.312400000000025
+Supplies,Maryland,6.5052
+Supplies,Massachusetts,6.859
+Supplies,Michigan,21.210399999999993
+Supplies,Minnesota,10.799599999999998
+Supplies,Missouri,99.05800000000006
+Supplies,Nebraska,5.0699999999999985
+Supplies,Nevada,24.997999999999987
+Supplies,New Hampshire,8.099699999999999
+Supplies,New Jersey,32.674699999999994
+Supplies,New Mexico,4.7232
+Supplies,New York,268.0359
+Supplies,North Carolina,-27.980300000000028
+Supplies,Ohio,-82.90289999999999
+Supplies,Oklahoma,6.148800000000001
+Supplies,Oregon,-1.6847000000000039
+Supplies,Pennsylvania,-1459.5663
+Supplies,Rhode Island,34.75799999999995
+Supplies,South Dakota,6.63
+Supplies,Tennessee,8.020799999999987
+Supplies,Texas,-837.2795000000003
+Supplies,Utah,12.432000000000002
+Supplies,Virginia,146.57700000000006
+Supplies,Washington,45.274300000000004
+Supplies,Wisconsin,5.888700000000001
+Tables,Alabama,556.0730000000001
+Tables,Arizona,-2281.8701
+Tables,Arkansas,45.29399999999998
+Tables,California,-303.5580000000013
+Tables,Colorado,-974.8754
+Tables,Connecticut,-19.6146
+Tables,Delaware,-85.89630000000007
+Tables,Florida,-2493.1111
+Tables,Georgia,137.94699999999995
+Tables,Idaho,419.70630000000006
+Tables,Illinois,-4309.744700000001
+Tables,Indiana,412.92179999999996
+Tables,Iowa,106.62480000000005
+Tables,Kentucky,160.1586
+Tables,Louisiana,368.3944000000001
+Tables,Maryland,-71.11700000000002
+Tables,Massachusetts,-545.2946999999998
+Tables,Michigan,1087.8775
+Tables,Minnesota,270.43820000000005
+Tables,Mississippi,411.16760000000016
+Tables,Missouri,361.5233999999999
+Tables,Nevada,437.18919999999986
+Tables,New Hampshire,-105.31639999999993
+Tables,New Jersey,-51.2906
+Tables,New York,-4535.640800000001
+Tables,North Carolina,-3684.2539000000006
+Tables,Ohio,-2715.3345000000004
+Tables,Oklahoma,579.883
+Tables,Oregon,-1048.8971
+Tables,Pennsylvania,-2588.753800000001
+Tables,Rhode Island,-230.16779999999994
+Tables,Tennessee,-2663.4138000000003
+Tables,Texas,-2216.6766000000002
+Tables,Utah,358.92240000000004
+Tables,Virginia,2538.6863
+Tables,Washington,4875.99
+Tables,West Virginia,-76.9536
+Tables,Wisconsin,147.5021999999999
+Bookcases,Arizona,-869.2072999999999
+Bookcases,Arkansas,172.4814
+Bookcases,California,1418.991499999999
+Bookcases,Colorado,-2408.9163000000003
+Bookcases,Connecticut,456.677
+Bookcases,Delaware,476.9343
+Bookcases,Florida,-116.07059999999998
+Bookcases,Georgia,883.2619999999998
+Bookcases,Illinois,-555.8725999999999
+Bookcases,Kentucky,41.9136
+Bookcases,Louisiana,57.19280000000002
+Bookcases,Maryland,105.60539999999997
+Bookcases,Massachusetts,414.0936
+Bookcases,Michigan,150.6456
+Bookcases,Mississippi,126.22500000000002
+Bookcases,Missouri,53.235000000000014
+Bookcases,Nevada,41.16839999999999
+Bookcases,New Jersey,141.39199999999988
+Bookcases,New York,350.8743999999987
+Bookcases,North Carolina,-97.978
+Bookcases,Ohio,-1359.0516
+Bookcases,Oklahoma,54.713599999999985
+Bookcases,Oregon,-616.8158
+Bookcases,Pennsylvania,-2896.760100000001
+Bookcases,Rhode Island,129.4762
+Bookcases,South Dakota,39.7488
+Bookcases,Tennessee,-6.3236000000000345
+Bookcases,Texas,-2391.137700000001
+Bookcases,Utah,218.26239999999981
+Bookcases,Vermont,1013.1270000000001
+Bookcases,Virginia,278.78919999999994
+Bookcases,Washington,570.0054
+Bookcases,Wisconsin,650.763
