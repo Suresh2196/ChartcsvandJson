@@ -1,0 +1,64 @@
+"C02.Country ",C02.Channel Partner,Sum(C02.Sales)
+Switzerland,Direct,172
+Switzerland,Retail,136
+Switzerland,Wholesale,146
+Germany,Direct,160
+Germany,Retail,135
+Germany,Wholesale,142
+Austria,Direct,102
+Austria,Retail,188
+Austria,Wholesale,125
+France,Direct,178
+France,Retail,88
+France,Wholesale,78
+USA,Direct,82
+USA,Retail,96
+USA,Wholesale,109
+UK,Direct,79
+UK,Retail,105
+UK,Wholesale,84
+Poland,Direct,87
+Poland,Retail,100
+Poland,Wholesale,66
+Spain,Direct,83
+Spain,Retail,83
+Spain,Wholesale,58
+Rest of Europe,Direct,41
+Rest of Europe,Retail,88
+Rest of Europe,Wholesale,47
+Portugal,Direct,61
+Portugal,Retail,44
+Portugal,Wholesale,12
+Brazil,Direct,52
+Brazil,Retail,36
+Brazil,Wholesale,27
+Sweden,Direct,42
+Sweden,Retail,42
+Sweden,Wholesale,17
+Ireland,Direct,56
+Ireland,Retail,34
+Ireland,Wholesale,7
+Finland,Direct,48
+Finland,Retail,35
+Finland,Wholesale,13
+Japan,Direct,22
+Japan,Retail,16
+Japan,Wholesale,26
+Denmark,Direct,7
+Denmark,Retail,24
+Denmark,Wholesale,21
+South Korea,Direct,10
+South Korea,Retail,16
+South Korea,Wholesale,12
+India,Direct,11
+India,Retail,7
+India,Wholesale,14
+Canada,Direct,15
+Canada,Retail,5
+Canada,Wholesale,12
+Norway,Direct,4
+Norway,Retail,5
+Norway,Wholesale,13
+Rest of world,Direct,39
+Rest of world,Retail,15
+Rest of world,Wholesale,13
