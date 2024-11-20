@@ -1,5 +1,13 @@
 Trellis.Account Level 2,Trellis.Year,Sum(Trellis.AC),Sum(Trellis.PY)
+Support revenue,2014,,
+Support revenue,2015,620,270
+Support revenue,2016,720,370
+Software revenue,2014,,
+Software revenue,2015,578,465
+Software revenue,2016,678,565
 blank-axis-row,2014,1198,435
+blank-axis-row,2015,,
+blank-axis-row,2016,,
 Consulting revenue,2014,128,121
 Consulting revenue,2015,428,-221
 Consulting revenue,2016,528,321
@@ -24,7 +32,3 @@ Research and development expenses,2016,,328
 Selling and general administrative expenses,2014,,-197
 Selling and general administrative expenses,2015,,297
 Selling and general administrative expenses,2016,,397
-Support revenue,2015,620,270
-Support revenue,2016,720,370
-Software revenue,2015,578,465
-Software revenue,2016,678,565
