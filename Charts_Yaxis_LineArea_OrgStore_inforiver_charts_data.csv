@@ -1,5 +1,31 @@
-Accounts.Region,Avg(Accounts.Longitude)
-APAC,138.20965245
-EMEA,4.541160134782608
-LATAM,-69.69007531052631
-North America,-91.79762900245099
+Opportunities.Product Name,Opportunities.Status,Sum(Opportunities.Value),Sum(Opportunities.Budget)
+Design app,Lost,4869900,6087375
+Design app,Open,2037100,2546375
+Design app,Won,10130200,12662750
+Stand-up Desks,Lost,1855400,2319250
+Stand-up Desks,Open,813300,1016625
+Stand-up Desks,Won,4279800,5349750
+All-in-One,Lost,2253800,2817250
+All-in-One,Open,994200,1242750
+All-in-One,Won,3602500,4503125
+Mobile app,Lost,2128300,2660375
+Mobile app,Open,734300,917875
+Mobile app,Won,2703300,3379125
+Tablets,Lost,272700,340875
+Tablets,Open,462300,577875
+Tablets,Won,4106300,5132875
+Ergonomic Seating,Lost,541400,676750
+Ergonomic Seating,Open,226800,283500
+Ergonomic Seating,Won,1572500,1965625
+Scanners,Lost,1444900,1806125
+Scanners,Open,337900,422375
+Scanners,Won,468200,585250
+Laser Printers,Lost,662300,827875
+Laser Printers,Open,243400,304250
+Laser Printers,Won,1110000,1387500
+Desktops,Lost,395700,494625
+Desktops,Open,224100,280125
+Desktops,Won,1085900,1357375
+Webcams,Lost,334600,418250
+Webcams,Open,134300,167875
+Webcams,Won,562300,702875
