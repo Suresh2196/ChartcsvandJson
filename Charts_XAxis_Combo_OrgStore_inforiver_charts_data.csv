@@ -1,31 +1,91 @@
-Trellis.Year,Trellis.Account Level 2,Trellis.Account Level 2 ID,Sum(Trellis.AC),,Sum(Trellis.PY)
-2014,,1,278,"278,920,1198",265
-2014,,2,920,"920,0,920",170
-2014,Consulting revenue,3,128,"128,1198,1326",121
-2014,Cost of sales,4,,",1326,1326",122
-2014,Income from discontinued operations,11,,",1326,1326",206
-2014,Income tax expenses,10,,",1326,1326",123
-2014,"Other financial income,net",9,,",1326,1326",134
-2014,Other operating expenses,8,,",1326,1326",111
-2014,Research and development expenses,5,,",1326,1326",178
-2014,Selling and general administrative expenses,6,,",1326,1326",-197
-2015,Consulting revenue,14,428,"428,1198,1626",-221
-2015,Cost of sales,15,,",1626,1626",222
-2015,Income from discontinued operations,22,,",1626,1626",306
-2015,Income tax expenses,21,,",1626,1626",323
-2015,"Other financial income,net",20,,",1626,1626",234
-2015,Other operating expenses,19,,",1626,1626",211
-2015,Research and development expenses,16,,",1626,1626",228
-2015,Selling and general administrative expenses,17,,",1626,1626",297
-2015,Software revenue,12,578,"578,620,1198",465
-2015,Support revenue,13,620,"620,0,620",270
-2016,Consulting revenue,25,528,"528,0,528",321
-2016,Cost of sales,26,,",528,528",322
-2016,Income from discontinued operations,33,,",528,528",406
-2016,Income tax expenses,32,,",528,528",423
-2016,"Other financial income,net",31,,",528,528",334
-2016,Other operating expenses,30,,",528,528",311
-2016,Research and development expenses,27,,",528,528",328
-2016,Selling and general administrative expenses,28,,",528,528",397
-2016,Software revenue,23,678,"678,528,1206",565
-2016,Support revenue,24,720,"720,1206,1926",370
+Trellis.Account Level 2,Trellis.Account Level 2 ID,Trellis.Year,Sum(Trellis.AC),Sum(Trellis.PY)
+blank-axis-row,1,2014,278,265
+blank-axis-row,1,2015,,
+blank-axis-row,1,2016,,
+blank-axis-row,2,2014,920,170
+blank-axis-row,2,2015,,
+blank-axis-row,2,2016,,
+Consulting revenue,3,2014,128,121
+Consulting revenue,3,2015,,
+Consulting revenue,3,2016,,
+Consulting revenue,14,2014,,
+Consulting revenue,14,2015,428,-221
+Consulting revenue,14,2016,,
+Consulting revenue,25,2014,,
+Consulting revenue,25,2015,,
+Consulting revenue,25,2016,528,321
+Cost of sales,4,2014,,122
+Cost of sales,4,2015,,
+Cost of sales,4,2016,,
+Cost of sales,15,2014,,
+Cost of sales,15,2015,,222
+Cost of sales,15,2016,,
+Cost of sales,26,2014,,
+Cost of sales,26,2015,,
+Cost of sales,26,2016,,322
+Income from discontinued operations,11,2014,,206
+Income from discontinued operations,11,2015,,
+Income from discontinued operations,11,2016,,
+Income from discontinued operations,22,2014,,
+Income from discontinued operations,22,2015,,306
+Income from discontinued operations,22,2016,,
+Income from discontinued operations,33,2014,,
+Income from discontinued operations,33,2015,,
+Income from discontinued operations,33,2016,,406
+Income tax expenses,10,2014,,123
+Income tax expenses,10,2015,,
+Income tax expenses,10,2016,,
+Income tax expenses,21,2014,,
+Income tax expenses,21,2015,,323
+Income tax expenses,21,2016,,
+Income tax expenses,32,2014,,
+Income tax expenses,32,2015,,
+Income tax expenses,32,2016,,423
+"Other financial income,net",9,2014,,134
+"Other financial income,net",9,2015,,
+"Other financial income,net",9,2016,,
+"Other financial income,net",20,2014,,
+"Other financial income,net",20,2015,,234
+"Other financial income,net",20,2016,,
+"Other financial income,net",31,2014,,
+"Other financial income,net",31,2015,,
+"Other financial income,net",31,2016,,334
+Other operating expenses,8,2014,,111
+Other operating expenses,8,2015,,
+Other operating expenses,8,2016,,
+Other operating expenses,19,2014,,
+Other operating expenses,19,2015,,211
+Other operating expenses,19,2016,,
+Other operating expenses,30,2014,,
+Other operating expenses,30,2015,,
+Other operating expenses,30,2016,,311
+Research and development expenses,5,2014,,178
+Research and development expenses,5,2015,,
+Research and development expenses,5,2016,,
+Research and development expenses,16,2014,,
+Research and development expenses,16,2015,,228
+Research and development expenses,16,2016,,
+Research and development expenses,27,2014,,
+Research and development expenses,27,2015,,
+Research and development expenses,27,2016,,328
+Selling and general administrative expenses,6,2014,,-197
+Selling and general administrative expenses,6,2015,,
+Selling and general administrative expenses,6,2016,,
+Selling and general administrative expenses,17,2014,,
+Selling and general administrative expenses,17,2015,,297
+Selling and general administrative expenses,17,2016,,
+Selling and general administrative expenses,28,2014,,
+Selling and general administrative expenses,28,2015,,
+Selling and general administrative expenses,28,2016,,397
+Software revenue,12,2014,,
+Software revenue,12,2015,578,465
+Software revenue,12,2016,,
+Software revenue,23,2014,,
+Software revenue,23,2015,,
+Software revenue,23,2016,678,565
+Support revenue,13,2014,,
+Support revenue,13,2015,620,270
+Support revenue,13,2016,,
+Support revenue,24,2014,,
+Support revenue,24,2015,,
+Support revenue,24,2016,720,370
