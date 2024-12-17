@@ -1,0 +1,25 @@
+Overlapped data.Date.Variation.Date Hierarchy.Year,Overlapped data.Date.Variation.Date Hierarchy.Month,Sum(Overlapped data.Lower quartile 1),Sum(Overlapped data.Lower quartile 2),Sum(Overlapped data.Lower quartile 3),Sum(Overlapped data.Upper quartile 1),Sum(Overlapped data.Upper Quartile 2),Sum(Overlapped data.Upper Quartile 3),Sum(Overlapped data.Median 1),Sum(Overlapped data.Median 2),Sum(Overlapped data.Median 3),Sum(Overlapped data.Whisker Max 1),Sum(Overlapped data.Whisker Max 2),Sum(Overlapped data.Whisker Max 3),Sum(Overlapped data.Whisker Min 1),Sum(Overlapped data.Whisker Min 2),Sum(Overlapped data.Whisker Min 3),Sum(Overlapped data.AC),Sum(Overlapped data.PL),Sum(Overlapped data.PY ),Sum(Overlapped data.FC)
+2022,January,32,38,56,56,75,88,45,49,67,99,91,98,23,24,27,57,64,56,65
+2022,February,43,42,44,90,58,71,78,47,60,95,99,84,26,22,28,69,55,60,58
+2022,March,48,34,36,87,81,81,51,58,68,99,98,99,21,20,21,60,62,60,64
+2022,April,62,40,30,84,78,95,74,69,91,93,92,100,36,27,21,64,55,59,60
+2022,May,42,38,41,71,88,64,63,48,43,93,99,73,10,10,10,61,63,61,61
+2022,June,29,37,38,89,84,81,74,52,60,94,96,94,20,23,26,62,64,61,69
+2022,July,36,32,52,61,67,74,48,52,66,91,97,100,23,26,23,64,63,62,66
+2022,August,31,49,43,79,85,79,41,67,64,100,100,100,25,36,24,51,59,69,70
+2022,September,48,33,37,80,80,66,58,55,54,89,91,100,26,29,20,62,53,64,52
+2022,October,36,34,34,76,71,51,51,47,37,95,98,86,20,21,24,59,59,54,53
+2022,November,71,41,38,88,87,71,82,72,52,100,100,100,28,27,20,69,61,54,61
+2022,December,57,30,47,90,77,73,63,38,64,100,93,96,42,20,37,55,55,55,60
+2023,January,55,45,69,83,78,82,72,71,73,97,99,98,39,23,29,59,63,65,67
+2023,February,50,46,45,70,83,72,61,67,58,96,96,100,20,35,21,62,66,64,54
+2023,March,34,56,51,82,73,85,56,62,73,98,99,98,22,29,25,54,65,63,59
+2023,April,36,43,41,63,63,78,41,54,60,87,91,90,22,32,24,51,63,61,64
+2023,May,39,49,46,57,87,77,44,75,73,97,98,100,28,30,32,66,61,51,60
+2023,June,44,44,34,62,61,69,59,52,47,95,88,86,20,20,20,59,57,67,59
+2023,July,53,37,39,72,70,83,55,65,57,96,90,98,27,23,21,51,53,50,61
+2023,August,,27,35,,75,77,,45,50,,95,88,,21,24,,60,70,57
+2023,September,,37,30,,77,67,,43,57,,92,99,,22,26,,62,57,54
+2023,October,,30,66,,68,91,,40,74,,98,96,,25,22,,64,59,51
+2023,November,,38,50,,73,80,,52,71,,91,98,,20,20,,67,64,53
+2023,December,,43,36,,76,78,,50,53,,97,96,,28,24,,62,59,55
