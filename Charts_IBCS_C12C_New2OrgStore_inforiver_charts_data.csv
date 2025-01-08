@@ -1,0 +1,20 @@
+C12.Account,Sum(C12.AC),Sum(C12.PL)
+Licenses,896,800
+Consulting,90,80
+Maintenance,10,10
+Other Revenue,65,70
+Sales Revenue,1061,960
+Other Op.income,17,35
+Purchases,379,350
+Material Expenses,54,90
+Personnel Expenses,127,70
+Amortization,40,42
+Other Op Expenses,152,112
+Operating Result,326,331
+Investment Income,53,40
+Financial Income,66,39
+Result Before Tax,445,410
+Income Tax,111,105
+Result After Tax,334,305
+Profit to other interests,55,40
+Group Result,279,265
