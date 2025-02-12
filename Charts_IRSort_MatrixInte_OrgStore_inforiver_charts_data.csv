@@ -18,9 +18,11 @@ United States of America,Medium,Paseo,1723932.27,181687.26999999996,25568
 United States of America,Medium,Velo,1119338.65,120548.65000000001,13852
 United States of America,Medium,VTT,1287222.67,203189.67,12070
 United States of America,None,Amarilla,66354,42207,5852
+United States of America,None,Carretera,,,
 United States of America,None,Montana,9225,3075,615
 United States of America,None,Paseo,18945,10494,2055
 United States of America,None,Velo,352625,14105,2821
+United States of America,None,VTT,,,
 Canada,High,Amarilla,1444328.95,207084.45,16252.5
 Canada,High,Carretera,1039459.46,64258.46000000001,13321
 Canada,High,Montana,801257.2999999999,119007.3,9098.5
@@ -39,6 +41,7 @@ Canada,Medium,Montana,1443967.81,148054.81,10213.5
 Canada,Medium,Paseo,1705097.05,276687.05000000005,15955
 Canada,Medium,Velo,1685766.1400000001,189879.14,13589.5
 Canada,Medium,VTT,1388934.8399999999,186461.34,13629.5
+Canada,None,Amarilla,,,
 Canada,None,Carretera,32370,16185,1618.5
 Canada,None,Montana,406528.5,37714.5,5528.5
 Canada,None,Paseo,708426,209762,8504
@@ -110,7 +113,9 @@ Mexico,Medium,Montana,901434.4,177414.4,5140
 Mexico,Medium,Paseo,3312908.1100000003,465813.11000000004,23321
 Mexico,Medium,Velo,525213.58,35678.579999999994,11919
 Mexico,Medium,VTT,918341.61,91581.61,9455
+Mexico,None,Amarilla,,,
 Mexico,None,Carretera,37050,12350,2470
 Mexico,None,Montana,324450,60250,3428
 Mexico,None,Paseo,294271,58396,5117
 Mexico,None,Velo,10451,2986,1493
+Mexico,None,VTT,,,
