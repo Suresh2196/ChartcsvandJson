@@ -1,371 +1,936 @@
-financials.Country,financials.Product,financials.Discount Band,financials.Segment,financials.Month Name,Sum(financials. Sales),Sum(financials.COGS)
-Canada,Amarilla,High,Channel Partners,April,38021.399999999994,10561.5
-Canada,Amarilla,High,Channel Partners,August,,
-Canada,Amarilla,High,Channel Partners,December,,
-Canada,Amarilla,High,Channel Partners,October,,
-Canada,Amarilla,High,Channel Partners,September,29156.16,8283
-Canada,Amarilla,High,Enterprise,January,180416.25,199080
-Canada,Amarilla,High,Enterprise,May,,
-Canada,Amarilla,High,Enterprise,September,,
-Canada,Amarilla,High,Government,February,705600,582400
-Canada,Amarilla,High,Government,January,,
-Canada,Amarilla,High,Government,July,,
-Canada,Amarilla,High,Government,June,,
-Canada,Amarilla,High,Government,May,,
-Canada,Amarilla,High,Government,October,16841.44,13670
-Canada,Amarilla,High,Government,September,222705,183820
-Canada,Amarilla,High,Midmarket,December,,
-Canada,Amarilla,High,Midmarket,July,,
-Canada,Amarilla,High,Midmarket,November,,
-Canada,Amarilla,High,Midmarket,October,22484.7,17430
-Canada,Amarilla,High,Small Business,December,,
-Canada,Amarilla,High,Small Business,March,229104,222000
-Canada,Amarilla,High,Small Business,October,,
-Canada,Amarilla,Low,Channel Partners,September,,
-Canada,Amarilla,Low,Enterprise,April,,
-Canada,Amarilla,Low,Enterprise,May,,
-Canada,Amarilla,Low,Government,December,597408,462280
-Canada,Amarilla,Low,Government,February,,
-Canada,Amarilla,Low,Government,November,,
-Canada,Amarilla,Low,Government,October,,
-Canada,Amarilla,Low,Government,September,,
-Canada,Amarilla,Low,Midmarket,November,,
-Canada,Amarilla,Low,Midmarket,October,,
-Canada,Amarilla,Low,Small Business,December,563304,479000
-Canada,Amarilla,Low,Small Business,March,,
-Canada,Amarilla,Medium,Channel Partners,August,,
-Canada,Amarilla,Medium,Channel Partners,December,,
-Canada,Amarilla,Medium,Enterprise,January,,
-Canada,Amarilla,Medium,Enterprise,May,191231.25,197400
-Canada,Amarilla,Medium,Enterprise,September,,
-Canada,Amarilla,Medium,Government,August,183540,143520
-Canada,Amarilla,Medium,Government,February,,
-Canada,Amarilla,Medium,Government,July,,
-Canada,Amarilla,Medium,Government,June,20416.050000000003,12755
-Canada,Amarilla,Medium,Government,November,20794.8,11180
-Canada,Amarilla,Medium,Government,October,812486.5,649220
-Canada,Amarilla,Medium,Government,September,,
-Canada,Amarilla,Medium,Midmarket,December,,
-Canada,Amarilla,Medium,Midmarket,July,22256.324999999997,16305
-Canada,Amarilla,Medium,Midmarket,November,,
-Canada,Amarilla,Medium,Small Business,December,,
-Canada,Amarilla,Medium,Small Business,June,,
-Canada,Amarilla,None,Channel Partners,April,,
-Canada,Amarilla,None,Channel Partners,August,,
-Canada,Amarilla,None,Enterprise,April,,
-Canada,Amarilla,None,Government,February,,
-Canada,Amarilla,None,Government,July,,
-Canada,Amarilla,None,Government,June,,
-Canada,Amarilla,None,Government,October,,
-Canada,Amarilla,None,Midmarket,December,,
-Canada,Carretera,High,Channel Partners,February,20687.16,5811
-Canada,Carretera,High,Channel Partners,October,,
-Canada,Carretera,High,Enterprise,April,,
-Canada,Carretera,High,Enterprise,August,,
-Canada,Carretera,High,Enterprise,December,,
-Canada,Carretera,High,Enterprise,October,,
-Canada,Carretera,High,Enterprise,September,265760,289920
-Canada,Carretera,High,Government,April,,
-Canada,Carretera,High,Government,December,,
-Canada,Carretera,High,Government,January,,
-Canada,Carretera,High,Government,June,,
-Canada,Carretera,High,Government,March,281053.5,239980
-Canada,Carretera,High,Government,May,,
-Canada,Carretera,High,Government,November,,
-Canada,Carretera,High,Government,October,,
-France,Amarilla,High,Channel Partners,April,,
-France,Amarilla,High,Channel Partners,August,25542,7425
-France,Amarilla,High,Channel Partners,December,,
-France,Amarilla,High,Channel Partners,October,14375.76,4179
-France,Amarilla,High,Channel Partners,September,,
-France,Amarilla,High,Enterprise,January,,
-France,Amarilla,High,Enterprise,May,159421.25,171960
-France,Amarilla,High,Enterprise,September,,
-France,Amarilla,High,Government,February,,
-France,Amarilla,High,Government,January,,
-France,Amarilla,High,Government,July,21076.44,17107.5
-France,Amarilla,High,Government,June,7247.1,5950
-France,Amarilla,High,Government,May,,
-France,Amarilla,High,Government,October,10420.619999999999,8655
-France,Amarilla,High,Government,September,,
-France,Amarilla,High,Midmarket,December,27972,20720
-France,Amarilla,High,Midmarket,July,,
-France,Amarilla,High,Midmarket,November,,
-France,Amarilla,High,Midmarket,October,,
-France,Amarilla,High,Small Business,December,230310,213250
-France,Amarilla,High,Small Business,March,631125,618750
-France,Amarilla,High,Small Business,October,,
-France,Amarilla,Low,Channel Partners,September,,
-France,Amarilla,Low,Enterprise,April,,
-France,Amarilla,Low,Enterprise,May,,
-France,Amarilla,Low,Government,December,,
-France,Amarilla,Low,Government,February,,
-France,Amarilla,Low,Government,November,18443.6,9410
-France,Amarilla,Low,Government,October,,
-France,Amarilla,Low,Government,September,,
-France,Amarilla,Low,Midmarket,November,4766.85,3210
-France,Amarilla,Low,Midmarket,October,,
-France,Amarilla,Low,Small Business,December,,
-France,Amarilla,Low,Small Business,March,,
-France,Amarilla,Medium,Channel Partners,August,,
-France,Amarilla,Medium,Channel Partners,December,3341.52,918
-France,Amarilla,Medium,Enterprise,January,233531.25,238500
-France,Amarilla,Medium,Enterprise,May,,
-France,Amarilla,Medium,Enterprise,September,,
-France,Amarilla,Medium,Government,August,,
-France,Amarilla,Medium,Government,February,,
-France,Amarilla,Medium,Government,July,,
-France,Amarilla,Medium,Government,June,,
-France,Amarilla,Medium,Government,November,,
-France,Amarilla,Medium,Government,October,692235.74,546775
-France,Amarilla,Medium,Government,September,936138,747760
-France,Amarilla,Medium,Midmarket,December,,
-France,Amarilla,Medium,Midmarket,July,,
-France,Amarilla,Medium,Midmarket,November,,
-France,Amarilla,Medium,Small Business,December,,
-France,Amarilla,Medium,Small Business,June,,
-France,Amarilla,None,Channel Partners,April,,
-France,Amarilla,None,Channel Partners,August,,
-France,Amarilla,None,Enterprise,April,,
-France,Amarilla,None,Government,February,962500,715000
-France,Amarilla,None,Government,July,,
-France,Amarilla,None,Government,June,37980,18990
-France,Amarilla,None,Government,October,,
-France,Amarilla,None,Midmarket,December,,
-France,Carretera,High,Channel Partners,February,,
-France,Carretera,High,Channel Partners,October,12794.64,3594
-France,Carretera,High,Enterprise,April,,
-France,Carretera,High,Enterprise,August,124737.5,140880
-France,Carretera,High,Enterprise,December,166725,177840
-France,Carretera,High,Enterprise,October,271561.25,292920
-France,Carretera,High,Enterprise,September,109972.5,122760
-France,Carretera,High,Government,April,,
-France,Carretera,High,Government,December,,
-France,Carretera,High,Government,January,44378.399999999994,25215
-France,Carretera,High,Government,June,,
-France,Carretera,High,Government,March,545055,465400
-France,Carretera,High,Government,May,,
-France,Carretera,High,Government,November,,
-France,Carretera,High,Government,October,,
-Germany,Amarilla,High,Channel Partners,April,,
-Germany,Amarilla,High,Channel Partners,August,27799.2,7722
-Germany,Amarilla,High,Channel Partners,December,18478.8,5310
-Germany,Amarilla,High,Channel Partners,October,5040.96,1416
-Germany,Amarilla,High,Channel Partners,September,,
-Germany,Amarilla,High,Enterprise,January,352106.25,379800
-Germany,Amarilla,High,Enterprise,May,,
-Germany,Amarilla,High,Enterprise,September,,
-Germany,Amarilla,High,Government,February,,
-Germany,Amarilla,High,Government,January,,
-Germany,Amarilla,High,Government,July,,
-Germany,Amarilla,High,Government,June,,
-Germany,Amarilla,High,Government,May,,
-Germany,Amarilla,High,Government,October,,
-Germany,Amarilla,High,Government,September,,
-Germany,Amarilla,High,Midmarket,December,,
-Germany,Amarilla,High,Midmarket,July,,
-Germany,Amarilla,High,Midmarket,November,,
-Germany,Amarilla,High,Midmarket,October,,
-Germany,Amarilla,High,Small Business,December,,
-Germany,Amarilla,High,Small Business,March,,
-Germany,Amarilla,High,Small Business,October,,
-Germany,Amarilla,Low,Channel Partners,September,,
-Germany,Amarilla,Low,Enterprise,April,,
-Germany,Amarilla,Low,Enterprise,May,278810,273120
-Germany,Amarilla,Low,Government,December,,
-Germany,Amarilla,Low,Government,February,,
-Germany,Amarilla,Low,Government,November,,
-Germany,Amarilla,Low,Government,October,1017338,771160
-Germany,Amarilla,Low,Government,September,640752,495820
-Germany,Amarilla,Low,Midmarket,November,,
-Germany,Amarilla,Low,Midmarket,October,,
-Germany,Amarilla,Low,Small Business,December,,
-Germany,Amarilla,Low,Small Business,March,76146,64750
-Germany,Amarilla,Medium,Channel Partners,August,,
-Germany,Amarilla,Medium,Channel Partners,December,,
-Germany,Amarilla,Medium,Enterprise,January,,
-Germany,Amarilla,Medium,Enterprise,May,,
-Germany,Amarilla,Medium,Enterprise,September,115552.5,119280
-Germany,Amarilla,Medium,Government,August,,
-Germany,Amarilla,Medium,Government,February,448875,351000
-Germany,Amarilla,Medium,Government,July,,
-Germany,Amarilla,Medium,Government,June,25134.4,13660
-Germany,Amarilla,Medium,Government,November,27968,15200
-Germany,Amarilla,Medium,Government,October,7707.35,5795
-Germany,Amarilla,Medium,Government,September,,
-Germany,Amarilla,Medium,Midmarket,December,9811.8,7110
-Germany,Amarilla,Medium,Midmarket,July,,
-Germany,Amarilla,Medium,Midmarket,November,13240.5,9700
-Germany,Amarilla,Medium,Small Business,December,356250,312500
-Germany,Amarilla,Medium,Small Business,June,,
-Germany,Amarilla,None,Channel Partners,April,,
-Germany,Amarilla,None,Channel Partners,August,,
-Germany,Amarilla,None,Enterprise,April,527437.5,506340
-Germany,Amarilla,None,Government,February,,
-Germany,Amarilla,None,Government,July,11802,8430
-Germany,Amarilla,None,Government,June,,
-Germany,Amarilla,None,Government,October,,
-Germany,Amarilla,None,Midmarket,December,,
-Germany,Carretera,High,Channel Partners,February,,
-Germany,Carretera,High,Channel Partners,October,,
-Germany,Carretera,High,Enterprise,April,,
-Germany,Carretera,High,Enterprise,August,293993.75,332040
-Germany,Carretera,High,Enterprise,December,,
-Germany,Carretera,High,Enterprise,October,115281.25,130200
-Germany,Carretera,High,Enterprise,September,,
-Germany,Carretera,High,Government,April,,
-Germany,Carretera,High,Government,December,1685.6,1400
-Germany,Carretera,High,Government,January,,
-Germany,Carretera,High,Government,June,,
-Germany,Carretera,High,Government,March,246708,205920
-Germany,Carretera,High,Government,May,,
-Germany,Carretera,High,Government,November,,
-Germany,Carretera,High,Government,October,,
-Mexico,Amarilla,High,Channel Partners,April,,
-Mexico,Amarilla,High,Channel Partners,August,,
-Mexico,Amarilla,High,Channel Partners,December,,
-Mexico,Amarilla,High,Channel Partners,October,4280.4,1230
-Mexico,Amarilla,High,Channel Partners,September,,
-Mexico,Amarilla,High,Enterprise,January,,
-Mexico,Amarilla,High,Enterprise,May,,
-Mexico,Amarilla,High,Enterprise,September,105353.75,113640
-Mexico,Amarilla,High,Government,February,,
-Mexico,Amarilla,High,Government,January,46796.2,26290
-Mexico,Amarilla,High,Government,July,,
-Mexico,Amarilla,High,Government,June,,
-Mexico,Amarilla,High,Government,May,36702,20390
-Mexico,Amarilla,High,Government,October,117552.54000000001,98075
-Mexico,Amarilla,High,Government,September,,
-Mexico,Amarilla,High,Midmarket,December,28795.95,21570
-Mexico,Amarilla,High,Midmarket,July,,
-Mexico,Amarilla,High,Midmarket,November,24123,18700
-Mexico,Amarilla,High,Midmarket,October,,
-Mexico,Amarilla,High,Small Business,December,,
-Mexico,Amarilla,High,Small Business,March,,
-Mexico,Amarilla,High,Small Business,October,139230,136500
-Mexico,Amarilla,Low,Channel Partners,September,,
-Mexico,Amarilla,Low,Enterprise,April,128880,128880
-Mexico,Amarilla,Low,Enterprise,May,,
-Mexico,Amarilla,Low,Government,December,,
-Mexico,Amarilla,Low,Government,February,626640,484900
-Mexico,Amarilla,Low,Government,November,,
-Mexico,Amarilla,Low,Government,October,,
-Mexico,Amarilla,Low,Government,September,,
-Mexico,Amarilla,Low,Midmarket,November,,
-Mexico,Amarilla,Low,Midmarket,October,,
-Mexico,Amarilla,Low,Small Business,December,,
-Mexico,Amarilla,Low,Small Business,March,323694,275250
-Mexico,Amarilla,Medium,Channel Partners,August,12802.2,3369
-Mexico,Amarilla,Medium,Channel Partners,December,15180,4125
-Mexico,Amarilla,Medium,Enterprise,January,,
-Mexico,Amarilla,Medium,Enterprise,May,,
-Mexico,Amarilla,Medium,Enterprise,September,,
-Mexico,Amarilla,Medium,Government,August,,
-Mexico,Amarilla,Medium,Government,February,,
-Mexico,Amarilla,Medium,Government,July,11191.95,8415
-Mexico,Amarilla,Medium,Government,June,18891.6,10380
-Mexico,Amarilla,Medium,Government,November,30830.8,16940
-Mexico,Amarilla,Medium,Government,October,,
-Mexico,Amarilla,Medium,Government,September,552391,436540
-Mexico,Amarilla,Medium,Midmarket,December,,
-Mexico,Amarilla,Medium,Midmarket,July,,
-Mexico,Amarilla,Medium,Midmarket,November,,
-Mexico,Amarilla,Medium,Small Business,December,175260,158750
-Mexico,Amarilla,Medium,Small Business,June,678960,615000
-Mexico,Amarilla,None,Channel Partners,April,,
-Mexico,Amarilla,None,Channel Partners,August,,
-Mexico,Amarilla,None,Enterprise,April,,
-Mexico,Amarilla,None,Government,February,,
-Mexico,Amarilla,None,Government,July,,
-Mexico,Amarilla,None,Government,June,,
-Mexico,Amarilla,None,Government,October,,
-Mexico,Amarilla,None,Midmarket,December,,
-Mexico,Carretera,High,Channel Partners,February,,
-Mexico,Carretera,High,Channel Partners,October,,
-Mexico,Carretera,High,Enterprise,April,,
-Mexico,Carretera,High,Enterprise,August,,
-Mexico,Carretera,High,Enterprise,December,303257.5,338520
-Mexico,Carretera,High,Enterprise,October,237160,258720
-Mexico,Carretera,High,Enterprise,September,,
-Mexico,Carretera,High,Government,April,44358.8,25790
-Mexico,Carretera,High,Government,December,,
-Mexico,Carretera,High,Government,January,,
-Mexico,Carretera,High,Government,June,272888,230360
-Mexico,Carretera,High,Government,March,,
-Mexico,Carretera,High,Government,May,,
-Mexico,Carretera,High,Government,November,16858.38,13530
-Mexico,Carretera,High,Government,October,,
-United States of America,Amarilla,High,Channel Partners,April,,
-United States of America,Amarilla,High,Channel Partners,August,,
-United States of America,Amarilla,High,Channel Partners,December,20794.8,6045
-United States of America,Amarilla,High,Channel Partners,October,30072.48,8742
-United States of America,Amarilla,High,Channel Partners,September,,
-United States of America,Amarilla,High,Enterprise,January,65137.5,69480
-United States of America,Amarilla,High,Enterprise,May,305730,341280
-United States of America,Amarilla,High,Enterprise,September,,
-United States of America,Amarilla,High,Government,February,83160,70200
-United States of America,Amarilla,High,Government,January,,
-United States of America,Amarilla,High,Government,July,,
-United States of America,Amarilla,High,Government,June,,
-United States of America,Amarilla,High,Government,May,,
-United States of America,Amarilla,High,Government,October,,
-United States of America,Amarilla,High,Government,September,,
-United States of America,Amarilla,High,Midmarket,December,,
-United States of America,Amarilla,High,Midmarket,July,42713.325,31995
-United States of America,Amarilla,High,Midmarket,November,33633.6,25480
-United States of America,Amarilla,High,Midmarket,October,,
-United States of America,Amarilla,High,Small Business,December,,
-United States of America,Amarilla,High,Small Business,March,808110,748250
-United States of America,Amarilla,High,Small Business,October,,
-United States of America,Amarilla,Low,Channel Partners,September,23629.32,5967
-United States of America,Amarilla,Low,Enterprise,April,,
-United States of America,Amarilla,Low,Enterprise,May,,
-United States of America,Amarilla,Low,Government,December,,
-United States of America,Amarilla,Low,Government,February,,
-United States of America,Amarilla,Low,Government,November,24225.6,12360
-United States of America,Amarilla,Low,Government,October,,
-United States of America,Amarilla,Low,Government,September,,
-United States of America,Amarilla,Low,Midmarket,November,,
-United States of America,Amarilla,Low,Midmarket,October,9662.4,6710
-United States of America,Amarilla,Low,Small Business,December,,
-United States of America,Amarilla,Low,Small Business,March,,
-United States of America,Amarilla,Medium,Channel Partners,August,,
-United States of America,Amarilla,Medium,Channel Partners,December,,
-United States of America,Amarilla,Medium,Enterprise,January,,
-United States of America,Amarilla,Medium,Enterprise,May,,
-United States of America,Amarilla,Medium,Enterprise,September,,
-United States of America,Amarilla,Medium,Government,August,,
-United States of America,Amarilla,Medium,Government,February,,
-United States of America,Amarilla,Medium,Government,July,,
-United States of America,Amarilla,Medium,Government,June,42309.880000000005,27355
-United States of America,Amarilla,Medium,Government,November,,
-United States of America,Amarilla,Medium,Government,October,239183,189020
-United States of America,Amarilla,Medium,Government,September,659613.5,538460
-United States of America,Amarilla,Medium,Midmarket,December,,
-United States of America,Amarilla,Medium,Midmarket,July,,
-United States of America,Amarilla,Medium,Midmarket,November,,
-United States of America,Amarilla,Medium,Small Business,December,382788,343000
-United States of America,Amarilla,Medium,Small Business,June,,
-United States of America,Amarilla,None,Channel Partners,April,23436,5859
-United States of America,Amarilla,None,Channel Partners,August,25692,6423
-United States of America,Amarilla,None,Enterprise,April,,
-United States of America,Amarilla,None,Government,February,,
-United States of America,Amarilla,None,Government,July,,
-United States of America,Amarilla,None,Government,June,,
-United States of America,Amarilla,None,Government,October,8001,5715
-United States of America,Amarilla,None,Midmarket,December,9225,6150
-United States of America,Carretera,High,Channel Partners,February,,
-United States of America,Carretera,High,Channel Partners,October,4168.8,1158
-United States of America,Carretera,High,Enterprise,April,387618.75,413460
-United States of America,Carretera,High,Enterprise,August,,
-United States of America,Carretera,High,Enterprise,December,,
-United States of America,Carretera,High,Enterprise,October,,
-United States of America,Carretera,High,Enterprise,September,,
-United States of America,Carretera,High,Government,April,,
-United States of America,Carretera,High,Government,December,,
-United States of America,Carretera,High,Government,January,,
-United States of America,Carretera,High,Government,June,,
-United States of America,Carretera,High,Government,March,,
-United States of America,Carretera,High,Government,May,29979.6,17430
-United States of America,Carretera,High,Government,November,,
-United States of America,Carretera,High,Government,October,18035.92,14980
+financials.Country,financials.Discount Band,financials.Month Name,financials.Segment,Sum(financials. Sales),Sum(financials.COGS)
+Canada,High,April,Channel Partners,38021.399999999994,10561.5
+Canada,High,April,Enterprise,,
+Canada,High,April,Government,4301.85,3615
+Canada,High,April,Midmarket,20578.5,16140
+Canada,High,April,Small Business,,
+Canada,High,August,Channel Partners,,
+Canada,High,August,Enterprise,,
+Canada,High,August,Government,42613.2,23940
+Canada,High,August,Midmarket,32627.25,25590
+Canada,High,August,Small Business,,
+Canada,High,December,Channel Partners,,
+Canada,High,December,Enterprise,215550,229920
+Canada,High,December,Government,,
+Canada,High,December,Midmarket,59340,46000
+Canada,High,December,Small Business,,
+Canada,High,February,Channel Partners,20687.16,5811
+Canada,High,February,Enterprise,,
+Canada,High,February,Government,705600,582400
+Canada,High,February,Midmarket,,
+Canada,High,January,Channel Partners,,
+Canada,High,January,Enterprise,180416.25,199080
+Canada,High,January,Government,670477.5,579150
+Canada,High,January,Midmarket,5126.4,3840
+Canada,High,January,Small Business,233091,218250
+Canada,High,July,Channel Partners,42997.68,12078
+Canada,High,July,Government,670265.25,555825
+Canada,High,July,Midmarket,,
+Canada,High,July,Small Business,,
+Canada,High,June,Channel Partners,,
+Canada,High,June,Enterprise,344302.5,379920
+Canada,High,June,Government,1602888,1368640
+Canada,High,June,Midmarket,,
+Canada,High,March,Channel Partners,,
+Canada,High,March,Government,322815.1,264260
+Canada,High,March,Midmarket,,
+Canada,High,March,Small Business,229104,222000
+Canada,High,May,Channel Partners,22271.04,6327
+Canada,High,May,Enterprise,,
+Canada,High,May,Government,60200,52000
+Canada,High,May,Midmarket,,
+Canada,High,May,Small Business,,
+Canada,High,November,Channel Partners,22931.04,6666
+Canada,High,November,Enterprise,598375,657960
+Canada,High,November,Government,274206.84,220390
+Canada,High,November,Midmarket,56320.8,42490
+Canada,High,November,Small Business,364722,341500
+Canada,High,October,Channel Partners,,
+Canada,High,October,Enterprise,,
+Canada,High,October,Government,77148.08,52320
+Canada,High,October,Midmarket,85815.9,66160
+Canada,High,October,Small Business,910740,882500
+Canada,High,September,Channel Partners,29156.16,8283
+Canada,High,September,Enterprise,265760,289920
+Canada,High,September,Government,416924.76,347740
+Canada,High,September,Midmarket,31863,24700
+Canada,High,September,Small Business,,
+Canada,Low,April,Channel Partners,,
+Canada,Low,April,Enterprise,90956.25,89100
+Canada,Low,April,Government,401622.45,283815
+Canada,Low,April,Small Business,,
+Canada,Low,August,Enterprise,114221.25,110760
+Canada,Low,August,Government,12681.9,9150
+Canada,Low,August,Small Business,545334,468500
+Canada,Low,December,Channel Partners,10569.12,2724
+Canada,Low,December,Enterprise,668605,654960
+Canada,Low,December,Government,2553880,1945320
+Canada,Low,December,Midmarket,,
+Canada,Low,December,Small Business,1126608,958000
+Canada,Low,February,Channel Partners,,
+Canada,Low,February,Government,,
+Canada,Low,February,Midmarket,34736.1,23630
+Canada,Low,February,Small Business,,
+Canada,Low,January,Channel Partners,,
+Canada,Low,January,Government,28566.72,21255
+Canada,Low,January,Small Business,,
+Canada,Low,July,Channel Partners,,
+Canada,Low,July,Enterprise,,
+Canada,Low,July,Government,,
+Canada,Low,June,Channel Partners,,
+Canada,Low,June,Enterprise,,
+Canada,Low,June,Small Business,,
+Canada,Low,March,Channel Partners,,
+Canada,Low,March,Enterprise,215097.5,212880
+Canada,Low,March,Government,9189.18,6630
+Canada,Low,March,Midmarket,28324.8,19670
+Canada,Low,March,Small Business,,
+Canada,Low,May,Channel Partners,,
+Canada,Low,May,Enterprise,,
+Canada,Low,May,Government,16121.4,8310
+Canada,Low,May,Small Business,,
+Canada,Low,November,Channel Partners,,
+Canada,Low,November,Enterprise,,
+Canada,Low,November,Government,14497.56,10460
+Canada,Low,November,Midmarket,,
+Canada,Low,November,Small Business,,
+Canada,Low,October,Channel Partners,30458.4,7770
+Canada,Low,October,Enterprise,487182.5,482160
+Canada,Low,October,Government,38317.44,28510
+Canada,Low,October,Midmarket,,
+Canada,Low,October,Small Business,,
+Canada,Low,September,Channel Partners,17166.6,4335
+Canada,Low,September,Enterprise,,
+Canada,Low,September,Government,90624,47200
+Canada,Low,September,Midmarket,3139.2,2180
+Canada,Low,September,Small Business,,
+Canada,Medium,April,Channel Partners,,
+Canada,Medium,April,Government,,
+Canada,Medium,April,Midmarket,,
+Canada,Medium,April,Small Business,1038082.5,950625
+Canada,Medium,August,Channel Partners,21025.44,5652
+Canada,Medium,August,Enterprise,,
+Canada,Medium,August,Government,183540,143520
+Canada,Medium,August,Midmarket,,
+Canada,Medium,August,Small Business,,
+Canada,Medium,December,Channel Partners,55426.8,14586
+Canada,Medium,December,Enterprise,,
+Canada,Medium,December,Government,65097.71,41895
+Canada,Medium,December,Midmarket,,
+Canada,Medium,December,Small Business,686952,609000
+Canada,Medium,February,Channel Partners,,
+Canada,Medium,February,Enterprise,111860,114240
+Canada,Medium,February,Government,3142.7200000000003,2440
+Canada,Medium,February,Small Business,,
+Canada,Medium,January,Channel Partners,36208.62,9733.5
+Canada,Medium,January,Enterprise,,
+Canada,Medium,January,Government,,
+Canada,Medium,January,Midmarket,,
+Canada,Medium,January,Small Business,,
+Canada,Medium,July,Enterprise,,
+Canada,Medium,July,Government,5217.03,4095
+Canada,Medium,July,Midmarket,22256.324999999997,16305
+Canada,Medium,July,Small Business,1035625.5,948375
+Canada,Medium,June,Government,40832.1,25510
+Canada,Medium,June,Midmarket,80200.8,56880
+Canada,Medium,June,Small Business,597324,547000
+Canada,Medium,March,Channel Partners,6601.92,1794
+Canada,Medium,March,Enterprise,,
+Canada,Medium,March,Government,,
+Canada,Medium,March,Midmarket,,
+Canada,Medium,May,Channel Partners,,
+Canada,Medium,May,Enterprise,191231.25,197400
+Canada,Medium,May,Government,1655.08,1285
+Canada,Medium,May,Midmarket,17604.9,12620
+Canada,Medium,May,Small Business,474858,425500
+Canada,Medium,November,Channel Partners,25345.32,6963
+Canada,Medium,November,Enterprise,,
+Canada,Medium,November,Government,20794.8,11180
+Canada,Medium,November,Midmarket,,
+Canada,Medium,November,Small Business,391716,351000
+Canada,Medium,October,Channel Partners,51865.44,13794
+Canada,Medium,October,Enterprise,,
+Canada,Medium,October,Government,1677755,1326220
+Canada,Medium,October,Midmarket,,
+Canada,Medium,October,Small Business,,
+Canada,Medium,September,Channel Partners,,
+Canada,Medium,September,Enterprise,64496.25,68040
+Canada,Medium,September,Government,15620.85,11745
+Canada,Medium,September,Midmarket,,
+Canada,Medium,September,Small Business,943092,854250
+Canada,None,April,Channel Partners,,
+Canada,None,April,Enterprise,,
+Canada,None,August,Channel Partners,,
+Canada,None,August,Enterprise,,
+Canada,None,August,Government,,
+Canada,None,August,Small Business,,
+Canada,None,December,Government,72680,36340
+Canada,None,December,Midmarket,32280,21520
+Canada,None,February,Enterprise,,
+Canada,None,February,Government,5840,2920
+Canada,None,February,Midmarket,,
+Canada,None,February,Small Business,600300,500250
+Canada,None,January,Government,32370,16185
+Canada,None,July,Channel Partners,,
+Canada,None,July,Enterprise,333187.5,319860
+Canada,None,July,Government,,
+Canada,None,June,Channel Partners,60432,15108
+Canada,None,June,Government,,
+Canada,None,June,Midmarket,,
+Canada,None,March,Channel Partners,,
+Canada,None,March,Midmarket,,
+Canada,None,November,Channel Partners,,
+Canada,None,November,Government,603750,448500
+Canada,None,October,Enterprise,86250,82800
+Canada,None,October,Government,,
+Canada,None,September,Government,,
+Canada,None,September,Midmarket,,
+Canada,None,September,Small Business,,
+France,High,April,Channel Partners,,
+France,High,April,Enterprise,,
+France,High,April,Government,15774.36,12660
+France,High,April,Midmarket,,
+France,High,April,Small Business,468072,443250
+France,High,August,Channel Partners,25542,7425
+France,High,August,Enterprise,124737.5,140880
+France,High,August,Government,16418.64,13480
+France,High,August,Midmarket,,
+France,High,August,Small Business,,
+France,High,December,Channel Partners,,
+France,High,December,Enterprise,166725,177840
+France,High,December,Government,395543,338920
+France,High,December,Midmarket,55944,41440
+France,High,December,Small Business,773724,723000
+France,High,February,Channel Partners,,
+France,High,February,Enterprise,,
+France,High,February,Government,1763.8600000000001,1465
+France,High,February,Midmarket,,
+France,High,January,Channel Partners,18519.12,5202
+France,High,January,Enterprise,,
+France,High,January,Government,44378.399999999994,25215
+France,High,January,Midmarket,52167.375,39975
+France,High,January,Small Business,,
+France,High,July,Channel Partners,25904.340000000004,7276.5
+France,High,July,Government,222361.44,183247.5
+France,High,July,Midmarket,51143.399999999994,38745
+France,High,July,Small Business,,
+France,High,June,Channel Partners,,
+France,High,June,Enterprise,,
+France,High,June,Government,14494.2,11900
+France,High,June,Midmarket,,
+France,High,March,Channel Partners,,
+France,High,March,Government,589411.56,492395
+France,High,March,Midmarket,,
+France,High,March,Small Business,631125,618750
+France,High,May,Channel Partners,,
+France,High,May,Enterprise,159421.25,171960
+France,High,May,Government,,
+France,High,May,Midmarket,36031.5,28260
+France,High,May,Small Business,,
+France,High,November,Channel Partners,,
+France,High,November,Enterprise,,
+France,High,November,Government,1069474,914160
+France,High,November,Midmarket,,
+France,High,November,Small Business,,
+France,High,October,Channel Partners,54340.8,15546
+France,High,October,Enterprise,543122.5,585840
+France,High,October,Government,20841.239999999998,17310
+France,High,October,Midmarket,58509,43340
+France,High,October,Small Business,,
+France,High,September,Channel Partners,,
+France,High,September,Enterprise,180416.25,202320
+France,High,September,Government,49929,28050
+France,High,September,Midmarket,,
+France,High,September,Small Business,,
+France,Low,April,Channel Partners,,
+France,Low,April,Enterprise,514524.375,509220
+France,Low,April,Government,76507.20000000001,38640
+France,Low,April,Small Business,,
+France,Low,August,Enterprise,,
+France,Low,August,Government,,
+France,Low,August,Small Business,,
+France,Low,December,Channel Partners,24813.6,6330
+France,Low,December,Enterprise,312097.5,308880
+France,Low,December,Government,1493415,1120600
+France,Low,December,Midmarket,32558.4,22610
+France,Low,December,Small Business,,
+France,Low,February,Channel Partners,,
+France,Low,February,Government,,
+France,Low,February,Midmarket,34095.6,22960
+France,Low,February,Small Business,,
+France,Low,January,Channel Partners,,
+France,Low,January,Government,27338.850000000002,19725
+France,Low,January,Small Business,708439.5,608625
+France,Low,July,Channel Partners,,
+France,Low,July,Enterprise,358560,358560
+France,Low,July,Government,27234.899999999998,13755
+France,Low,June,Channel Partners,44255.28,11406
+France,Low,June,Enterprise,194782.5,188880
+France,Low,June,Small Business,,
+France,Low,March,Channel Partners,,
+France,Low,March,Enterprise,,
+France,Low,March,Government,,
+France,Low,March,Midmarket,,
+France,Low,March,Small Business,,
+France,Low,May,Channel Partners,9976.32,2598
+France,Low,May,Enterprise,,
+France,Low,May,Government,7137.9,5150
+France,Low,May,Small Business,269892,229500
+France,Low,November,Channel Partners,20991.6,5355
+France,Low,November,Enterprise,215820,209280
+France,Low,November,Government,37586.57,23330
+France,Low,November,Midmarket,4766.85,3210
+France,Low,November,Small Business,,
+France,Low,October,Channel Partners,,
+France,Low,October,Enterprise,,
+France,Low,October,Government,1462944,1132040
+France,Low,October,Midmarket,,
+France,Low,October,Small Business,,
+France,Low,September,Channel Partners,31731.48,8013
+France,Low,September,Enterprise,,
+France,Low,September,Government,3693.76,2720
+France,Low,September,Midmarket,,
+France,Low,September,Small Business,,
+France,Medium,April,Channel Partners,19401.66,5215.5
+France,Medium,April,Government,184989,149370
+France,Medium,April,Midmarket,53594.100000000006,38010
+France,Medium,April,Small Business,,
+France,Medium,August,Channel Partners,,
+France,Medium,August,Enterprise,,
+France,Medium,August,Government,152683,114850
+France,Medium,August,Midmarket,29308.95,21010
+France,Medium,August,Small Business,431112,390500
+France,Medium,December,Channel Partners,3341.52,918
+France,Medium,December,Enterprise,,
+France,Medium,December,Government,66908.5,45880
+France,Medium,December,Midmarket,,
+France,Medium,December,Small Business,,
+France,Medium,February,Channel Partners,21261,5595
+France,Medium,February,Enterprise,,
+France,Medium,February,Government,24757,13030
+France,Medium,February,Small Business,267561,239750
+France,Medium,January,Channel Partners,,
+France,Medium,January,Enterprise,233531.25,238500
+France,Medium,January,Government,460346.25,359970
+France,Medium,January,Midmarket,,
+France,Medium,January,Small Business,,
+France,Medium,July,Enterprise,,
+France,Medium,July,Government,,
+France,Medium,July,Midmarket,,
+France,Medium,July,Small Business,462861,414750
+France,Medium,June,Government,984368,777920
+France,Medium,June,Midmarket,,
+France,Medium,June,Small Business,249984,224000
+France,Medium,March,Channel Partners,21479.64,5901
+France,Medium,March,Enterprise,283218.75,286200
+France,Medium,March,Government,,
+France,Medium,March,Midmarket,34513.8,25010
+France,Medium,May,Channel Partners,,
+France,Medium,May,Enterprise,,
+France,Medium,May,Government,560318,448790
+France,Medium,May,Midmarket,,
+France,Medium,May,Small Business,,
+France,Medium,November,Channel Partners,26136.72,7026
+France,Medium,November,Enterprise,211233.75,222840
+France,Medium,November,Government,48812.4,26820
+France,Medium,November,Midmarket,6762,4900
+France,Medium,November,Small Business,467988,427500
+France,Medium,October,Channel Partners,,
+France,Medium,October,Enterprise,167200,168960
+France,Medium,October,Government,1524041.8800000004,1168210
+France,Medium,October,Midmarket,33497.1,24540
+France,Medium,October,Small Business,1905642,1701000
+France,Medium,September,Channel Partners,24395.28,6702
+France,Medium,September,Enterprise,,
+France,Medium,September,Government,971400.81,768265
+France,Medium,September,Midmarket,37335,26200
+France,Medium,September,Small Business,87906,80500
+France,None,April,Channel Partners,,
+France,None,April,Enterprise,,
+France,None,August,Channel Partners,,
+France,None,August,Enterprise,,
+France,None,August,Government,,
+France,None,August,Small Business,,
+France,None,December,Government,,
+France,None,December,Midmarket,,
+France,None,February,Enterprise,225500,216480
+France,None,February,Government,962500,715000
+France,None,February,Midmarket,,
+France,None,February,Small Business,,
+France,None,January,Government,,
+France,None,July,Channel Partners,,
+France,None,July,Enterprise,,
+France,None,July,Government,,
+France,None,June,Channel Partners,,
+France,None,June,Government,75960,37980
+France,None,June,Midmarket,65340,43560
+France,None,March,Channel Partners,,
+France,None,March,Midmarket,,
+France,None,November,Channel Partners,,
+France,None,November,Government,,
+France,None,October,Enterprise,,
+France,None,October,Government,,
+France,None,September,Government,534450,397020
+France,None,September,Midmarket,8235,5490
+France,None,September,Small Business,645300,537750
+Germany,High,April,Channel Partners,,
+Germany,High,April,Enterprise,,
+Germany,High,April,Government,360899,311740
+Germany,High,April,Midmarket,6885,5100
+Germany,High,April,Small Business,,
+Germany,High,August,Channel Partners,27799.2,7722
+Germany,High,August,Enterprise,293993.75,332040
+Germany,High,August,Government,,
+Germany,High,August,Midmarket,,
+Germany,High,August,Small Business,,
+Germany,High,December,Channel Partners,39630.24,11388
+Germany,High,December,Enterprise,,
+Germany,High,December,Government,646312.3999999999,519620
+Germany,High,December,Midmarket,,
+Germany,High,December,Small Business,,
+Germany,High,February,Channel Partners,,
+Germany,High,February,Enterprise,,
+Germany,High,February,Government,47119.2,27080
+Germany,High,February,Midmarket,3586.2,2780
+Germany,High,January,Channel Partners,,
+Germany,High,January,Enterprise,352106.25,379800
+Germany,High,January,Government,238609,199160
+Germany,High,January,Midmarket,9193.5,6810
+Germany,High,January,Small Business,210627,201750
+Germany,High,July,Channel Partners,,
+Germany,High,July,Government,,
+Germany,High,July,Midmarket,6273,4920
+Germany,High,July,Small Business,750537,702750
+Germany,High,June,Channel Partners,,
+Germany,High,June,Enterprise,,
+Germany,High,June,Government,,
+Germany,High,June,Midmarket,,
+Germany,High,March,Channel Partners,,
+Germany,High,March,Government,266394,217500
+Germany,High,March,Midmarket,,
+Germany,High,March,Small Business,,
+Germany,High,May,Channel Partners,,
+Germany,High,May,Enterprise,,
+Germany,High,May,Government,,
+Germany,High,May,Midmarket,,
+Germany,High,May,Small Business,,
+Germany,High,November,Channel Partners,,
+Germany,High,November,Enterprise,58650,66240
+Germany,High,November,Government,125496,106145
+Germany,High,November,Midmarket,19517.7,15130
+Germany,High,November,Small Business,1013064,973750
+Germany,High,October,Channel Partners,10081.92,2832
+Germany,High,October,Enterprise,230562.5,260400
+Germany,High,October,Government,115191.2,64660
+Germany,High,October,Midmarket,29962.5,23500
+Germany,High,October,Small Business,,
+Germany,High,September,Channel Partners,,
+Germany,High,September,Enterprise,,
+Germany,High,September,Government,7690.8,4420
+Germany,High,September,Midmarket,8613,6600
+Germany,High,September,Small Business,,
+Germany,Low,April,Channel Partners,,
+Germany,Low,April,Enterprise,,
+Germany,Low,April,Government,50052,25800
+Germany,Low,April,Small Business,407376,353625
+Germany,Low,August,Enterprise,,
+Germany,Low,August,Government,,
+Germany,Low,August,Small Business,535392,464750
+Germany,Low,December,Channel Partners,,
+Germany,Low,December,Enterprise,413705,409440
+Germany,Low,December,Government,,
+Germany,Low,December,Midmarket,,
+Germany,Low,December,Small Business,,
+Germany,Low,February,Channel Partners,,
+Germany,Low,February,Government,13294.82,9790
+Germany,Low,February,Midmarket,,
+Germany,Low,February,Small Business,,
+Germany,Low,January,Channel Partners,28855.56,7437
+Germany,Low,January,Government,,
+Germany,Low,January,Small Business,,
+Germany,Low,July,Channel Partners,,
+Germany,Low,July,Enterprise,,
+Germany,Low,July,Government,,
+Germany,Low,June,Channel Partners,,
+Germany,Low,June,Enterprise,380725,376800
+Germany,Low,June,Small Business,400998,344500
+Germany,Low,March,Channel Partners,,
+Germany,Low,March,Enterprise,95400,95400
+Germany,Low,March,Government,1822.59,1315
+Germany,Low,March,Midmarket,,
+Germany,Low,March,Small Business,76146,64750
+Germany,Low,May,Channel Partners,,
+Germany,Low,May,Enterprise,278810,273120
+Germany,Low,May,Government,,
+Germany,Low,May,Small Business,508032,432000
+Germany,Low,November,Channel Partners,,
+Germany,Low,November,Enterprise,,
+Germany,Low,November,Government,,
+Germany,Low,November,Midmarket,,
+Germany,Low,November,Small Business,,
+Germany,Low,October,Channel Partners,18200.16,4596
+Germany,Low,October,Enterprise,198205,194160
+Germany,Low,October,Government,4008298,3038360
+Germany,Low,October,Midmarket,56599.5,38900
+Germany,Low,October,Small Business,1289928,1117500
+Germany,Low,September,Channel Partners,,
+Germany,Low,September,Enterprise,,
+Germany,Low,September,Government,1250833.5,963040
+Germany,Low,September,Midmarket,11092.95,7470
+Germany,Low,September,Small Business,292842,246500
+Germany,Medium,April,Channel Partners,,
+Germany,Medium,April,Government,8107.96,6295
+Germany,Medium,April,Midmarket,,
+Germany,Medium,April,Small Business,,
+Germany,Medium,August,Channel Partners,,
+Germany,Medium,August,Enterprise,,
+Germany,Medium,August,Government,164993.91999999998,127720
+Germany,Medium,August,Midmarket,24576.3,17430
+Germany,Medium,August,Small Business,,
+Germany,Medium,December,Channel Partners,,
+Germany,Medium,December,Enterprise,104222.5,106440
+Germany,Medium,December,Government,24770.55,16505
+Germany,Medium,December,Midmarket,49776.6,35380
+Germany,Medium,December,Small Business,803682,708500
+Germany,Medium,February,Channel Partners,12722.4,3348
+Germany,Medium,February,Enterprise,95831.25,96840
+Germany,Medium,February,Government,448875,351000
+Germany,Medium,February,Small Business,725907,664750
+Germany,Medium,January,Channel Partners,,
+Germany,Medium,January,Enterprise,,
+Germany,Medium,January,Government,9123.8,6860
+Germany,Medium,January,Midmarket,,
+Germany,Medium,January,Small Business,,
+Germany,Medium,July,Enterprise,408386.25,421560
+Germany,Medium,July,Government,428147.5,346270
+Germany,Medium,July,Midmarket,,
+Germany,Medium,July,Small Business,,
+Germany,Medium,June,Government,80382.24,50700
+Germany,Medium,June,Midmarket,,
+Germany,Medium,June,Small Business,,
+Germany,Medium,March,Channel Partners,,
+Germany,Medium,March,Enterprise,,
+Germany,Medium,March,Government,,
+Germany,Medium,March,Midmarket,,
+Germany,Medium,May,Channel Partners,9609.6,2640
+Germany,Medium,May,Enterprise,,
+Germany,Medium,May,Government,499458.39999999997,391705
+Germany,Medium,May,Midmarket,21573,15300
+Germany,Medium,May,Small Business,,
+Germany,Medium,November,Channel Partners,46081.8,12351
+Germany,Medium,November,Enterprise,290625,300000
+Germany,Medium,November,Government,769379.4,601210
+Germany,Medium,November,Midmarket,13240.5,9700
+Germany,Medium,November,Small Business,,
+Germany,Medium,October,Channel Partners,,
+Germany,Medium,October,Enterprise,,
+Germany,Medium,October,Government,20001.100000000002,15190
+Germany,Medium,October,Midmarket,,
+Germany,Medium,October,Small Business,,
+Germany,Medium,September,Channel Partners,41973,11385
+Germany,Medium,September,Enterprise,358166.25,369720
+Germany,Medium,September,Government,51099.56,31385
+Germany,Medium,September,Midmarket,,
+Germany,Medium,September,Small Business,313317,280750
+Germany,None,April,Channel Partners,34056,8514
+Germany,None,April,Enterprise,527437.5,506340
+Germany,None,August,Channel Partners,,
+Germany,None,August,Enterprise,,
+Germany,None,August,Government,,
+Germany,None,August,Small Business,,
+Germany,None,December,Government,1059100,786760
+Germany,None,December,Midmarket,,
+Germany,None,February,Enterprise,,
+Germany,None,February,Government,,
+Germany,None,February,Midmarket,,
+Germany,None,February,Small Business,,
+Germany,None,January,Government,26420,13210
+Germany,None,July,Channel Partners,4404,1101
+Germany,None,July,Enterprise,,
+Germany,None,July,Government,11802,8430
+Germany,None,June,Channel Partners,37080,9270
+Germany,None,June,Government,704200,523120
+Germany,None,June,Midmarket,26640,17760
+Germany,None,March,Channel Partners,25932,6483
+Germany,None,March,Midmarket,13815,9210
+Germany,None,November,Channel Partners,,
+Germany,None,November,Government,,
+Germany,None,October,Enterprise,,
+Germany,None,October,Government,,
+Germany,None,September,Government,15022,10730
+Germany,None,September,Midmarket,,
+Germany,None,September,Small Business,,
+Mexico,High,April,Channel Partners,,
+Mexico,High,April,Enterprise,,
+Mexico,High,April,Government,59442.05,38465
+Mexico,High,April,Midmarket,,
+Mexico,High,April,Small Business,,
+Mexico,High,August,Channel Partners,,
+Mexico,High,August,Enterprise,,
+Mexico,High,August,Government,,
+Mexico,High,August,Midmarket,26486.4,19840
+Mexico,High,August,Small Business,,
+Mexico,High,December,Channel Partners,,
+Mexico,High,December,Enterprise,303257.5,338520
+Mexico,High,December,Government,43401.6,24660
+Mexico,High,December,Midmarket,62607.9,46940
+Mexico,High,December,Small Business,,
+Mexico,High,February,Channel Partners,,
+Mexico,High,February,Enterprise,169312.5,189000
+Mexico,High,February,Government,12611.6,9440
+Mexico,High,February,Midmarket,,
+Mexico,High,January,Channel Partners,,
+Mexico,High,January,Enterprise,61632.5,66480
+Mexico,High,January,Government,46796.2,26290
+Mexico,High,January,Midmarket,,
+Mexico,High,January,Small Business,,
+Mexico,High,July,Channel Partners,5961.24,1713
+Mexico,High,July,Government,468897,385250
+Mexico,High,July,Midmarket,8653.5,6410
+Mexico,High,July,Small Business,206658,200250
+Mexico,High,June,Channel Partners,12611.52,3624
+Mexico,High,June,Enterprise,,
+Mexico,High,June,Government,545776,460720
+Mexico,High,June,Midmarket,,
+Mexico,High,March,Channel Partners,5100,1500
+Mexico,High,March,Government,37447.66,25735
+Mexico,High,March,Midmarket,,
+Mexico,High,March,Small Business,,
+Mexico,High,May,Channel Partners,28100.16,7983
+Mexico,High,May,Enterprise,38362.5,40920
+Mexico,High,May,Government,884874.5,761650
+Mexico,High,May,Midmarket,,
+Mexico,High,May,Small Business,159570,147750
+Mexico,High,November,Channel Partners,,
+Mexico,High,November,Enterprise,,
+Mexico,High,November,Government,1025456.88,884010
+Mexico,High,November,Midmarket,24123,18700
+Mexico,High,November,Small Business,1247505,1188750
+Mexico,High,October,Channel Partners,8560.8,2460
+Mexico,High,October,Enterprise,474320,517440
+Mexico,High,October,Government,327329.07999999996,248550
+Mexico,High,October,Midmarket,,
+Mexico,High,October,Small Business,278460,273000
+Mexico,High,September,Channel Partners,10733.4,3015
+Mexico,High,September,Enterprise,105353.75,113640
+Mexico,High,September,Government,14907.2,12100
+Mexico,High,September,Midmarket,8744.25,6550
+Mexico,High,September,Small Business,116640,108000
+Mexico,Low,April,Channel Partners,22302.24,5748
+Mexico,Low,April,Enterprise,128880,128880
+Mexico,Low,April,Government,,
+Mexico,Low,April,Small Business,,
+Mexico,Low,August,Enterprise,,
+Mexico,Low,August,Government,557459,426920
+Mexico,Low,August,Small Business,,
+Mexico,Low,December,Channel Partners,25495.68,6504
+Mexico,Low,December,Enterprise,273120,273120
+Mexico,Low,December,Government,676082.4,509840
+Mexico,Low,December,Midmarket,,
+Mexico,Low,December,Small Business,,
+Mexico,Low,February,Channel Partners,,
+Mexico,Low,February,Government,626640,484900
+Mexico,Low,February,Midmarket,,
+Mexico,Low,February,Small Business,,
+Mexico,Low,January,Channel Partners,,
+Mexico,Low,January,Government,,
+Mexico,Low,January,Small Business,,
+Mexico,Low,July,Channel Partners,,
+Mexico,Low,July,Enterprise,225596.25,218760
+Mexico,Low,July,Government,,
+Mexico,Low,June,Channel Partners,,
+Mexico,Low,June,Enterprise,162190,158880
+Mexico,Low,June,Small Business,,
+Mexico,Low,March,Channel Partners,,
+Mexico,Low,March,Enterprise,,
+Mexico,Low,March,Government,419265,314600
+Mexico,Low,March,Midmarket,32877.9,22140
+Mexico,Low,March,Small Business,323694,275250
+Mexico,Low,May,Channel Partners,,
+Mexico,Low,May,Enterprise,,
+Mexico,Low,May,Government,2508.66,1810
+Mexico,Low,May,Small Business,,
+Mexico,Low,November,Channel Partners,8114.4,2070
+Mexico,Low,November,Enterprise,203350,199200
+Mexico,Low,November,Government,,
+Mexico,Low,November,Midmarket,,
+Mexico,Low,November,Small Business,,
+Mexico,Low,October,Channel Partners,,
+Mexico,Low,October,Enterprise,525525,514800
+Mexico,Low,October,Government,968121,726440
+Mexico,Low,October,Midmarket,102096,70900
+Mexico,Low,October,Small Business,293436,247000
+Mexico,Low,September,Channel Partners,,
+Mexico,Low,September,Enterprise,,
+Mexico,Low,September,Government,11950.4,8800
+Mexico,Low,September,Midmarket,,
+Mexico,Low,September,Small Business,,
+Mexico,Medium,April,Channel Partners,,
+Mexico,Medium,April,Government,322420,254800
+Mexico,Medium,April,Midmarket,35872.2,26280
+Mexico,Medium,April,Small Business,457995,401750
+Mexico,Medium,August,Channel Partners,12802.2,3369
+Mexico,Medium,August,Enterprise,177100,184800
+Mexico,Medium,August,Government,11327.4,6090
+Mexico,Medium,August,Midmarket,,
+Mexico,Medium,August,Small Business,,
+Mexico,Medium,December,Channel Partners,15180,4125
+Mexico,Medium,December,Enterprise,,
+Mexico,Medium,December,Government,896297.78,723180
+Mexico,Medium,December,Midmarket,,
+Mexico,Medium,December,Small Business,664020,592500
+Mexico,Medium,February,Channel Partners,8113.32,2181
+Mexico,Medium,February,Enterprise,,
+Mexico,Medium,February,Government,,
+Mexico,Medium,February,Small Business,766413,686750
+Mexico,Medium,January,Channel Partners,26114.4,7020
+Mexico,Medium,January,Enterprise,,
+Mexico,Medium,January,Government,769814.5,628420
+Mexico,Medium,January,Midmarket,40769.25,28610
+Mexico,Medium,January,Small Business,700245,641250
+Mexico,Medium,July,Enterprise,,
+Mexico,Medium,July,Government,11191.95,8415
+Mexico,Medium,July,Midmarket,,
+Mexico,Medium,July,Small Business,,
+Mexico,Medium,June,Government,57496.87999999999,35740
+Mexico,Medium,June,Midmarket,,
+Mexico,Medium,June,Small Business,1357920,1230000
+Mexico,Medium,March,Channel Partners,,
+Mexico,Medium,March,Enterprise,128110,133680
+Mexico,Medium,March,Government,,
+Mexico,Medium,March,Midmarket,,
+Mexico,Medium,May,Channel Partners,,
+Mexico,Medium,May,Enterprise,,
+Mexico,Medium,May,Government,,
+Mexico,Medium,May,Midmarket,3344.25,2450
+Mexico,Medium,May,Small Business,,
+Mexico,Medium,November,Channel Partners,30835.08,8289
+Mexico,Medium,November,Enterprise,99758.75,105240
+Mexico,Medium,November,Government,60714.34,34835
+Mexico,Medium,November,Midmarket,39771.75,27910
+Mexico,Medium,November,Small Business,,
+Mexico,Medium,October,Channel Partners,8015.28,2202
+Mexico,Medium,October,Enterprise,,
+Mexico,Medium,October,Government,35763.7,26890
+Mexico,Medium,October,Midmarket,,
+Mexico,Medium,October,Small Business,,
+Mexico,Medium,September,Channel Partners,6339.36,1686
+Mexico,Medium,September,Enterprise,240012.5,253200
+Mexico,Medium,September,Government,880974.6,672010
+Mexico,Medium,September,Midmarket,,
+Mexico,Medium,September,Small Business,,
+Mexico,None,April,Channel Partners,,
+Mexico,None,April,Enterprise,,
+Mexico,None,August,Channel Partners,,
+Mexico,None,August,Enterprise,,
+Mexico,None,August,Government,6181,4415
+Mexico,None,August,Small Business,287400,239500
+Mexico,None,December,Government,,
+Mexico,None,December,Midmarket,,
+Mexico,None,February,Enterprise,,
+Mexico,None,February,Government,,
+Mexico,None,February,Midmarket,14610,9740
+Mexico,None,February,Small Business,,
+Mexico,None,January,Government,10451,7465
+Mexico,None,July,Channel Partners,,
+Mexico,None,July,Enterprise,,
+Mexico,None,July,Government,,
+Mexico,None,June,Channel Partners,,
+Mexico,None,June,Government,,
+Mexico,None,June,Midmarket,74100,49400
+Mexico,None,March,Channel Partners,,
+Mexico,None,March,Midmarket,,
+Mexico,None,November,Channel Partners,,
+Mexico,None,November,Government,,
+Mexico,None,October,Enterprise,,
+Mexico,None,October,Government,,
+Mexico,None,September,Government,,
+Mexico,None,September,Midmarket,37080,24720
+Mexico,None,September,Small Business,236400,197000
+United States of America,High,April,Channel Partners,,
+United States of America,High,April,Enterprise,387618.75,413460
+United States of America,High,April,Government,10423.2,6060
+United States of America,High,April,Midmarket,,
+United States of America,High,April,Small Business,,
+United States of America,High,August,Channel Partners,,
+United States of America,High,August,Enterprise,,
+United States of America,High,August,Government,884205,729820
+United States of America,High,August,Midmarket,,
+United States of America,High,August,Small Business,655578,635250
+United States of America,High,December,Channel Partners,39440.399999999994,11529
+United States of America,High,December,Enterprise,259037.5,292560
+United States of America,High,December,Government,,
+United States of America,High,December,Midmarket,,
+United States of America,High,December,Small Business,,
+United States of America,High,February,Channel Partners,,
+United States of America,High,February,Enterprise,,
+United States of America,High,February,Government,137018.22,103100
+United States of America,High,February,Midmarket,,
+United States of America,High,January,Channel Partners,,
+United States of America,High,January,Enterprise,65137.5,69480
+United States of America,High,January,Government,307931.715,262642.5
+United States of America,High,January,Midmarket,,
+United States of America,High,January,Small Business,922680,873750
+United States of America,High,July,Channel Partners,,
+United States of America,High,July,Government,,
+United States of America,High,July,Midmarket,42713.325,31995
+United States of America,High,July,Small Business,634680,615000
+United States of America,High,June,Channel Partners,,
+United States of America,High,June,Enterprise,,
+United States of America,High,June,Government,,
+United States of America,High,June,Midmarket,66998.7,51340
+United States of America,High,March,Channel Partners,,
+United States of America,High,March,Government,9837.17,7895
+United States of America,High,March,Midmarket,8936.4,6770
+United States of America,High,March,Small Business,808110,748250
+United States of America,High,May,Channel Partners,18421.2,5418
+United States of America,High,May,Enterprise,305730,341280
+United States of America,High,May,Government,758574.6,618810
+United States of America,High,May,Midmarket,10665,7900
+United States of America,High,May,Small Business,,
+United States of America,High,November,Channel Partners,,
+United States of America,High,November,Enterprise,465520,502920
+United States of America,High,November,Government,951359.5,827840
+United States of America,High,November,Midmarket,33633.6,25480
+United States of America,High,November,Small Business,656370,643500
+United States of America,High,October,Channel Partners,68482.56,19800
+United States of America,High,October,Enterprise,,
+United States of America,High,October,Government,652525.8400000001,548020
+United States of America,High,October,Midmarket,,
+United States of America,High,October,Small Business,1759920,1652000
+United States of America,High,September,Channel Partners,,
+United States of America,High,September,Enterprise,179550,191520
+United States of America,High,September,Government,17033.8,13540
+United States of America,High,September,Midmarket,22794.3,17670
+United States of America,High,September,Small Business,,
+United States of America,Low,April,Channel Partners,,
+United States of America,Low,April,Enterprise,,
+United States of America,Low,April,Government,31133.024999999998,22462.5
+United States of America,Low,April,Small Business,683397,575250
+United States of America,Low,August,Enterprise,,
+United States of America,Low,August,Government,,
+United States of America,Low,August,Small Business,,
+United States of America,Low,December,Channel Partners,,
+United States of America,Low,December,Enterprise,,
+United States of America,Low,December,Government,289175.18,221705
+United States of America,Low,December,Midmarket,28297.5,19250
+United States of America,Low,December,Small Business,,
+United States of America,Low,February,Channel Partners,22073.04,5574
+United States of America,Low,February,Government,,
+United States of America,Low,February,Midmarket,22482.9,15140
+United States of America,Low,February,Small Business,827604,711000
+United States of America,Low,January,Channel Partners,,
+United States of America,Low,January,Government,,
+United States of America,Low,January,Small Business,,
+United States of America,Low,July,Channel Partners,15940.98,4108.5
+United States of America,Low,July,Enterprise,,
+United States of America,Low,July,Government,1176725.97,909645
+United States of America,Low,June,Channel Partners,26859.84,6852
+United States of America,Low,June,Enterprise,179932.5,174480
+United States of America,Low,June,Small Business,,
+United States of America,Low,March,Channel Partners,16876.8,4395
+United States of America,Low,March,Enterprise,,
+United States of America,Low,March,Government,,
+United States of America,Low,March,Midmarket,,
+United States of America,Low,March,Small Business,,
+United States of America,Low,May,Channel Partners,,
+United States of America,Low,May,Enterprise,,
+United States of America,Low,May,Government,,
+United States of America,Low,May,Small Business,840384,729500
+United States of America,Low,November,Channel Partners,,
+United States of America,Low,November,Enterprise,,
+United States of America,Low,November,Government,24225.6,12360
+United States of America,Low,November,Midmarket,,
+United States of America,Low,November,Small Business,862785,726250
+United States of America,Low,October,Channel Partners,,
+United States of America,Low,October,Enterprise,164092.5,159120
+United States of America,Low,October,Government,61387.2,31320
+United States of America,Low,October,Midmarket,19324.8,13420
+United States of America,Low,October,Small Business,,
+United States of America,Low,September,Channel Partners,46292.4,11808
+United States of America,Low,September,Enterprise,40837.5,39600
+United States of America,Low,September,Government,151670.40000000002,108660
+United States of America,Low,September,Midmarket,,
+United States of America,Low,September,Small Business,741906,624500
+United States of America,Medium,April,Channel Partners,,
+United States of America,Medium,April,Government,430452.75,351390
+United States of America,Medium,April,Midmarket,50163.75,36750
+United States of America,Medium,April,Small Business,,
+United States of America,Medium,August,Channel Partners,,
+United States of America,Medium,August,Enterprise,,
+United States of America,Medium,August,Government,58174.32,31710
+United States of America,Medium,August,Midmarket,30991.8,21980
+United States of America,Medium,August,Small Business,,
+United States of America,Medium,December,Channel Partners,,
+United States of America,Medium,December,Enterprise,636317.5,671280
+United States of America,Medium,December,Government,135205.6,73170
+United States of America,Medium,December,Midmarket,,
+United States of America,Medium,December,Small Business,988584,888000
+United States of America,Medium,February,Channel Partners,,
+United States of America,Medium,February,Enterprise,323712.5,330600
+United States of America,Medium,February,Government,,
+United States of America,Medium,February,Small Business,,
+United States of America,Medium,January,Channel Partners,21359.52,5868
+United States of America,Medium,January,Enterprise,,
+United States of America,Medium,January,Government,21009,11175
+United States of America,Medium,January,Midmarket,7908.75,5550
+United States of America,Medium,January,Small Business,,
+United States of America,Medium,July,Enterprise,430706.25,435240
+United States of America,Medium,July,Government,8031.599999999999,4365
+United States of America,Medium,July,Midmarket,,
+United States of America,Medium,July,Small Business,,
+United States of America,Medium,June,Government,484949.76,367750
+United States of America,Medium,June,Midmarket,,
+United States of America,Medium,June,Small Business,564870,495500
+United States of America,Medium,March,Channel Partners,,
+United States of America,Medium,March,Enterprise,355300,359040
+United States of America,Medium,March,Government,590914.1,467590
+United States of America,Medium,March,Midmarket,,
+United States of America,Medium,May,Channel Partners,,
+United States of America,Medium,May,Enterprise,,
+United States of America,Medium,May,Government,15474.55,11635
+United States of America,Medium,May,Midmarket,,
+United States of America,Medium,May,Small Business,,
+United States of America,Medium,November,Channel Partners,30715.44,8169
+United States of America,Medium,November,Enterprise,,
+United States of America,Medium,November,Government,29326.510000000002,16700
+United States of America,Medium,November,Midmarket,28623,20300
+United States of America,Medium,November,Small Business,,
+United States of America,Medium,October,Channel Partners,,
+United States of America,Medium,October,Enterprise,204487.5,206640
+United States of America,Medium,October,Government,478366,378040
+United States of America,Medium,October,Midmarket,32514.6,23060
+United States of America,Medium,October,Small Business,,
+United States of America,Medium,September,Channel Partners,,
+United States of America,Medium,September,Enterprise,,
+United States of America,Medium,September,Government,659613.5,538460
+United States of America,Medium,September,Midmarket,40887.45,29310
+United States of America,Medium,September,Small Business,509691,466750
+United States of America,None,April,Channel Partners,23436,5859
+United States of America,None,April,Enterprise,,
+United States of America,None,August,Channel Partners,25692,6423
+United States of America,None,August,Enterprise,352625,338520
+United States of America,None,August,Government,,
+United States of America,None,August,Small Business,,
+United States of America,None,December,Government,,
+United States of America,None,December,Midmarket,18450,12300
+United States of America,None,February,Enterprise,,
+United States of America,None,February,Government,,
+United States of America,None,February,Midmarket,,
+United States of America,None,February,Small Business,,
+United States of America,None,January,Government,,
+United States of America,None,July,Channel Partners,,
+United States of America,None,July,Enterprise,,
+United States of America,None,July,Government,,
+United States of America,None,June,Channel Partners,,
+United States of America,None,June,Government,,
+United States of America,None,June,Midmarket,,
+United States of America,None,March,Channel Partners,,
+United States of America,None,March,Midmarket,,
+United States of America,None,November,Channel Partners,10944,2736
+United States of America,None,November,Government,,
+United States of America,None,October,Enterprise,,
+United States of America,None,October,Government,16002,11430
+United States of America,None,September,Government,,
+United States of America,None,September,Midmarket,,
+United States of America,None,September,Small Business,,
