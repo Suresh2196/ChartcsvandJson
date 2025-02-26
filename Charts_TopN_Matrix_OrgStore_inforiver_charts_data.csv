@@ -1,141 +1,101 @@
-financials.Country,financials.Segment,financials.Discount Band,financials.Month Name,Sum(financials. Sales),Sum(financials.COGS)
-Canada,Channel Partners,High,April,38021.399999999994,10561.5
-Canada,Channel Partners,High,August,,
-Canada,Channel Partners,High,December,,
-Canada,Channel Partners,High,February,20687.16,5811
-Canada,Channel Partners,High,January,,
-Canada,Channel Partners,High,July,42997.68,12078
-Canada,Channel Partners,High,June,,
-Canada,Channel Partners,High,March,,
-Canada,Channel Partners,High,May,22271.04,6327
-Canada,Channel Partners,High,November,22931.04,6666
-Canada,Channel Partners,High,October,,
-Canada,Channel Partners,High,September,29156.16,8283
-Canada,Channel Partners,Low,April,,
-Canada,Channel Partners,Low,December,10569.12,2724
-Canada,Channel Partners,Low,February,,
-Canada,Channel Partners,Low,January,,
-Canada,Channel Partners,Low,July,,
-Canada,Channel Partners,Low,June,,
-Canada,Channel Partners,Low,March,,
-Canada,Channel Partners,Low,May,,
-Canada,Channel Partners,Low,November,,
-Canada,Channel Partners,Low,October,30458.4,7770
-Canada,Channel Partners,Low,September,17166.6,4335
-Canada,Channel Partners,Medium,April,,
-Canada,Channel Partners,Medium,August,21025.44,5652
-Canada,Channel Partners,Medium,December,55426.8,14586
-Canada,Channel Partners,Medium,February,,
-Canada,Channel Partners,Medium,January,36208.62,9733.5
-France,Channel Partners,High,April,,
-France,Channel Partners,High,August,25542,7425
-France,Channel Partners,High,December,,
-France,Channel Partners,High,February,,
-France,Channel Partners,High,January,18519.12,5202
-France,Channel Partners,High,July,25904.340000000004,7276.5
-France,Channel Partners,High,June,,
-France,Channel Partners,High,March,,
-France,Channel Partners,High,May,,
-France,Channel Partners,High,November,,
-France,Channel Partners,High,October,54340.8,15546
-France,Channel Partners,High,September,,
-France,Channel Partners,Low,April,,
-France,Channel Partners,Low,December,24813.6,6330
-France,Channel Partners,Low,February,,
-France,Channel Partners,Low,January,,
-France,Channel Partners,Low,July,,
-France,Channel Partners,Low,June,44255.28,11406
-France,Channel Partners,Low,March,,
-France,Channel Partners,Low,May,9976.32,2598
-France,Channel Partners,Low,November,20991.6,5355
-France,Channel Partners,Low,October,,
-France,Channel Partners,Low,September,31731.48,8013
-France,Channel Partners,Medium,April,19401.66,5215.5
-France,Channel Partners,Medium,August,,
-France,Channel Partners,Medium,December,3341.52,918
-France,Channel Partners,Medium,February,21261,5595
-France,Channel Partners,Medium,January,,
-Germany,Channel Partners,High,April,,
-Germany,Channel Partners,High,August,27799.2,7722
-Germany,Channel Partners,High,December,39630.24,11388
-Germany,Channel Partners,High,February,,
-Germany,Channel Partners,High,January,,
-Germany,Channel Partners,High,July,,
-Germany,Channel Partners,High,June,,
-Germany,Channel Partners,High,March,,
-Germany,Channel Partners,High,May,,
-Germany,Channel Partners,High,November,,
-Germany,Channel Partners,High,October,10081.92,2832
-Germany,Channel Partners,High,September,,
-Germany,Channel Partners,Low,April,,
-Germany,Channel Partners,Low,December,,
-Germany,Channel Partners,Low,February,,
-Germany,Channel Partners,Low,January,28855.56,7437
-Germany,Channel Partners,Low,July,,
-Germany,Channel Partners,Low,June,,
-Germany,Channel Partners,Low,March,,
-Germany,Channel Partners,Low,May,,
-Germany,Channel Partners,Low,November,,
-Germany,Channel Partners,Low,October,18200.16,4596
-Germany,Channel Partners,Low,September,,
-Germany,Channel Partners,Medium,April,,
-Germany,Channel Partners,Medium,August,,
-Germany,Channel Partners,Medium,December,,
-Germany,Channel Partners,Medium,February,12722.4,3348
-Germany,Channel Partners,Medium,January,,
-Mexico,Channel Partners,High,April,,
-Mexico,Channel Partners,High,August,,
-Mexico,Channel Partners,High,December,,
-Mexico,Channel Partners,High,February,,
-Mexico,Channel Partners,High,January,,
-Mexico,Channel Partners,High,July,5961.24,1713
-Mexico,Channel Partners,High,June,12611.52,3624
-Mexico,Channel Partners,High,March,5100,1500
-Mexico,Channel Partners,High,May,28100.16,7983
-Mexico,Channel Partners,High,November,,
-Mexico,Channel Partners,High,October,8560.8,2460
-Mexico,Channel Partners,High,September,10733.4,3015
-Mexico,Channel Partners,Low,April,22302.24,5748
-Mexico,Channel Partners,Low,December,25495.68,6504
-Mexico,Channel Partners,Low,February,,
-Mexico,Channel Partners,Low,January,,
-Mexico,Channel Partners,Low,July,,
-Mexico,Channel Partners,Low,June,,
-Mexico,Channel Partners,Low,March,,
-Mexico,Channel Partners,Low,May,,
-Mexico,Channel Partners,Low,November,8114.4,2070
-Mexico,Channel Partners,Low,October,,
-Mexico,Channel Partners,Low,September,,
-Mexico,Channel Partners,Medium,April,,
-Mexico,Channel Partners,Medium,August,12802.2,3369
-Mexico,Channel Partners,Medium,December,15180,4125
-Mexico,Channel Partners,Medium,February,8113.32,2181
-Mexico,Channel Partners,Medium,January,26114.4,7020
-United States of America,Channel Partners,High,April,,
-United States of America,Channel Partners,High,August,,
-United States of America,Channel Partners,High,December,39440.399999999994,11529
-United States of America,Channel Partners,High,February,,
-United States of America,Channel Partners,High,January,,
-United States of America,Channel Partners,High,July,,
-United States of America,Channel Partners,High,June,,
-United States of America,Channel Partners,High,March,,
-United States of America,Channel Partners,High,May,18421.2,5418
-United States of America,Channel Partners,High,November,,
-United States of America,Channel Partners,High,October,68482.56,19800
-United States of America,Channel Partners,High,September,,
-United States of America,Channel Partners,Low,April,,
-United States of America,Channel Partners,Low,December,,
-United States of America,Channel Partners,Low,February,22073.04,5574
-United States of America,Channel Partners,Low,January,,
-United States of America,Channel Partners,Low,July,15940.98,4108.5
-United States of America,Channel Partners,Low,June,26859.84,6852
-United States of America,Channel Partners,Low,March,16876.8,4395
-United States of America,Channel Partners,Low,May,,
-United States of America,Channel Partners,Low,November,,
-United States of America,Channel Partners,Low,October,,
-United States of America,Channel Partners,Low,September,46292.4,11808
-United States of America,Channel Partners,Medium,April,,
-United States of America,Channel Partners,Medium,August,,
-United States of America,Channel Partners,Medium,December,,
-United States of America,Channel Partners,Medium,February,,
-United States of America,Channel Partners,Medium,January,21359.52,5868
+financials.Country,financials.Segment,financials.Product,financials.Month Name,financials.Discount Band,Sum(financials. Sales),Sum(financials.COGS)
+Canada,Channel Partners,Amarilla,April,High,38021.399999999994,10561.5
+Canada,Channel Partners,Amarilla,April,None,,
+Canada,Channel Partners,Amarilla,August,High,,
+Canada,Channel Partners,Amarilla,August,Medium,,
+Canada,Channel Partners,Amarilla,August,None,,
+Canada,Channel Partners,Amarilla,December,High,,
+Canada,Channel Partners,Amarilla,December,Medium,,
+Canada,Channel Partners,Amarilla,October,High,,
+Canada,Channel Partners,Amarilla,September,High,29156.16,8283
+Canada,Channel Partners,Amarilla,September,Low,,
+Canada,Channel Partners,Carretera,August,Medium,21025.44,5652
+Canada,Channel Partners,Carretera,December,Low,10569.12,2724
+Canada,Channel Partners,Carretera,February,High,20687.16,5811
+Canada,Channel Partners,Carretera,February,Low,,
+Canada,Channel Partners,Carretera,February,Medium,,
+Canada,Channel Partners,Carretera,October,High,,
+Canada,Channel Partners,Carretera,October,Low,15229.2,3885
+Canada,Channel Partners,Carretera,October,Medium,25932.72,6897
+Canada,Channel Partners,Carretera,September,Low,17166.6,4335
+Canada,Channel Partners,Carretera,September,Medium,,
+France,Channel Partners,Amarilla,April,High,,
+France,Channel Partners,Amarilla,April,None,,
+France,Channel Partners,Amarilla,August,High,25542,7425
+France,Channel Partners,Amarilla,August,Medium,,
+France,Channel Partners,Amarilla,August,None,,
+France,Channel Partners,Amarilla,December,High,,
+France,Channel Partners,Amarilla,December,Medium,3341.52,918
+France,Channel Partners,Amarilla,October,High,14375.76,4179
+France,Channel Partners,Amarilla,September,High,,
+France,Channel Partners,Amarilla,September,Low,,
+France,Channel Partners,Carretera,August,Medium,,
+France,Channel Partners,Carretera,December,Low,,
+France,Channel Partners,Carretera,February,High,,
+France,Channel Partners,Carretera,February,Low,,
+France,Channel Partners,Carretera,February,Medium,21261,5595
+France,Channel Partners,Carretera,October,High,12794.64,3594
+France,Channel Partners,Carretera,October,Low,,
+France,Channel Partners,Carretera,October,Medium,,
+France,Channel Partners,Carretera,September,Low,31731.48,8013
+France,Channel Partners,Carretera,September,Medium,,
+Germany,Channel Partners,Amarilla,April,High,,
+Germany,Channel Partners,Amarilla,April,None,,
+Germany,Channel Partners,Amarilla,August,High,27799.2,7722
+Germany,Channel Partners,Amarilla,August,Medium,,
+Germany,Channel Partners,Amarilla,August,None,,
+Germany,Channel Partners,Amarilla,December,High,18478.8,5310
+Germany,Channel Partners,Amarilla,December,Medium,,
+Germany,Channel Partners,Amarilla,October,High,5040.96,1416
+Germany,Channel Partners,Amarilla,September,High,,
+Germany,Channel Partners,Amarilla,September,Low,,
+Germany,Channel Partners,Carretera,August,Medium,,
+Germany,Channel Partners,Carretera,December,Low,,
+Germany,Channel Partners,Carretera,February,High,,
+Germany,Channel Partners,Carretera,February,Low,,
+Germany,Channel Partners,Carretera,February,Medium,12722.4,3348
+Germany,Channel Partners,Carretera,October,High,,
+Germany,Channel Partners,Carretera,October,Low,9100.08,2298
+Germany,Channel Partners,Carretera,October,Medium,,
+Germany,Channel Partners,Carretera,September,Low,,
+Germany,Channel Partners,Carretera,September,Medium,17253.6,4740
+Mexico,Channel Partners,Amarilla,April,High,,
+Mexico,Channel Partners,Amarilla,April,None,,
+Mexico,Channel Partners,Amarilla,August,High,,
+Mexico,Channel Partners,Amarilla,August,Medium,12802.2,3369
+Mexico,Channel Partners,Amarilla,August,None,,
+Mexico,Channel Partners,Amarilla,December,High,,
+Mexico,Channel Partners,Amarilla,December,Medium,15180,4125
+Mexico,Channel Partners,Amarilla,October,High,4280.4,1230
+Mexico,Channel Partners,Amarilla,September,High,,
+Mexico,Channel Partners,Amarilla,September,Low,,
+Mexico,Channel Partners,Carretera,August,Medium,,
+Mexico,Channel Partners,Carretera,December,Low,,
+Mexico,Channel Partners,Carretera,February,High,,
+Mexico,Channel Partners,Carretera,February,Low,,
+Mexico,Channel Partners,Carretera,February,Medium,8113.32,2181
+Mexico,Channel Partners,Carretera,October,High,,
+Mexico,Channel Partners,Carretera,October,Low,,
+Mexico,Channel Partners,Carretera,October,Medium,4007.64,1101
+Mexico,Channel Partners,Carretera,September,Low,,
+Mexico,Channel Partners,Carretera,September,Medium,6339.36,1686
+United States of America,Channel Partners,Amarilla,April,High,,
+United States of America,Channel Partners,Amarilla,April,None,23436,5859
+United States of America,Channel Partners,Amarilla,August,High,,
+United States of America,Channel Partners,Amarilla,August,Medium,,
+United States of America,Channel Partners,Amarilla,August,None,25692,6423
+United States of America,Channel Partners,Amarilla,December,High,20794.8,6045
+United States of America,Channel Partners,Amarilla,December,Medium,,
+United States of America,Channel Partners,Amarilla,October,High,30072.48,8742
+United States of America,Channel Partners,Amarilla,September,High,,
+United States of America,Channel Partners,Amarilla,September,Low,23629.32,5967
+United States of America,Channel Partners,Carretera,August,Medium,,
+United States of America,Channel Partners,Carretera,December,Low,,
+United States of America,Channel Partners,Carretera,February,High,,
+United States of America,Channel Partners,Carretera,February,Low,22073.04,5574
+United States of America,Channel Partners,Carretera,February,Medium,,
+United States of America,Channel Partners,Carretera,October,High,4168.8,1158
+United States of America,Channel Partners,Carretera,October,Low,,
+United States of America,Channel Partners,Carretera,October,Medium,,
+United States of America,Channel Partners,Carretera,September,Low,22663.08,5841
+United States of America,Channel Partners,Carretera,September,Medium,,
