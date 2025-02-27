@@ -1,61 +1,361 @@
-financials.Country,financials.Month Name,Sum(financials. Sales),Sum(financials.COGS)
-United States of America,April,1616624.475,1411231.5
-United States of America,August,2007266.1199999999,1763703
-United States of America,December,2394507.6799999997,2189794
-United States of America,February,1332890.66,1165414
-United States of America,January,1346026.485,1228465.5
-United States of America,July,2308798.125,2000353.5
-United States of America,June,1323610.8,1095922
-United States of America,March,1789974.47,1593940
-United States of America,May,1949249.3499999999,1714543
-United States of America,November,3093502.6500000004,2786255
-United States of America,October,3457102.9999999995,3042850
-United States of America,September,2410276.35,2041818
-Canada,April,1593562.95,1353856.5
-Canada,August,952043.0399999999,787112
-Canada,December,5546988.63,4560265
-Canada,February,1482165.98,1231691
-Canada,January,1186256.49,1047493.5
-Canada,July,2109549.285,1856538
-Canada,June,2725979.4,2393058
-Canada,March,811132.5,727234
-Canada,May,783941.6699999999,703442
-Canada,November,2372659.3600000003,2097109
-Canada,October,3445532.7600000007,2942234
-Canada,September,1877842.8199999998,1658393
-France,April,1332862.6950000003,1196365.5
-France,August,779802.09,688145
-France,December,3325070.5199999996,2786418
-France,February,1537438.46,1214280
-France,January,1544720.745,1297212
-France,July,1148065.08,1016334
-France,June,1629183.98,1295646
-France,March,1559748.75,1428256
-France,May,1042776.97,886258
-France,November,2109571.89,1844421
-France,October,5770138.52,4856786
-France,September,2574792.58,2063030
-Germany,April,1394813.46,1217414
-Germany,August,1046755.1699999999,949662
-Germany,December,3141199.29,2594033
-Germany,February,1347335.8699999999,1155588
-Germany,January,874935.11,815027
-Germany,July,1609549.75,1485031
-Germany,June,1630025.24,1322150
-Germany,March,479509.59,394658
-Germany,May,1317483,1114765
-Germany,November,2336054.4000000004,2084526
-Germany,October,5977029.880000001,4760098
-Germany,September,2350650.06,1932000
-Mexico,April,1026911.49,855923
-Mexico,August,1078756,884934
-Mexico,December,2959462.8600000003,2519389
-Mexico,February,1597700.42,1382011
-Mexico,January,1655822.85,1405535
-Mexico,July,926957.94,820798
-Mexico,June,2210094.4,1938364
-Mexico,March,946494.56,772905
-Mexico,May,1116760.07,962563
-Mexico,November,2739629.1999999997,2469004
-Mexico,October,3021626.86,2629682
-Mexico,September,1669135.46,1400721
+financials.Country,financials.Product,financials.Month Name,Sum(financials. Sales),Sum(financials.COGS)
+United States of America,Paseo,April,81296.775,59212.5
+United States of America,Paseo,August,35358.119999999995,25370
+United States of America,Paseo,December,512249.23,465567
+United States of America,Paseo,February,68436.3,41550
+United States of America,Paseo,January,931440.465,880942.5
+United States of America,Paseo,July,1175140.98,901108.5
+United States of America,Paseo,June,585996.1699999999,494936
+United States of America,Paseo,March,373008.6,368770
+United States of America,Paseo,May,855858.55,741135
+United States of America,Paseo,November,1825088.5,1556826
+United States of America,Paseo,October,414127.73,328865
+United States of America,Paseo,September,86324.35,59440
+United States of America,VTT,April,430452.75,351390
+United States of America,VTT,August,1539783,1365070
+United States of America,VTT,December,368633.5,300640
+United States of America,VTT,February,827604,711000
+United States of America,VTT,January,21359.52,5868
+United States of America,VTT,July,8031.599999999999,4365
+United States of America,VTT,June,123465.6,112910
+United States of America,VTT,March,9837.17,7895
+United States of America,VTT,May,18421.2,5418
+United States of America,VTT,November,286605,299090
+United States of America,VTT,October,1204444.3,1096560
+United States of America,VTT,September,626955,557490
+United States of America,Velo,April,10423.2,6060
+United States of America,Velo,August,406433,366840
+United States of America,Velo,December,677578.9,652512
+United States of America,Velo,February,323712.5,330600
+United States of America,Velo,January,7908.75,5550
+United States of America,Velo,July,634680,615000
+United States of America,Velo,June,218886.08000000002,171055
+United States of America,Velo,March,16876.8,4395
+United States of America,Velo,May,10665,7900
+United States of America,Velo,November,659930.97,646235
+United States of America,Velo,October,1138051.6,1028400
+United States of America,Velo,September,193681.2,198880
+United States of America,Montana,April,683397,575250
+United States of America,Montana,August,,
+United States of America,Montana,December,327383.75,341790
+United States of America,Montana,February,7904.82,6490
+United States of America,Montana,January,299171.25,255450
+United States of America,Montana,July,430706.25,435240
+United States of America,Montana,June,37018.72,16246
+United States of America,Montana,March,8936.4,6770
+United States of America,Montana,May,728595,601380
+United States of America,Montana,November,233665.44,224649
+United States of America,Montana,October,130775.76999999999,110200
+United States of America,Montana,September,756572.4,636140
+United States of America,Amarilla,April,23436,5859
+United States of America,Amarilla,August,25692,6423
+United States of America,Amarilla,December,412807.8,355195
+United States of America,Amarilla,February,83160,70200
+United States of America,Amarilla,January,65137.5,69480
+United States of America,Amarilla,July,42713.325,31995
+United States of America,Amarilla,June,42309.880000000005,27355
+United States of America,Amarilla,March,808110,748250
+United States of America,Amarilla,May,305730,341280
+United States of America,Amarilla,November,57859.2,37840
+United States of America,Amarilla,October,286918.88,210187
+United States of America,Amarilla,September,683242.82,544427
+United States of America,Carretera,April,387618.75,413460
+United States of America,Carretera,August,,
+United States of America,Carretera,December,95854.5,74090
+United States of America,Carretera,February,22073.04,5574
+United States of America,Carretera,January,21009,11175
+United States of America,Carretera,July,17525.97,12645
+United States of America,Carretera,June,315934.35,273420
+United States of America,Carretera,March,573205.5,457860
+United States of America,Carretera,May,29979.6,17430
+United States of America,Carretera,November,30353.54,21615
+United States of America,Carretera,October,282784.72,268638
+United States of America,Carretera,September,63500.58,45441
+Canada,Paseo,April,24880.35,19755
+Canada,Paseo,August,75240.45,49530
+Canada,Paseo,December,2006413.9,1613003
+Canada,Paseo,February,40576.1,26550
+Canada,Paseo,January,261657.72,239505
+Canada,Paseo,July,698549.43,559248
+Canada,Paseo,June,1302473.25,1155334
+Canada,Paseo,March,256859.1,237160
+Canada,Paseo,May,476513.08,426785
+Canada,Paseo,November,1593819.04,1329666
+Canada,Paseo,October,784094.72,630602
+Canada,Paseo,September,90443.85,59365
+Canada,VTT,April,326922.75,245310
+Canada,VTT,August,545334,468500
+Canada,VTT,December,1067893.32,962560
+Canada,VTT,February,600300,500250
+Canada,VTT,January,36208.62,9733.5
+Canada,VTT,July,14713.5,8655
+Canada,VTT,June,212251.65,218400
+Canada,VTT,March,9189.18,6630
+Canada,VTT,May,22271.04,6327
+Canada,VTT,November,650618,687310
+Canada,VTT,October,502184.25,470790
+Canada,VTT,September,780868,695480
+Canada,Amarilla,April,38021.399999999994,10561.5
+Canada,Amarilla,August,183540,143520
+Canada,Amarilla,December,1160712,941280
+Canada,Amarilla,February,705600,582400
+Canada,Amarilla,January,180416.25,199080
+Canada,Amarilla,July,22256.324999999997,16305
+Canada,Amarilla,June,20416.050000000003,12755
+Canada,Amarilla,March,229104,222000
+Canada,Amarilla,May,191231.25,197400
+Canada,Amarilla,November,20794.8,11180
+Canada,Amarilla,October,851812.6399999999,680320
+Canada,Amarilla,September,251861.16,192103
+Canada,Velo,April,74699.70000000001,38505
+Canada,Velo,August,114221.25,110760
+Canada,Velo,December,253562.22,245123
+Canada,Velo,February,111860,114240
+Canada,Velo,January,5126.4,3840
+Canada,Velo,July,1035625.5,948375
+Canada,Velo,June,808832.85,689995
+Canada,Velo,March,6601.92,1794
+Canada,Velo,May,17604.9,12620
+Canada,Velo,November,25761.4,19500
+Canada,Velo,October,760294.75,679670
+Canada,Velo,September,115299.45,94500
+Canada,Montana,April,1038082.5,950625
+Canada,Montana,August,12681.9,9150
+Canada,Montana,December,39932.07,31055
+Canada,Montana,February,3142.7200000000003,2440
+Canada,Montana,January,670477.5,579150
+Canada,Montana,July,333187.5,319860
+Canada,Montana,June,43243.2,14634
+Canada,Montana,March,28324.8,19670
+Canada,Montana,May,60200,52000
+Canada,Montana,November,25345.32,6963
+Canada,Montana,October,100857.76,81815
+Canada,Montana,September,356443.76,322690
+Canada,Carretera,April,90956.25,89100
+Canada,Carretera,August,21025.44,5652
+Canada,Carretera,December,1018475.12,767244
+Canada,Carretera,February,20687.16,5811
+Canada,Carretera,January,32370,16185
+Canada,Carretera,July,5217.03,4095
+Canada,Carretera,June,338762.4,301940
+Canada,Carretera,March,281053.5,239980
+Canada,Carretera,May,16121.4,8310
+Canada,Carretera,November,56320.8,42490
+Canada,Carretera,October,446288.64,399037
+Canada,Carretera,September,282926.6,294255
+France,Paseo,April,69368.46,50670
+France,Paseo,August,45727.59,34490
+France,Paseo,December,966906.8500000001,754125
+France,Paseo,February,58852.6,35990
+France,Paseo,January,735778.35,628350
+France,Paseo,July,384464.34,365836.5
+France,Paseo,June,736694.89,601103
+France,Paseo,March,318390.75,305740
+France,Paseo,May,277029.9,234650
+France,Paseo,November,1451917.6,1250515
+France,Paseo,October,471786.92,445338
+France,Paseo,September,80832.81,52195
+France,Amarilla,April,,
+France,Amarilla,August,25542,7425
+France,Amarilla,December,261623.52,234888
+France,Amarilla,February,962500,715000
+France,Amarilla,January,233531.25,238500
+France,Amarilla,July,21076.44,17107.5
+France,Amarilla,June,45227.1,24940
+France,Amarilla,March,631125,618750
+France,Amarilla,May,159421.25,171960
+France,Amarilla,November,23210.449999999997,12620
+France,Amarilla,October,717032.12,559609
+France,Amarilla,September,936138,747760
+France,Velo,April,76507.20000000001,38640
+France,Velo,August,30001,15790
+France,Velo,December,262343.8,226745
+France,Velo,February,225500,216480
+France,Velo,January,52167.375,39975
+France,Velo,July,664146,580890
+France,Velo,June,499431.1,394910
+France,Velo,March,21479.64,5901
+France,Velo,May,36031.5,28260
+France,Velo,November,110964.27,99695
+France,Velo,October,1879151.6,1515270
+France,Velo,September,120372.75,107610
+France,VTT,April,204390.66,154585.5
+France,VTT,August,122682,99060
+France,VTT,December,407100.55,348425
+France,VTT,February,267561,239750
+France,VTT,January,18519.12,5202
+France,VTT,July,51143.399999999994,38745
+France,VTT,June,130061.25,116220
+France,VTT,March,9184.56,7455
+France,VTT,May,9976.32,2598
+France,VTT,November,264632.4,236100
+France,VTT,October,1121797.05,905210
+France,VTT,September,1204145.28,941472
+France,Montana,April,468072,443250
+France,Montana,August,431112,390500
+France,Montana,December,497124.75,471660
+France,Montana,February,1763.8600000000001,1465
+France,Montana,January,460346.25,359970
+France,Montana,July,27234.899999999998,13755
+France,Montana,June,60107.64,24693
+France,Montana,March,34513.8,25010
+France,Montana,May,530621,433160
+France,Montana,November,237370.47,229866
+France,Montana,October,687515.94,589595
+France,Montana,September,91599.76,83220
+France,Carretera,April,514524.375,509220
+France,Carretera,August,124737.5,140880
+France,Carretera,December,929971.05,750575
+France,Carretera,February,21261,5595
+France,Carretera,January,44378.399999999994,25215
+France,Carretera,July,,
+France,Carretera,June,157662,133780
+France,Carretera,March,545055,465400
+France,Carretera,May,29697,15630
+France,Carretera,November,21476.7,15625
+France,Carretera,October,892854.89,841764
+France,Carretera,September,141703.98,130773
+Germany,Paseo,April,415483.96,359920
+Germany,Paseo,August,34867.42,25420
+Germany,Paseo,December,817910.57,648234
+Germany,Paseo,February,50705.399999999994,29860
+Germany,Paseo,January,219750.8,208610
+Germany,Paseo,July,412790.25,422661
+Germany,Paseo,June,768095.9,635870
+Germany,Paseo,March,115086,106980
+Germany,Paseo,May,515083.8,437475
+Germany,Paseo,November,1177877.5,995855
+Germany,Paseo,October,326653.63,294908
+Germany,Paseo,September,375509.51,319605
+Germany,Velo,April,6885,5100
+Germany,Velo,August,18818.8,10010
+Germany,Velo,December,377762.51999999996,321419
+Germany,Velo,February,95831.25,96840
+Germany,Velo,January,9193.5,6810
+Germany,Velo,July,416279.5,339820
+Germany,Velo,June,385696.72,277885
+Germany,Velo,March,25932,6483
+Germany,Velo,May,21573,15300
+Germany,Velo,November,671077.5,647325
+Germany,Velo,October,2112630.46,1620086
+Germany,Velo,September,251226.75,257040
+Germany,Amarilla,April,527437.5,506340
+Germany,Amarilla,August,27799.2,7722
+Germany,Amarilla,December,384540.6,324920
+Germany,Amarilla,February,448875,351000
+Germany,Amarilla,January,352106.25,379800
+Germany,Amarilla,July,11802,8430
+Germany,Amarilla,June,25134.4,13660
+Germany,Amarilla,March,76146,64750
+Germany,Amarilla,May,278810,273120
+Germany,Amarilla,November,41208.5,24900
+Germany,Amarilla,October,1030086.3099999999,778371
+Germany,Amarilla,September,756304.5,615100
+Germany,Montana,April,360899,311740
+Germany,Montana,August,535392,464750
+Germany,Montana,December,307846.3,295330
+Germany,Montana,February,13294.82,9790
+Germany,Montana,January,238609,199160
+Germany,Montana,July,11868,6450
+Germany,Montana,June,18540,4635
+Germany,Montana,March,13815,9210
+Germany,Montana,May,480340,379600
+Germany,Montana,November,317323.8,307026
+Germany,Montana,October,643012.95,540965
+Germany,Montana,September,625103.5,477950
+Germany,VTT,April,34056,8514
+Germany,VTT,August,135884,109720
+Germany,VTT,December,617681.2,502910
+Germany,VTT,February,725907,664750
+Germany,VTT,January,28855.56,7437
+Germany,VTT,July,6273,4920
+Germany,VTT,June,218739.22,208970
+Germany,VTT,March,1822.59,1315
+Germany,VTT,May,9609.6,2640
+Germany,VTT,November,102293,89210
+Germany,VTT,October,1095301.2,834520
+Germany,VTT,September,317561.4,253145
+Germany,Carretera,April,50052,25800
+Germany,Carretera,August,293993.75,332040
+Germany,Carretera,December,635458.1,501220
+Germany,Carretera,February,12722.4,3348
+Germany,Carretera,January,26420,13210
+Germany,Carretera,July,750537,702750
+Germany,Carretera,June,213819,181130
+Germany,Carretera,March,246708,205920
+Germany,Carretera,May,12066.6,6630
+Germany,Carretera,November,26274.1,20210
+Germany,Carretera,October,769345.33,691248
+Germany,Carretera,September,24944.399999999998,9160
+Mexico,Paseo,April,473078.25,414425
+Mexico,Paseo,August,32667.4,24255
+Mexico,Paseo,December,627120.88,519792
+Mexico,Paseo,February,19082,12340
+Mexico,Paseo,January,1470059.5,1269670
+Mexico,Paseo,July,231557.49,220473
+Mexico,Paseo,June,1051834.6,935180
+Mexico,Paseo,March,148081.6,144900
+Mexico,Paseo,May,1007742.5,889010
+Mexico,Paseo,November,1607033.58,1416269
+Mexico,Paseo,October,618971.99,592316
+Mexico,Paseo,September,340501.6,260450
+Mexico,VTT,April,22302.24,5748
+Mexico,VTT,August,557459,426920
+Mexico,VTT,December,690439.5700000001,519335
+Mexico,VTT,February,766413,686750
+Mexico,VTT,January,61632.5,66480
+Mexico,VTT,July,8653.5,6410
+Mexico,VTT,June,90951.84,86930
+Mexico,VTT,March,17476.06,14515
+Mexico,VTT,May,38362.5,40920
+Mexico,VTT,November,120871.15,116470
+Mexico,VTT,October,670461.95,515305
+Mexico,VTT,September,127373.4,111015
+Mexico,Amarilla,April,128880,128880
+Mexico,Amarilla,August,12802.2,3369
+Mexico,Amarilla,December,219235.95,184445
+Mexico,Amarilla,February,626640,484900
+Mexico,Amarilla,January,46796.2,26290
+Mexico,Amarilla,July,11191.95,8415
+Mexico,Amarilla,June,697851.6,625380
+Mexico,Amarilla,March,323694,275250
+Mexico,Amarilla,May,36702,20390
+Mexico,Amarilla,November,54953.8,35640
+Mexico,Amarilla,October,261062.94,235805
+Mexico,Amarilla,September,657744.75,550180
+Mexico,Carretera,April,44358.8,25790
+Mexico,Carretera,August,177100,184800
+Mexico,Carretera,December,745140.27,695245
+Mexico,Carretera,February,8113.32,2181
+Mexico,Carretera,January,,
+Mexico,Carretera,July,206658,200250
+Mexico,Carretera,June,309938,255060
+Mexico,Carretera,March,419265,314600
+Mexico,Carretera,May,,
+Mexico,Carretera,November,56630.130000000005,41440
+Mexico,Carretera,October,871946.14,746541
+Mexico,Carretera,September,40451.76,20026
+Mexico,Velo,April,35872.2,26280
+Mexico,Velo,August,11327.4,6090
+Mexico,Velo,December,198670.24,167442
+Mexico,Velo,February,169312.5,189000
+Mexico,Velo,January,51220.25,36075
+Mexico,Velo,July,429660,362700
+Mexico,Velo,June,16162.6,9302
+Mexico,Velo,March,5100,1500
+Mexico,Velo,May,5852.91,4260
+Mexico,Velo,November,688676.14,657915
+Mexico,Velo,October,390126.9,357120
+Mexico,Velo,September,248756.75,259750
+Mexico,Montana,April,322420,254800
+Mexico,Montana,August,287400,239500
+Mexico,Montana,December,478855.95,433130
+Mexico,Montana,February,8139.6,6840
+Mexico,Montana,January,26114.4,7020
+Mexico,Montana,July,39237,22550
+Mexico,Montana,June,43355.76,26512
+Mexico,Montana,March,32877.9,22140
+Mexico,Montana,May,28100.16,7983
+Mexico,Montana,November,211464.4,201270
+Mexico,Montana,October,209056.94,182595
+Mexico,Montana,September,254307.2,199300
