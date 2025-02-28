@@ -1,158 +1,231 @@
-Opportunities.Probability,Opportunities.Campaign Name,Opportunities.Product Name,Sum(Opportunities.Budget),
-10.0%,,Design app,1499750,"1499750,0,1499750"
-10.0%,,Stand-up Desks,524375,"524375,4174375,4698750"
-10.0%,,All-in-One,1053875,"1053875,1499750,2553625"
-10.0%,,Mobile app,917500,"917500,2553625,3471125"
-10.0%,,Tablets,110750,"110750,4965250,5076000"
-10.0%,,Ergonomic Seating,85750,"85750,5181000,5266750"
-10.0%,,Scanners,703250,"703250,3471125,4174375"
-10.0%,,Laser Printers,155625,"155625,4698750,4854375"
-10.0%,,Desktops,105000,"105000,5076000,5181000"
-10.0%,,Webcams,110875,"110875,4854375,4965250"
-10.0%,Consumer Tradeshow,Design app,3375,"3375,16125,19500"
-10.0%,Consumer Tradeshow,Mobile app,7000,"7000,9125,16125"
-10.0%,Consumer Tradeshow,Desktops,9125,"9125,0,9125"
-10.0%,Customer Care Campaign,Design app,3375,"3375,153500,156875"
-10.0%,Customer Care Campaign,Mobile app,121000,"121000,0,121000"
-10.0%,Customer Care Campaign,Scanners,32500,"32500,121000,153500"
-10.0%,Customer Follow-up,Design app,125625,"125625,0,125625"
-10.0%,Market Trends Newsletter,Stand-up Desks,11250,"11250,91375,102625"
-10.0%,Market Trends Newsletter,Mobile app,6500,"6500,111375,117875"
-10.0%,Market Trends Newsletter,Scanners,91375,"91375,0,91375"
-10.0%,Market Trends Newsletter,Webcams,8750,"8750,102625,111375"
-10.0%,Monthly Newsletter,Design app,138500,"138500,0,138500"
-10.0%,Monthly Newsletter,All-in-One,26625,"26625,298500,325125"
-10.0%,Monthly Newsletter,Mobile app,88500,"88500,138500,227000"
-10.0%,Monthly Newsletter,Laser Printers,71500,"71500,227000,298500"
-10.0%,New Product Releases,Stand-up Desks,52875,"52875,0,52875"
-10.0%,New Product Releases,Ergonomic Seating,10625,"10625,102000,112625"
-10.0%,New Product Releases,Scanners,49125,"49125,52875,102000"
-10.0%,New Product Releases,Webcams,2875,"2875,112625,115500"
-10.0%,Twitter,Stand-up Desks,5125,"5125,67500,72625"
-10.0%,Twitter,Scanners,67500,"67500,0,67500"
-10.0%,Twitter,Webcams,3250,"3250,72625,75875"
-30.0%,,Design app,3265375,"3265375,0,3265375"
-30.0%,,Stand-up Desks,1095750,"1095750,7643750,8739500"
-30.0%,,All-in-One,2516125,"2516125,3265375,5781500"
-30.0%,,Mobile app,1862250,"1862250,5781500,7643750"
-30.0%,,Tablets,307375,"307375,10723625,11031000"
-30.0%,,Ergonomic Seating,446500,"446500,9535250,9981750"
-30.0%,,Scanners,795750,"795750,8739500,9535250"
-30.0%,,Laser Printers,395000,"395000,9981750,10376750"
-30.0%,,Desktops,346875,"346875,10376750,10723625"
-30.0%,,Webcams,220125,"220125,11031000,11251125"
-30.0%,Consumer Tradeshow,Design app,11875,"11875,52000,63875"
-30.0%,Consumer Tradeshow,All-in-One,29750,"29750,0,29750"
-30.0%,Consumer Tradeshow,Mobile app,9500,"9500,63875,73375"
-30.0%,Consumer Tradeshow,Tablets,2750,"2750,73375,76125"
-30.0%,Consumer Tradeshow,Desktops,22250,"22250,29750,52000"
-30.0%,Customer Care Campaign,Mobile app,351625,"351625,0,351625"
-30.0%,Customer Care Campaign,Scanners,27875,"27875,351625,379500"
-30.0%,Customer Follow-up,Design app,103375,"103375,0,103375"
-30.0%,Market Trends Newsletter,Stand-up Desks,15250,"15250,118625,133875"
-30.0%,Market Trends Newsletter,Scanners,101375,"101375,0,101375"
-30.0%,Market Trends Newsletter,Desktops,2625,"2625,133875,136500"
-30.0%,Market Trends Newsletter,Webcams,17250,"17250,101375,118625"
-30.0%,Monthly Newsletter,Design app,373875,"373875,0,373875"
-30.0%,Monthly Newsletter,Stand-up Desks,10625,"10625,706000,716625"
-30.0%,Monthly Newsletter,All-in-One,121875,"121875,513000,634875"
-30.0%,Monthly Newsletter,Mobile app,71125,"71125,634875,706000"
-30.0%,Monthly Newsletter,Laser Printers,139125,"139125,373875,513000"
-30.0%,New Product Releases,Stand-up Desks,60125,"60125,81750,141875"
-30.0%,New Product Releases,Tablets,2750,"2750,181625,184375"
-30.0%,New Product Releases,Ergonomic Seating,39750,"39750,141875,181625"
-30.0%,New Product Releases,Scanners,81750,"81750,0,81750"
-30.0%,New Product Releases,Webcams,2000,"2000,184375,186375"
-30.0%,Twitter,Stand-up Desks,30125,"30125,87625,117750"
-30.0%,Twitter,Ergonomic Seating,2625,"2625,138125,140750"
-30.0%,Twitter,Scanners,87625,"87625,0,87625"
-30.0%,Twitter,Desktops,5250,"5250,132875,138125"
-30.0%,Twitter,Webcams,15125,"15125,117750,132875"
-50.0%,,Design app,6031500,"6031500,0,6031500"
-50.0%,,Stand-up Desks,2323500,"2323500,6031500,8355000"
-50.0%,,All-in-One,2013875,"2013875,8355000,10368875"
-50.0%,,Mobile app,750250,"750250,12716250,13466500"
-50.0%,,Tablets,1537750,"1537750,10368875,11906625"
-50.0%,,Ergonomic Seating,809625,"809625,11906625,12716250"
-50.0%,,Scanners,299375,"299375,15012125,15311500"
-50.0%,,Laser Printers,574500,"574500,14091375,14665875"
-50.0%,,Desktops,624875,"624875,13466500,14091375"
-50.0%,,Webcams,346250,"346250,14665875,15012125"
-50.0%,Consumer Tradeshow,Design app,46375,"46375,425000,471375"
-50.0%,Consumer Tradeshow,Stand-up Desks,79625,"79625,214500,294125"
-50.0%,Consumer Tradeshow,All-in-One,126625,"126625,0,126625"
-50.0%,Consumer Tradeshow,Mobile app,22625,"22625,471375,494000"
-50.0%,Consumer Tradeshow,Tablets,87875,"87875,126625,214500"
-50.0%,Consumer Tradeshow,Ergonomic Seating,52875,"52875,372125,425000"
-50.0%,Consumer Tradeshow,Laser Printers,6250,"6250,494000,500250"
-50.0%,Consumer Tradeshow,Desktops,78000,"78000,294125,372125"
-50.0%,Customer Care Campaign,Design app,57375,"57375,709000,766375"
-50.0%,Customer Care Campaign,Mobile app,627000,"627000,0,627000"
-50.0%,Customer Care Campaign,Tablets,16125,"16125,766375,782500"
-50.0%,Customer Care Campaign,Scanners,82000,"82000,627000,709000"
-50.0%,Customer Care Campaign,Laser Printers,5500,"5500,798250,803750"
-50.0%,Customer Care Campaign,Desktops,15750,"15750,782500,798250"
-50.0%,Customer Follow-up,Design app,570250,"570250,0,570250"
-50.0%,Market Trends Newsletter,Stand-up Desks,97375,"97375,208375,305750"
-50.0%,Market Trends Newsletter,Scanners,208375,"208375,0,208375"
-50.0%,Market Trends Newsletter,Desktops,18250,"18250,344625,362875"
-50.0%,Market Trends Newsletter,Webcams,38875,"38875,305750,344625"
-50.0%,Monthly Newsletter,Design app,913500,"913500,0,913500"
-50.0%,Monthly Newsletter,Stand-up Desks,41375,"41375,1294625,1336000"
-50.0%,Monthly Newsletter,All-in-One,137375,"137375,1109750,1247125"
-50.0%,Monthly Newsletter,Mobile app,47500,"47500,1247125,1294625"
-50.0%,Monthly Newsletter,Laser Printers,196250,"196250,913500,1109750"
-50.0%,New Product Releases,Stand-up Desks,579625,"579625,0,579625"
-50.0%,New Product Releases,Tablets,4875,"4875,894750,899625"
-50.0%,New Product Releases,Ergonomic Seating,216750,"216750,579625,796375"
-50.0%,New Product Releases,Scanners,89500,"89500,796375,885875"
-50.0%,New Product Releases,Webcams,8875,"8875,885875,894750"
-50.0%,Twitter,Stand-up Desks,84000,"84000,0,84000"
-50.0%,Twitter,Ergonomic Seating,46750,"46750,84000,130750"
-50.0%,Twitter,Scanners,41500,"41500,130750,172250"
-50.0%,Twitter,Desktops,28625,"28625,201875,230500"
-50.0%,Twitter,Webcams,29625,"29625,172250,201875"
-90.0%,,Design app,5401625,"5401625,0,5401625"
-90.0%,,Stand-up Desks,1928250,"1928250,10996875,12925125"
-90.0%,,All-in-One,2305000,"2305000,8691875,10996875"
-90.0%,,Mobile app,1350750,"1350750,12925125,14275875"
-90.0%,,Tablets,3290250,"3290250,5401625,8691875"
-90.0%,,Ergonomic Seating,596500,"596500,14900625,15497125"
-90.0%,,Laser Printers,624750,"624750,14275875,14900625"
-90.0%,,Desktops,592375,"592375,15497125,16089500"
-90.0%,,Webcams,351500,"351500,16089500,16441000"
-90.0%,Consumer Tradeshow,Design app,112125,"112125,1146250,1258375"
-90.0%,Consumer Tradeshow,Stand-up Desks,333875,"333875,511125,845000"
-90.0%,Consumer Tradeshow,All-in-One,82375,"82375,1258375,1340750"
-90.0%,Consumer Tradeshow,Mobile app,54875,"54875,1340750,1395625"
-90.0%,Consumer Tradeshow,Tablets,511125,"511125,0,511125"
-90.0%,Consumer Tradeshow,Ergonomic Seating,188875,"188875,845000,1033875"
-90.0%,Consumer Tradeshow,Laser Printers,11875,"11875,1395625,1407500"
-90.0%,Consumer Tradeshow,Desktops,112375,"112375,1033875,1146250"
-90.0%,Customer Care Campaign,Design app,133750,"133750,763625,897375"
-90.0%,Customer Care Campaign,Mobile app,589750,"589750,0,589750"
-90.0%,Customer Care Campaign,Tablets,173875,"173875,589750,763625"
-90.0%,Customer Care Campaign,Scanners,34375,"34375,1027500,1061875"
-90.0%,Customer Care Campaign,Laser Printers,49250,"49250,978250,1027500"
-90.0%,Customer Care Campaign,Desktops,80875,"80875,897375,978250"
-90.0%,Customer Follow-up,Design app,1408375,"1408375,0,1408375"
-90.0%,Market Trends Newsletter,Stand-up Desks,192875,"192875,0,192875"
-90.0%,Market Trends Newsletter,Mobile app,20250,"20250,295750,316000"
-90.0%,Market Trends Newsletter,Scanners,12250,"12250,316000,328250"
-90.0%,Market Trends Newsletter,Desktops,39875,"39875,255875,295750"
-90.0%,Market Trends Newsletter,Webcams,63000,"63000,192875,255875"
-90.0%,Monthly Newsletter,Design app,1096500,"1096500,0,1096500"
-90.0%,Monthly Newsletter,Stand-up Desks,48375,"48375,1595500,1643875"
-90.0%,Monthly Newsletter,All-in-One,149625,"149625,1386500,1536125"
-90.0%,Monthly Newsletter,Mobile app,59375,"59375,1536125,1595500"
-90.0%,Monthly Newsletter,Laser Printers,290000,"290000,1096500,1386500"
-90.0%,New Product Releases,Stand-up Desks,1050750,"1050750,0,1050750"
-90.0%,New Product Releases,Tablets,6125,"6125,1479500,1485625"
-90.0%,New Product Releases,Ergonomic Seating,387000,"387000,1050750,1437750"
-90.0%,New Product Releases,Scanners,7625,"7625,1471875,1479500"
-90.0%,New Product Releases,Webcams,34125,"34125,1437750,1471875"
-90.0%,Twitter,Stand-up Desks,120500,"120500,0,120500"
-90.0%,Twitter,Ergonomic Seating,42250,"42250,170500,212750"
-90.0%,Twitter,Scanners,625,"625,249250,249875"
-90.0%,Twitter,Desktops,50000,"50000,120500,170500"
-90.0%,Twitter,Webcams,36500,"36500,212750,249250"
+Opportunities.Product Name,Opportunities.Probability,Opportunities.Campaign Name,Sum(Opportunities.Budget),Avg(Opportunities.Discount)
+Design app,0.1,,1499750,0.033018567639257326
+Design app,0.1,Consumer Tradeshow,3375,0.047
+Design app,0.1,Customer Care Campaign,3375,0.058
+Design app,0.1,Customer Follow-up,125625,0.05830000000000003
+Design app,0.1,Market Trends Newsletter,,
+Design app,0.1,Monthly Newsletter,138500,0.038057142857142866
+Design app,0.1,New Product Releases,,
+Design app,0.1,Twitter,,
+Design app,0.3,,3265375,0.033415536374845886
+Design app,0.3,Consumer Tradeshow,11875,0.04800000000000001
+Design app,0.3,Customer Care Campaign,,
+Design app,0.3,Customer Follow-up,103375,0.05884000000000003
+Design app,0.3,Market Trends Newsletter,,
+Design app,0.3,Monthly Newsletter,373875,0.03813978494623648
+Design app,0.3,New Product Releases,,
+Design app,0.3,Twitter,,
+Design app,0.5,,6031500,0.03306204620462026
+Design app,0.5,Consumer Tradeshow,46375,0.048272727272727266
+Design app,0.5,Customer Care Campaign,57375,0.058214285714285725
+Design app,0.5,Customer Follow-up,570250,0.05824999999999985
+Design app,0.5,Market Trends Newsletter,,
+Design app,0.5,Monthly Newsletter,913500,0.03820689655172425
+Design app,0.5,New Product Releases,,
+Stand-up Desks,0.1,,524375,0.03322314049586781
+Stand-up Desks,0.1,Consumer Tradeshow,,
+Stand-up Desks,0.1,Customer Care Campaign,,
+Stand-up Desks,0.1,Customer Follow-up,,
+Stand-up Desks,0.1,Market Trends Newsletter,11250,0.0485
+Stand-up Desks,0.1,Monthly Newsletter,,
+Stand-up Desks,0.1,New Product Releases,52875,0.048272727272727266
+Stand-up Desks,0.1,Twitter,5125,0.038
+Stand-up Desks,0.3,,1095750,0.033496153846153856
+Stand-up Desks,0.3,Consumer Tradeshow,,
+Stand-up Desks,0.3,Customer Care Campaign,,
+Stand-up Desks,0.3,Customer Follow-up,,
+Stand-up Desks,0.3,Market Trends Newsletter,15250,0.0475
+Stand-up Desks,0.3,Monthly Newsletter,10625,0.03933333333333333
+Stand-up Desks,0.3,New Product Releases,60125,0.047785714285714286
+Stand-up Desks,0.3,Twitter,30125,0.03866666666666667
+Stand-up Desks,0.5,,2323500,0.03298148148148151
+Stand-up Desks,0.5,Consumer Tradeshow,79625,0.048000000000000015
+Stand-up Desks,0.5,Customer Care Campaign,,
+Stand-up Desks,0.5,Customer Follow-up,,
+Stand-up Desks,0.5,Market Trends Newsletter,97375,0.048217391304347844
+Stand-up Desks,0.5,Monthly Newsletter,41375,0.03799999999999999
+Stand-up Desks,0.5,New Product Releases,579625,0.04834374999999998
+All-in-One,0.1,,1053875,0.0131226053639847
+All-in-One,0.1,Consumer Tradeshow,,
+All-in-One,0.1,Customer Care Campaign,,
+All-in-One,0.1,Customer Follow-up,,
+All-in-One,0.1,Market Trends Newsletter,,
+All-in-One,0.1,Monthly Newsletter,26625,0.018
+All-in-One,0.1,New Product Releases,,
+All-in-One,0.1,Twitter,,
+All-in-One,0.3,,2516125,0.013103833865814641
+All-in-One,0.3,Consumer Tradeshow,29750,0.02857142857142857
+All-in-One,0.3,Customer Care Campaign,,
+All-in-One,0.3,Customer Follow-up,,
+All-in-One,0.3,Market Trends Newsletter,,
+All-in-One,0.3,Monthly Newsletter,121875,0.01855172413793104
+All-in-One,0.3,New Product Releases,,
+All-in-One,0.3,Twitter,,
+All-in-One,0.5,,2013875,0.013158730158730071
+All-in-One,0.5,Consumer Tradeshow,126625,0.02846875000000002
+All-in-One,0.5,Customer Care Campaign,,
+All-in-One,0.5,Customer Follow-up,,
+All-in-One,0.5,Market Trends Newsletter,,
+All-in-One,0.5,Monthly Newsletter,137375,0.018029411764705888
+All-in-One,0.5,New Product Releases,,
+Mobile app,0.1,,917500,0.013074349442379209
+Mobile app,0.1,Consumer Tradeshow,7000,0.0275
+Mobile app,0.1,Customer Care Campaign,121000,0.03811111111111112
+Mobile app,0.1,Customer Follow-up,,
+Mobile app,0.1,Market Trends Newsletter,6500,0.028999999999999998
+Mobile app,0.1,Monthly Newsletter,88500,0.018269230769230774
+Mobile app,0.1,New Product Releases,,
+Mobile app,0.1,Twitter,,
+Mobile app,0.3,,1862250,0.013161579892280008
+Mobile app,0.3,Consumer Tradeshow,9500,0.028
+Mobile app,0.3,Customer Care Campaign,351625,0.03809999999999993
+Mobile app,0.3,Customer Follow-up,,
+Mobile app,0.3,Market Trends Newsletter,,
+Mobile app,0.3,Monthly Newsletter,71125,0.018363636363636367
+Mobile app,0.3,New Product Releases,,
+Mobile app,0.3,Twitter,,
+Mobile app,0.5,,750250,0.013023041474654388
+Mobile app,0.5,Consumer Tradeshow,22625,0.028142857142857143
+Mobile app,0.5,Customer Care Campaign,627000,0.03811891891891899
+Mobile app,0.5,Customer Follow-up,,
+Mobile app,0.5,Market Trends Newsletter,,
+Mobile app,0.5,Monthly Newsletter,47500,0.017999999999999995
+Mobile app,0.5,New Product Releases,,
+Tablets,0.1,,110750,0.06316666666666666
+Tablets,0.1,Consumer Tradeshow,,
+Tablets,0.1,Customer Care Campaign,,
+Tablets,0.1,Customer Follow-up,,
+Tablets,0.1,Market Trends Newsletter,,
+Tablets,0.1,Monthly Newsletter,,
+Tablets,0.1,New Product Releases,,
+Tablets,0.1,Twitter,,
+Tablets,0.3,,307375,0.06332530120481925
+Tablets,0.3,Consumer Tradeshow,2750,0.078
+Tablets,0.3,Customer Care Campaign,,
+Tablets,0.3,Customer Follow-up,,
+Tablets,0.3,Market Trends Newsletter,,
+Tablets,0.3,Monthly Newsletter,,
+Tablets,0.3,New Product Releases,2750,0.078
+Tablets,0.3,Twitter,,
+Tablets,0.5,,1537750,0.06327872860635675
+Tablets,0.5,Consumer Tradeshow,87875,0.07823076923076926
+Tablets,0.5,Customer Care Campaign,16125,0.08833333333333333
+Tablets,0.5,Customer Follow-up,,
+Tablets,0.5,Market Trends Newsletter,,
+Tablets,0.5,Monthly Newsletter,,
+Tablets,0.5,New Product Releases,4875,0.078
+Ergonomic Seating,0.1,,85750,0.038107142857142874
+Ergonomic Seating,0.1,Consumer Tradeshow,,
+Ergonomic Seating,0.1,Customer Care Campaign,,
+Ergonomic Seating,0.1,Customer Follow-up,,
+Ergonomic Seating,0.1,Market Trends Newsletter,,
+Ergonomic Seating,0.1,Monthly Newsletter,,
+Ergonomic Seating,0.1,New Product Releases,10625,0.05275
+Ergonomic Seating,0.1,Twitter,,
+Ergonomic Seating,0.3,,446500,0.03793233082706768
+Ergonomic Seating,0.3,Consumer Tradeshow,,
+Ergonomic Seating,0.3,Customer Care Campaign,,
+Ergonomic Seating,0.3,Customer Follow-up,,
+Ergonomic Seating,0.3,Market Trends Newsletter,,
+Ergonomic Seating,0.3,Monthly Newsletter,,
+Ergonomic Seating,0.3,New Product Releases,39750,0.05323076923076924
+Ergonomic Seating,0.3,Twitter,2625,0.045
+Ergonomic Seating,0.5,,809625,0.038219917012448264
+Ergonomic Seating,0.5,Consumer Tradeshow,52875,0.05318750000000002
+Ergonomic Seating,0.5,Customer Care Campaign,,
+Ergonomic Seating,0.5,Customer Follow-up,,
+Ergonomic Seating,0.5,Market Trends Newsletter,,
+Ergonomic Seating,0.5,Monthly Newsletter,,
+Ergonomic Seating,0.5,New Product Releases,216750,0.05318032786885246
+Scanners,0.1,,703250,0.0031863354037267077
+Scanners,0.1,Consumer Tradeshow,,
+Scanners,0.1,Customer Care Campaign,32500,0.02806666666666667
+Scanners,0.1,Customer Follow-up,,
+Scanners,0.1,Market Trends Newsletter,91375,0.018214285714285725
+Scanners,0.1,Monthly Newsletter,,
+Scanners,0.1,New Product Releases,49125,0.01821739130434783
+Scanners,0.1,Twitter,67500,0.008242424242424246
+Scanners,0.3,,795750,0.0029866310160427713
+Scanners,0.3,Consumer Tradeshow,,
+Scanners,0.3,Customer Care Campaign,27875,0.028533333333333345
+Scanners,0.3,Customer Follow-up,,
+Scanners,0.3,Market Trends Newsletter,101375,0.01806000000000001
+Scanners,0.3,Monthly Newsletter,,
+Scanners,0.3,New Product Releases,81750,0.018175000000000007
+Scanners,0.3,Twitter,87625,0.008166666666666673
+Scanners,0.5,,299375,0.002871621621621624
+Scanners,0.5,Consumer Tradeshow,,
+Scanners,0.5,Customer Care Campaign,82000,0.027921052631578964
+Scanners,0.5,Customer Follow-up,,
+Scanners,0.5,Market Trends Newsletter,208375,0.017924731182795712
+Scanners,0.5,Monthly Newsletter,,
+Scanners,0.5,New Product Releases,89500,0.01795121951219513
+Laser Printers,0.1,,155625,0.022844660194174738
+Laser Printers,0.1,Consumer Tradeshow,,
+Laser Printers,0.1,Customer Care Campaign,,
+Laser Printers,0.1,Customer Follow-up,,
+Laser Printers,0.1,Market Trends Newsletter,,
+Laser Printers,0.1,Monthly Newsletter,71500,0.028062500000000015
+Laser Printers,0.1,New Product Releases,,
+Laser Printers,0.1,Twitter,,
+Laser Printers,0.3,,395000,0.022924242424242364
+Laser Printers,0.3,Consumer Tradeshow,,
+Laser Printers,0.3,Customer Care Campaign,,
+Laser Printers,0.3,Customer Follow-up,,
+Laser Printers,0.3,Market Trends Newsletter,,
+Laser Printers,0.3,Monthly Newsletter,139125,0.027784946236559156
+Laser Printers,0.3,New Product Releases,,
+Laser Printers,0.3,Twitter,,
+Laser Printers,0.5,,574500,0.02296874999999995
+Laser Printers,0.5,Consumer Tradeshow,6250,0.0375
+Laser Printers,0.5,Customer Care Campaign,5500,0.04725
+Laser Printers,0.5,Customer Follow-up,,
+Laser Printers,0.5,Market Trends Newsletter,,
+Laser Printers,0.5,Monthly Newsletter,196250,0.02799236641221375
+Laser Printers,0.5,New Product Releases,,
+Desktops,0.1,,105000,0.03809523809523811
+Desktops,0.1,Consumer Tradeshow,9125,0.053
+Desktops,0.1,Customer Care Campaign,,
+Desktops,0.1,Customer Follow-up,,
+Desktops,0.1,Market Trends Newsletter,,
+Desktops,0.1,Monthly Newsletter,,
+Desktops,0.1,New Product Releases,,
+Desktops,0.1,Twitter,,
+Desktops,0.3,,346875,0.03802836879432625
+Desktops,0.3,Consumer Tradeshow,22250,0.05311111111111111
+Desktops,0.3,Customer Care Campaign,,
+Desktops,0.3,Customer Follow-up,,
+Desktops,0.3,Market Trends Newsletter,2625,0.052
+Desktops,0.3,Monthly Newsletter,,
+Desktops,0.3,New Product Releases,,
+Desktops,0.3,Twitter,5250,0.044333333333333336
+Desktops,0.5,,624875,0.03811023622047258
+Desktops,0.5,Consumer Tradeshow,78000,0.05296551724137931
+Desktops,0.5,Customer Care Campaign,15750,0.06357142857142857
+Desktops,0.5,Customer Follow-up,,
+Desktops,0.5,Market Trends Newsletter,18250,0.05342857142857143
+Desktops,0.5,Monthly Newsletter,,
+Desktops,0.5,New Product Releases,,
+Webcams,0.1,,110875,0.03308522727272731
+Webcams,0.1,Consumer Tradeshow,,
+Webcams,0.1,Customer Care Campaign,,
+Webcams,0.1,Customer Follow-up,,
+Webcams,0.1,Market Trends Newsletter,8750,0.04791666666666666
+Webcams,0.1,Monthly Newsletter,,
+Webcams,0.1,New Product Releases,2875,0.0475
+Webcams,0.1,Twitter,3250,0.0385
+Webcams,0.3,,220125,0.03336516853932584
+Webcams,0.3,Consumer Tradeshow,,
+Webcams,0.3,Customer Care Campaign,,
+Webcams,0.3,Customer Follow-up,,
+Webcams,0.3,Market Trends Newsletter,17250,0.04803846153846155
+Webcams,0.3,Monthly Newsletter,,
+Webcams,0.3,New Product Releases,2000,0.04866666666666667
+Webcams,0.3,Twitter,15125,0.03807407407407409
+Webcams,0.5,,346250,0.032965265082266944
+Webcams,0.5,Consumer Tradeshow,,
+Webcams,0.5,Customer Care Campaign,,
+Webcams,0.5,Customer Follow-up,,
+Webcams,0.5,Market Trends Newsletter,38875,0.04834848484848484
+Webcams,0.5,Monthly Newsletter,,
+Webcams,0.5,New Product Releases,8875,0.04876923076923077
