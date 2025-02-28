@@ -1,17 +1,643 @@
-Opportunities.Campaign Name,Opportunities.Decision Maker Identified,CountNonNull(Opportunities.Status)
-blank-axis-row,false,7696
-blank-axis-row,true,7484
-Monthly Newsletter,false,608
-Monthly Newsletter,true,700
-New Product Releases,false,344
-New Product Releases,true,428
-Customer Care Campaign,false,384
-Customer Care Campaign,true,368
-Consumer Tradeshow,false,188
-Consumer Tradeshow,true,380
-Customer Follow-up,false,236
-Customer Follow-up,true,312
-Market Trends Newsletter,false,216
-Market Trends Newsletter,true,296
-Twitter,false,168
-Twitter,true,192
+Opportunities.Campaign Name,Opportunities.Budget,Opportunities.Decision Maker Identified,CountNonNull(Opportunities.Status)
+blank-axis-row,3250,false,359
+blank-axis-row,3250,true,335
+blank-axis-row,3500,false,339
+blank-axis-row,3500,true,335
+blank-axis-row,3125,false,363
+blank-axis-row,3125,true,306
+blank-axis-row,3375,false,310
+blank-axis-row,3375,true,352
+blank-axis-row,3625,false,315
+blank-axis-row,3625,true,301
+blank-axis-row,4125,false,295
+blank-axis-row,4125,true,315
+blank-axis-row,3875,false,279
+blank-axis-row,3875,true,315
+blank-axis-row,4250,false,306
+blank-axis-row,4250,true,279
+blank-axis-row,3750,false,273
+blank-axis-row,3750,true,311
+blank-axis-row,4000,false,287
+blank-axis-row,4000,true,290
+blank-axis-row,4500,false,245
+blank-axis-row,4500,true,262
+blank-axis-row,4625,false,236
+blank-axis-row,4625,true,264
+blank-axis-row,4750,false,260
+blank-axis-row,4750,true,231
+blank-axis-row,4875,false,242
+blank-axis-row,4875,true,246
+blank-axis-row,4375,false,255
+blank-axis-row,4375,true,229
+blank-axis-row,1500,false,175
+blank-axis-row,1500,true,198
+blank-axis-row,1250,false,172
+blank-axis-row,1250,true,188
+blank-axis-row,1375,false,183
+blank-axis-row,1375,true,171
+blank-axis-row,1625,false,168
+blank-axis-row,1625,true,165
+blank-axis-row,1750,false,157
+blank-axis-row,1750,true,176
+blank-axis-row,3000,false,155
+blank-axis-row,3000,true,143
+blank-axis-row,2500,false,133
+blank-axis-row,2500,true,139
+blank-axis-row,2750,false,145
+blank-axis-row,2750,true,115
+blank-axis-row,2875,false,144
+blank-axis-row,2875,true,115
+blank-axis-row,1000,false,118
+blank-axis-row,1000,true,113
+blank-axis-row,625,false,119
+blank-axis-row,625,true,110
+blank-axis-row,1125,false,132
+blank-axis-row,1125,true,97
+blank-axis-row,2625,false,120
+blank-axis-row,2625,true,103
+blank-axis-row,875,false,121
+blank-axis-row,875,true,101
+blank-axis-row,750,false,108
+blank-axis-row,750,true,104
+blank-axis-row,250,false,104
+blank-axis-row,250,true,93
+blank-axis-row,375,false,102
+blank-axis-row,375,true,95
+blank-axis-row,500,false,110
+blank-axis-row,500,true,74
+blank-axis-row,125,false,100
+blank-axis-row,125,true,82
+blank-axis-row,1875,false,57
+blank-axis-row,1875,true,69
+blank-axis-row,2375,false,56
+blank-axis-row,2375,true,57
+blank-axis-row,2125,false,54
+blank-axis-row,2125,true,56
+blank-axis-row,2250,false,58
+blank-axis-row,2250,true,50
+blank-axis-row,6125,false,57
+blank-axis-row,6125,true,46
+blank-axis-row,2000,false,48
+blank-axis-row,2000,true,53
+blank-axis-row,5625,false,57
+blank-axis-row,5625,true,42
+blank-axis-row,5250,false,49
+blank-axis-row,5250,true,47
+blank-axis-row,5375,false,50
+blank-axis-row,5375,true,46
+blank-axis-row,5750,false,56
+blank-axis-row,5750,true,39
+blank-axis-row,6000,false,50
+blank-axis-row,6000,true,43
+blank-axis-row,5000,false,47
+blank-axis-row,5000,true,45
+blank-axis-row,5125,false,54
+blank-axis-row,5125,true,38
+blank-axis-row,5875,false,40
+blank-axis-row,5875,true,47
+blank-axis-row,5500,false,33
+blank-axis-row,5500,true,53
+Monthly Newsletter,1250,false,53
+Monthly Newsletter,1250,true,49
+Monthly Newsletter,1750,false,56
+Monthly Newsletter,1750,true,42
+Monthly Newsletter,1625,false,37
+Monthly Newsletter,1625,true,57
+Monthly Newsletter,1375,false,46
+Monthly Newsletter,1375,true,39
+Monthly Newsletter,1500,false,44
+Monthly Newsletter,1500,true,39
+Monthly Newsletter,3250,false,25
+Monthly Newsletter,3250,true,37
+Monthly Newsletter,3875,false,20
+Monthly Newsletter,3875,true,42
+Monthly Newsletter,4000,false,25
+Monthly Newsletter,4000,true,37
+Monthly Newsletter,3500,false,31
+Monthly Newsletter,3500,true,26
+Monthly Newsletter,3125,false,23
+Monthly Newsletter,3125,true,32
+Monthly Newsletter,3375,false,21
+Monthly Newsletter,3375,true,33
+Monthly Newsletter,3750,false,27
+Monthly Newsletter,3750,true,27
+Monthly Newsletter,4250,false,27
+Monthly Newsletter,4250,true,27
+Monthly Newsletter,4125,false,29
+Monthly Newsletter,4125,true,24
+Monthly Newsletter,4500,false,21
+Monthly Newsletter,4500,true,32
+Monthly Newsletter,4750,false,25
+Monthly Newsletter,4750,true,27
+Monthly Newsletter,4875,false,17
+Monthly Newsletter,4875,true,32
+Monthly Newsletter,4625,false,19
+Monthly Newsletter,4625,true,28
+Monthly Newsletter,3625,false,18
+Monthly Newsletter,3625,true,28
+Monthly Newsletter,4375,false,24
+Monthly Newsletter,4375,true,20
+Monthly Newsletter,2625,false,5
+Monthly Newsletter,2625,true,5
+Monthly Newsletter,2750,false,3
+Monthly Newsletter,2750,true,6
+Monthly Newsletter,2875,false,4
+Monthly Newsletter,2875,true,3
+Monthly Newsletter,3000,false,1
+Monthly Newsletter,3000,true,3
+Monthly Newsletter,2500,false,2
+Monthly Newsletter,2500,true,1
+Monthly Newsletter,1875,false,
+Monthly Newsletter,1875,true,2
+Monthly Newsletter,5250,false,1
+Monthly Newsletter,5250,true,1
+Monthly Newsletter,5500,false,1
+Monthly Newsletter,5500,true,1
+Monthly Newsletter,5750,false,2
+Monthly Newsletter,5750,true,
+Monthly Newsletter,6125,false,1
+Monthly Newsletter,6125,true,
+New Product Releases,1000,false,9
+New Product Releases,1000,true,18
+New Product Releases,2750,false,8
+New Product Releases,2750,true,17
+New Product Releases,5125,false,12
+New Product Releases,5125,true,12
+New Product Releases,2500,false,8
+New Product Releases,2500,true,15
+New Product Releases,4750,false,14
+New Product Releases,4750,true,9
+New Product Releases,6000,false,11
+New Product Releases,6000,true,12
+New Product Releases,3000,false,12
+New Product Releases,3000,true,10
+New Product Releases,3500,false,12
+New Product Releases,3500,true,10
+New Product Releases,3625,false,7
+New Product Releases,3625,true,15
+New Product Releases,2625,false,5
+New Product Releases,2625,true,16
+New Product Releases,3375,false,5
+New Product Releases,3375,true,16
+New Product Releases,5500,false,5
+New Product Releases,5500,true,16
+New Product Releases,875,false,13
+New Product Releases,875,true,7
+New Product Releases,3750,false,11
+New Product Releases,3750,true,9
+New Product Releases,4375,false,8
+New Product Releases,4375,true,12
+New Product Releases,4625,false,7
+New Product Releases,4625,true,13
+New Product Releases,1125,false,8
+New Product Releases,1125,true,11
+New Product Releases,4875,false,14
+New Product Releases,4875,true,5
+New Product Releases,5625,false,10
+New Product Releases,5625,true,9
+New Product Releases,5750,false,8
+New Product Releases,5750,true,11
+New Product Releases,2875,false,7
+New Product Releases,2875,true,11
+New Product Releases,4000,false,8
+New Product Releases,4000,true,10
+New Product Releases,4125,false,7
+New Product Releases,4125,true,11
+New Product Releases,3875,false,12
+New Product Releases,3875,true,5
+New Product Releases,4250,false,9
+New Product Releases,4250,true,8
+New Product Releases,5250,false,11
+New Product Releases,5250,true,6
+New Product Releases,6125,false,10
+New Product Releases,6125,true,7
+New Product Releases,3250,false,7
+New Product Releases,3250,true,9
+New Product Releases,5375,false,9
+New Product Releases,5375,true,7
+New Product Releases,750,false,6
+New Product Releases,750,true,9
+New Product Releases,5000,false,8
+New Product Releases,5000,true,7
+New Product Releases,625,false,4
+New Product Releases,625,true,10
+New Product Releases,3125,false,4
+New Product Releases,3125,true,10
+New Product Releases,5875,false,6
+New Product Releases,5875,true,8
+New Product Releases,4500,false,5
+New Product Releases,4500,true,8
+New Product Releases,500,false,6
+New Product Releases,500,true,5
+New Product Releases,2000,false,2
+New Product Releases,2000,true,8
+New Product Releases,2125,false,2
+New Product Releases,2125,true,8
+New Product Releases,2250,false,3
+New Product Releases,2250,true,7
+New Product Releases,250,false,3
+New Product Releases,250,true,5
+New Product Releases,1625,false,4
+New Product Releases,1625,true,4
+New Product Releases,2375,false,2
+New Product Releases,2375,true,6
+New Product Releases,1250,false,4
+New Product Releases,1250,true,3
+New Product Releases,1500,false,5
+New Product Releases,1500,true,2
+New Product Releases,1875,false,3
+New Product Releases,1875,true,3
+New Product Releases,125,false,3
+New Product Releases,125,true,2
+New Product Releases,1375,false,3
+New Product Releases,1375,true,2
+New Product Releases,375,false,3
+New Product Releases,375,true,1
+New Product Releases,1750,false,1
+New Product Releases,1750,true,3
+Customer Care Campaign,3000,false,23
+Customer Care Campaign,3000,true,24
+Customer Care Campaign,3625,false,27
+Customer Care Campaign,3625,true,18
+Customer Care Campaign,4000,false,24
+Customer Care Campaign,4000,true,21
+Customer Care Campaign,4250,false,18
+Customer Care Campaign,4250,true,27
+Customer Care Campaign,3250,false,26
+Customer Care Campaign,3250,true,17
+Customer Care Campaign,3500,false,25
+Customer Care Campaign,3500,true,18
+Customer Care Campaign,2625,false,22
+Customer Care Campaign,2625,true,19
+Customer Care Campaign,4125,false,28
+Customer Care Campaign,4125,true,13
+Customer Care Campaign,2500,false,23
+Customer Care Campaign,2500,true,17
+Customer Care Campaign,2750,false,27
+Customer Care Campaign,2750,true,12
+Customer Care Campaign,3375,false,17
+Customer Care Campaign,3375,true,21
+Customer Care Campaign,2875,false,20
+Customer Care Campaign,2875,true,17
+Customer Care Campaign,3125,false,24
+Customer Care Campaign,3125,true,11
+Customer Care Campaign,3875,false,19
+Customer Care Campaign,3875,true,13
+Customer Care Campaign,3750,false,16
+Customer Care Campaign,3750,true,12
+Customer Care Campaign,1750,false,2
+Customer Care Campaign,1750,true,14
+Customer Care Campaign,1375,false,2
+Customer Care Campaign,1375,true,11
+Customer Care Campaign,1500,false,2
+Customer Care Campaign,1500,true,9
+Customer Care Campaign,2375,false,4
+Customer Care Campaign,2375,true,7
+Customer Care Campaign,1250,false,1
+Customer Care Campaign,1250,true,9
+Customer Care Campaign,1625,false,3
+Customer Care Campaign,1625,true,7
+Customer Care Campaign,2250,false,1
+Customer Care Campaign,2250,true,8
+Customer Care Campaign,2000,false,2
+Customer Care Campaign,2000,true,6
+Customer Care Campaign,4375,false,4
+Customer Care Campaign,4375,true,3
+Customer Care Campaign,4500,false,3
+Customer Care Campaign,4500,true,4
+Customer Care Campaign,1875,false,2
+Customer Care Campaign,1875,true,3
+Customer Care Campaign,5000,false,2
+Customer Care Campaign,5000,true,3
+Customer Care Campaign,625,false,1
+Customer Care Campaign,625,true,3
+Customer Care Campaign,750,false,3
+Customer Care Campaign,750,true,1
+Customer Care Campaign,875,false,
+Customer Care Campaign,875,true,4
+Customer Care Campaign,1125,false,1
+Customer Care Campaign,1125,true,3
+Customer Care Campaign,4625,false,1
+Customer Care Campaign,4625,true,3
+Customer Care Campaign,1000,false,1
+Customer Care Campaign,1000,true,2
+Customer Care Campaign,4875,false,1
+Customer Care Campaign,4875,true,2
+Customer Care Campaign,5125,false,1
+Customer Care Campaign,5125,true,2
+Customer Care Campaign,5875,false,2
+Customer Care Campaign,5875,true,1
+Customer Care Campaign,6000,false,3
+Customer Care Campaign,6000,true,
+Customer Care Campaign,4750,false,2
+Customer Care Campaign,4750,true,
+Customer Care Campaign,5500,false,
+Customer Care Campaign,5500,true,2
+Customer Care Campaign,2125,false,
+Customer Care Campaign,2125,true,1
+Customer Care Campaign,6125,false,1
+Customer Care Campaign,6125,true,
+Consumer Tradeshow,3125,false,10
+Consumer Tradeshow,3125,true,16
+Consumer Tradeshow,3375,false,10
+Consumer Tradeshow,3375,true,16
+Consumer Tradeshow,3250,false,10
+Consumer Tradeshow,3250,true,14
+Consumer Tradeshow,3000,false,7
+Consumer Tradeshow,3000,true,16
+Consumer Tradeshow,3875,false,4
+Consumer Tradeshow,3875,true,17
+Consumer Tradeshow,3500,false,6
+Consumer Tradeshow,3500,true,14
+Consumer Tradeshow,4000,false,5
+Consumer Tradeshow,4000,true,15
+Consumer Tradeshow,3625,false,6
+Consumer Tradeshow,3625,true,13
+Consumer Tradeshow,4500,false,6
+Consumer Tradeshow,4500,true,12
+Consumer Tradeshow,4125,false,4
+Consumer Tradeshow,4125,true,13
+Consumer Tradeshow,1625,false,1
+Consumer Tradeshow,1625,true,14
+Consumer Tradeshow,2125,false,7
+Consumer Tradeshow,2125,true,8
+Consumer Tradeshow,3750,false,5
+Consumer Tradeshow,3750,true,10
+Consumer Tradeshow,1500,false,3
+Consumer Tradeshow,1500,true,11
+Consumer Tradeshow,2750,false,8
+Consumer Tradeshow,2750,true,6
+Consumer Tradeshow,2875,false,8
+Consumer Tradeshow,2875,true,6
+Consumer Tradeshow,4375,false,2
+Consumer Tradeshow,4375,true,12
+Consumer Tradeshow,4875,false,5
+Consumer Tradeshow,4875,true,9
+Consumer Tradeshow,2625,false,8
+Consumer Tradeshow,2625,true,5
+Consumer Tradeshow,6125,false,3
+Consumer Tradeshow,6125,true,10
+Consumer Tradeshow,1250,false,1
+Consumer Tradeshow,1250,true,11
+Consumer Tradeshow,1875,false,5
+Consumer Tradeshow,1875,true,7
+Consumer Tradeshow,2000,false,6
+Consumer Tradeshow,2000,true,6
+Consumer Tradeshow,4625,false,4
+Consumer Tradeshow,4625,true,8
+Consumer Tradeshow,4750,false,2
+Consumer Tradeshow,4750,true,10
+Consumer Tradeshow,5875,false,4
+Consumer Tradeshow,5875,true,8
+Consumer Tradeshow,1375,false,4
+Consumer Tradeshow,1375,true,7
+Consumer Tradeshow,2250,false,4
+Consumer Tradeshow,2250,true,7
+Consumer Tradeshow,2500,false,3
+Consumer Tradeshow,2500,true,8
+Consumer Tradeshow,5750,false,2
+Consumer Tradeshow,5750,true,9
+Consumer Tradeshow,2375,false,4
+Consumer Tradeshow,2375,true,6
+Consumer Tradeshow,5250,false,2
+Consumer Tradeshow,5250,true,8
+Consumer Tradeshow,1750,false,7
+Consumer Tradeshow,1750,true,2
+Consumer Tradeshow,4250,false,4
+Consumer Tradeshow,4250,true,5
+Consumer Tradeshow,5000,false,3
+Consumer Tradeshow,5000,true,6
+Consumer Tradeshow,5125,false,3
+Consumer Tradeshow,5125,true,6
+Consumer Tradeshow,5375,false,2
+Consumer Tradeshow,5375,true,7
+Consumer Tradeshow,6000,false,5
+Consumer Tradeshow,6000,true,3
+Consumer Tradeshow,5500,false,2
+Consumer Tradeshow,5500,true,5
+Consumer Tradeshow,5625,false,3
+Consumer Tradeshow,5625,true,4
+Consumer Tradeshow,1000,false,
+Consumer Tradeshow,1000,true,4
+Consumer Tradeshow,1125,false,
+Consumer Tradeshow,1125,true,3
+Consumer Tradeshow,875,false,
+Consumer Tradeshow,875,true,2
+Consumer Tradeshow,625,false,
+Consumer Tradeshow,625,true,1
+Customer Follow-up,4875,false,17
+Customer Follow-up,4875,true,28
+Customer Follow-up,3875,false,19
+Customer Follow-up,3875,true,25
+Customer Follow-up,3625,false,19
+Customer Follow-up,3625,true,23
+Customer Follow-up,4750,false,15
+Customer Follow-up,4750,true,27
+Customer Follow-up,4625,false,15
+Customer Follow-up,4625,true,26
+Customer Follow-up,3750,false,16
+Customer Follow-up,3750,true,23
+Customer Follow-up,3125,false,20
+Customer Follow-up,3125,true,17
+Customer Follow-up,3375,false,10
+Customer Follow-up,3375,true,26
+Customer Follow-up,4375,false,15
+Customer Follow-up,4375,true,20
+Customer Follow-up,4500,false,22
+Customer Follow-up,4500,true,12
+Customer Follow-up,4125,false,15
+Customer Follow-up,4125,true,18
+Customer Follow-up,3250,false,13
+Customer Follow-up,3250,true,19
+Customer Follow-up,4000,false,15
+Customer Follow-up,4000,true,16
+Customer Follow-up,4250,false,13
+Customer Follow-up,4250,true,18
+Customer Follow-up,3500,false,12
+Customer Follow-up,3500,true,14
+Market Trends Newsletter,750,false,16
+Market Trends Newsletter,750,true,21
+Market Trends Newsletter,625,false,17
+Market Trends Newsletter,625,true,16
+Market Trends Newsletter,875,false,17
+Market Trends Newsletter,875,true,14
+Market Trends Newsletter,1000,false,17
+Market Trends Newsletter,1000,true,13
+Market Trends Newsletter,125,false,12
+Market Trends Newsletter,125,true,16
+Market Trends Newsletter,250,false,16
+Market Trends Newsletter,250,true,9
+Market Trends Newsletter,1125,false,12
+Market Trends Newsletter,1125,true,13
+Market Trends Newsletter,500,false,11
+Market Trends Newsletter,500,true,13
+Market Trends Newsletter,375,false,10
+Market Trends Newsletter,375,true,10
+Market Trends Newsletter,3500,false,4
+Market Trends Newsletter,3500,true,16
+Market Trends Newsletter,3250,false,6
+Market Trends Newsletter,3250,true,13
+Market Trends Newsletter,2875,false,3
+Market Trends Newsletter,2875,true,14
+Market Trends Newsletter,3125,false,6
+Market Trends Newsletter,3125,true,9
+Market Trends Newsletter,3000,false,5
+Market Trends Newsletter,3000,true,9
+Market Trends Newsletter,1250,false,4
+Market Trends Newsletter,1250,true,9
+Market Trends Newsletter,2750,false,6
+Market Trends Newsletter,2750,true,6
+Market Trends Newsletter,2375,false,4
+Market Trends Newsletter,2375,true,7
+Market Trends Newsletter,2625,false,4
+Market Trends Newsletter,2625,true,7
+Market Trends Newsletter,3375,false,3
+Market Trends Newsletter,3375,true,8
+Market Trends Newsletter,1500,false,6
+Market Trends Newsletter,1500,true,4
+Market Trends Newsletter,3625,false,2
+Market Trends Newsletter,3625,true,8
+Market Trends Newsletter,1875,false,3
+Market Trends Newsletter,1875,true,6
+Market Trends Newsletter,2125,false,2
+Market Trends Newsletter,2125,true,7
+Market Trends Newsletter,1625,false,2
+Market Trends Newsletter,1625,true,5
+Market Trends Newsletter,1375,false,2
+Market Trends Newsletter,1375,true,4
+Market Trends Newsletter,1750,false,4
+Market Trends Newsletter,1750,true,2
+Market Trends Newsletter,2500,false,2
+Market Trends Newsletter,2500,true,4
+Market Trends Newsletter,2250,false,1
+Market Trends Newsletter,2250,true,4
+Market Trends Newsletter,5500,false,2
+Market Trends Newsletter,5500,true,3
+Market Trends Newsletter,5750,false,1
+Market Trends Newsletter,5750,true,4
+Market Trends Newsletter,2000,false,
+Market Trends Newsletter,2000,true,4
+Market Trends Newsletter,3750,false,1
+Market Trends Newsletter,3750,true,3
+Market Trends Newsletter,4250,false,1
+Market Trends Newsletter,4250,true,3
+Market Trends Newsletter,5375,false,2
+Market Trends Newsletter,5375,true,2
+Market Trends Newsletter,6125,false,2
+Market Trends Newsletter,6125,true,2
+Market Trends Newsletter,4125,false,1
+Market Trends Newsletter,4125,true,2
+Market Trends Newsletter,4625,false,3
+Market Trends Newsletter,4625,true,
+Market Trends Newsletter,4375,false,
+Market Trends Newsletter,4375,true,2
+Market Trends Newsletter,5125,false,1
+Market Trends Newsletter,5125,true,1
+Market Trends Newsletter,5625,false,1
+Market Trends Newsletter,5625,true,1
+Market Trends Newsletter,5875,false,2
+Market Trends Newsletter,5875,true,
+Market Trends Newsletter,3875,false,1
+Market Trends Newsletter,3875,true,
+Market Trends Newsletter,4000,false,1
+Market Trends Newsletter,4000,true,
+Market Trends Newsletter,4750,false,
+Market Trends Newsletter,4750,true,1
+Market Trends Newsletter,5000,false,
+Market Trends Newsletter,5000,true,1
+Twitter,875,false,11
+Twitter,875,true,15
+Twitter,500,false,12
+Twitter,500,true,11
+Twitter,125,false,9
+Twitter,125,true,13
+Twitter,375,false,10
+Twitter,375,true,9
+Twitter,750,false,8
+Twitter,750,true,9
+Twitter,1000,false,4
+Twitter,1000,true,12
+Twitter,1125,false,9
+Twitter,1125,true,6
+Twitter,625,false,7
+Twitter,625,true,7
+Twitter,1500,false,7
+Twitter,1500,true,5
+Twitter,2000,false,7
+Twitter,2000,true,5
+Twitter,2750,false,5
+Twitter,2750,true,7
+Twitter,250,false,7
+Twitter,250,true,4
+Twitter,2625,false,5
+Twitter,2625,true,5
+Twitter,3000,false,1
+Twitter,3000,true,8
+Twitter,1250,false,5
+Twitter,1250,true,3
+Twitter,2875,false,2
+Twitter,2875,true,6
+Twitter,1625,false,2
+Twitter,1625,true,5
+Twitter,2500,false,6
+Twitter,2500,true,1
+Twitter,3125,false,3
+Twitter,3125,true,4
+Twitter,3250,false,6
+Twitter,3250,true,1
+Twitter,3500,false,4
+Twitter,3500,true,3
+Twitter,1375,false,1
+Twitter,1375,true,5
+Twitter,2250,false,3
+Twitter,2250,true,3
+Twitter,2375,false,1
+Twitter,2375,true,5
+Twitter,3375,false,
+Twitter,3375,true,6
+Twitter,3625,false,4
+Twitter,3625,true,2
+Twitter,5125,false,4
+Twitter,5125,true,2
+Twitter,1750,false,4
+Twitter,1750,true,1
+Twitter,1875,false,1
+Twitter,1875,true,4
+Twitter,2125,false,4
+Twitter,2125,true,1
+Twitter,5875,false,2
+Twitter,5875,true,3
+Twitter,4750,false,2
+Twitter,4750,true,2
+Twitter,5625,false,1
+Twitter,5625,true,3
+Twitter,4000,false,
+Twitter,4000,true,3
+Twitter,4125,false,2
+Twitter,4125,true,1
+Twitter,4625,false,3
+Twitter,4625,true,
+Twitter,5250,false,2
+Twitter,5250,true,1
+Twitter,3750,false,
+Twitter,3750,true,2
+Twitter,4500,false,
+Twitter,4500,true,2
+Twitter,5500,false,1
+Twitter,5500,true,1
+Twitter,6000,false,1
+Twitter,6000,true,1
+Twitter,3875,false,1
+Twitter,3875,true,
+Twitter,4250,false,
+Twitter,4250,true,1
+Twitter,4375,false,
+Twitter,4375,true,1
+Twitter,4875,false,1
+Twitter,4875,true,
+Twitter,5375,false,
+Twitter,5375,true,1
+Twitter,5750,false,
+Twitter,5750,true,1
+Twitter,6125,false,
+Twitter,6125,true,1
