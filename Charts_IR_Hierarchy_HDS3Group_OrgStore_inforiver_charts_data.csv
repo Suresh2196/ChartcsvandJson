@@ -5,32 +5,117 @@ United States of America,Amarilla,High,Government,83160,70200
 United States of America,Amarilla,High,Midmarket,76346.92499999999,57475
 United States of America,Amarilla,High,Small Business,808110,748250
 United States of America,Amarilla,Low,Channel Partners,23629.32,5967
+United States of America,Amarilla,Low,Enterprise,,
 United States of America,Amarilla,Low,Government,24225.6,12360
 United States of America,Amarilla,Low,Midmarket,9662.4,6710
+United States of America,Amarilla,Low,Small Business,,
+United States of America,Amarilla,Medium,Channel Partners,,
+United States of America,Amarilla,Medium,Enterprise,,
+United States of America,Amarilla,Medium,Government,941106.38,754835
+United States of America,Amarilla,Medium,Midmarket,,
+United States of America,Amarilla,Medium,Small Business,382788,343000
+United States of America,Amarilla,None,Channel Partners,49128,12282
+United States of America,Amarilla,None,Enterprise,,
+United States of America,Amarilla,None,Government,8001,5715
+United States of America,Amarilla,None,Midmarket,9225,6150
+United States of America,Carretera,High,Channel Partners,4168.8,1158
+United States of America,Carretera,High,Enterprise,387618.75,413460
+United States of America,Carretera,High,Government,48015.52,32410
+United States of America,Carretera,High,Midmarket,33499.35,25670
+United States of America,Carretera,High,Small Business,260580,252500
 Canada,Amarilla,High,Channel Partners,67177.56,18844.5
 Canada,Amarilla,High,Enterprise,180416.25,199080
 Canada,Amarilla,High,Government,945146.44,779890
 Canada,Amarilla,High,Midmarket,22484.7,17430
 Canada,Amarilla,High,Small Business,229104,222000
+Canada,Amarilla,Low,Channel Partners,,
+Canada,Amarilla,Low,Enterprise,,
 Canada,Amarilla,Low,Government,597408,462280
+Canada,Amarilla,Low,Midmarket,,
 Canada,Amarilla,Low,Small Business,563304,479000
+Canada,Amarilla,Medium,Channel Partners,,
+Canada,Amarilla,Medium,Enterprise,191231.25,197400
+Canada,Amarilla,Medium,Government,1037237.35,816675
+Canada,Amarilla,Medium,Midmarket,22256.324999999997,16305
+Canada,Amarilla,Medium,Small Business,,
+Canada,Amarilla,None,Channel Partners,,
+Canada,Amarilla,None,Enterprise,,
+Canada,Amarilla,None,Government,,
+Canada,Amarilla,None,Midmarket,,
+Canada,Carretera,High,Channel Partners,20687.16,5811
+Canada,Carretera,High,Enterprise,265760,289920
+Canada,Carretera,High,Government,281053.5,239980
+Canada,Carretera,High,Midmarket,85990.8,65490
+Canada,Carretera,High,Small Business,385968,374000
 France,Amarilla,High,Channel Partners,39917.76,11604
 France,Amarilla,High,Enterprise,159421.25,171960
 France,Amarilla,High,Government,38744.16,31712.5
 France,Amarilla,High,Midmarket,27972,20720
 France,Amarilla,High,Small Business,861435,832000
+France,Amarilla,Low,Channel Partners,,
+France,Amarilla,Low,Enterprise,,
 France,Amarilla,Low,Government,18443.6,9410
 France,Amarilla,Low,Midmarket,4766.85,3210
+France,Amarilla,Low,Small Business,,
+France,Amarilla,Medium,Channel Partners,3341.52,918
+France,Amarilla,Medium,Enterprise,233531.25,238500
+France,Amarilla,Medium,Government,1628373.74,1294535
+France,Amarilla,Medium,Midmarket,,
+France,Amarilla,Medium,Small Business,,
+France,Amarilla,None,Channel Partners,,
+France,Amarilla,None,Enterprise,,
+France,Amarilla,None,Government,1000480,733990
+France,Amarilla,None,Midmarket,,
+France,Carretera,High,Channel Partners,12794.64,3594
+France,Carretera,High,Enterprise,672996.25,734400
+France,Carretera,High,Government,589433.4,490615
+France,Carretera,High,Midmarket,,
+France,Carretera,High,Small Business,,
 Germany,Amarilla,High,Channel Partners,51318.96000000001,14448
 Germany,Amarilla,High,Enterprise,352106.25,379800
+Germany,Amarilla,High,Government,,
+Germany,Amarilla,High,Midmarket,,
+Germany,Amarilla,High,Small Business,,
+Germany,Amarilla,Low,Channel Partners,,
 Germany,Amarilla,Low,Enterprise,278810,273120
 Germany,Amarilla,Low,Government,1658090,1266980
+Germany,Amarilla,Low,Midmarket,,
 Germany,Amarilla,Low,Small Business,76146,64750
+Germany,Amarilla,Medium,Channel Partners,,
+Germany,Amarilla,Medium,Enterprise,115552.5,119280
+Germany,Amarilla,Medium,Government,509684.75,385655
+Germany,Amarilla,Medium,Midmarket,23052.3,16810
+Germany,Amarilla,Medium,Small Business,356250,312500
+Germany,Amarilla,None,Channel Partners,,
+Germany,Amarilla,None,Enterprise,527437.5,506340
+Germany,Amarilla,None,Government,11802,8430
+Germany,Amarilla,None,Midmarket,,
+Germany,Carretera,High,Channel Partners,,
+Germany,Carretera,High,Enterprise,409275,462240
+Germany,Carretera,High,Government,256084.4,211740
+Germany,Carretera,High,Midmarket,19517.7,15130
+Germany,Carretera,High,Small Business,750537,702750
 Mexico,Amarilla,High,Channel Partners,4280.4,1230
 Mexico,Amarilla,High,Enterprise,105353.75,113640
 Mexico,Amarilla,High,Government,201050.74000000002,144755
 Mexico,Amarilla,High,Midmarket,52918.95,40270
 Mexico,Amarilla,High,Small Business,139230,136500
+Mexico,Amarilla,Low,Channel Partners,,
 Mexico,Amarilla,Low,Enterprise,128880,128880
 Mexico,Amarilla,Low,Government,626640,484900
+Mexico,Amarilla,Low,Midmarket,,
 Mexico,Amarilla,Low,Small Business,323694,275250
+Mexico,Amarilla,Medium,Channel Partners,27982.2,7494
+Mexico,Amarilla,Medium,Enterprise,,
+Mexico,Amarilla,Medium,Government,613305.35,472275
+Mexico,Amarilla,Medium,Midmarket,,
+Mexico,Amarilla,Medium,Small Business,854220,773750
+Mexico,Amarilla,None,Channel Partners,,
+Mexico,Amarilla,None,Enterprise,,
+Mexico,Amarilla,None,Government,,
+Mexico,Amarilla,None,Midmarket,,
+Mexico,Carretera,High,Channel Partners,,
+Mexico,Carretera,High,Enterprise,540417.5,597240
+Mexico,Carretera,High,Government,334105.18,269680
+Mexico,Carretera,High,Midmarket,,
+Mexico,Carretera,High,Small Business,206658,200250
