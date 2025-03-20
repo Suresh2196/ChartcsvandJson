@@ -1,0 +1,18 @@
+Orders.Sub-Category,Sum(Orders.Profit),Sum(Orders.Quantity),Sum(Orders.Discount),Sum(Orders.Sales),CountNonNull(Orders.Ship Date),Min(Orders.Product Name)
+Copiers,55617.82490000005,234,0,149528.03,68,Brother DCP1000 Digital 3 in 1 Multifunction Machine
+Phones,44515.73060000001,3289,0,330007.054,889,Aastra 57i VoIP phone
+Accessories,41936.63569999995,2976,0,167380.318,775,AmazonBasics 3-Button USB Wired Mouse
+Paper,34053.569299999974,5178,0,78479.206,1370,"""While you Were Out"" Message Book, One Form per Page"
+Binders,30221.7633,5974,613,203412.733,1523,3M Organizer Strips
+Chairs,26590.166300000037,2356,0,328449.103,617,Bevis Steel Folding Chairs
+Storage,21278.826400000005,3158,0,223843.608,846,2300 Heavy-Duty Transfer File Systems by Perma
+Appliances,18138.00540000001,1729,67,107532.161,466,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators"
+Furnishings,13059.143600000003,3563,138,91705.164,957,12-1/2 Diameter Round Wall Clock
+Envelopes,6964.176699999998,906,0,16476.402,254,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes"
+Art,6527.786999999999,3000,0,27118.792,796,12 Colored Short Pencils
+Labels,5546.2540000000035,1400,0,12486.312,364,Alphabetical Labels for Top Tab Filing
+Machines,3384.7569000000053,440,23,189238.631,115,"3D Systems Cube Printer, 2nd Generation, Magenta"
+Fasteners,949.5181999999998,914,0,3024.28,217,"Acco Banker's Clasps, 5 3/4""-Long"
+Supplies,-1189.0994999999987,647,0,46673.538,190,Acco Side-Punched Conventional Columnar Pads
+Bookcases,-3472.5560000000005,868,15,114879.9963,228,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors"
+Tables,-17725.48110000002,1241,0,206965.532,319,Anderson Hickey Conga Table Tops & Accessories
